@@ -3,7 +3,7 @@
 The is a repository containing the code to analyze the Danish Superliga transfer windows from 2010 to 2021.
 
 A Danish version blog post can be found on my website [here](http://roensholt-stats.com/2021-09-18-Superliga-Transfers/),
-where I put some words on the visualisation which can be found in the `output` folder.
+where I put some words on the visualizations which can be found in the `output` folder.
 
 ---------------
 
