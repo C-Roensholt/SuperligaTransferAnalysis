@@ -16,5 +16,6 @@ The repository consists of to folders `data` and `output`, and the main repo con
 
 --------------
 
-This project is hugely inspired by the piece from [Tom Worville](https://twitter.com/Worville) in [The Athletic](https://theathletic.com/2802812/2021/09/02/transfer-window-analysed-less-spent-young-players-targeted-and-free-agents-have-defined-key-moves/?article_source=search&search_query=tow%20worville)
+This project is hugely inspired by the piece from [Tom Worville](https://twitter.com/Worville) in [The Athletic](https://theathletic.com/2802812/2021/09/02/transfer-window-analysed-less-spent-young-players-targeted-and-free-agents-have-defined-key-moves/?article_source=search&search_query=tow%20worville).
+
 Furthermore, a huge thanks to [danzn1](https://twitter.com/danzn1) GitHub repository [tmscrape](https://github.com/znstrider/tmscrape) and FcRstats [tyrone_mings](https://github.com/FCrSTATS/tyrone_mings) package which I both have used in order to gather the data for the analysis.
