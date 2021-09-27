@@ -1,0 +1,1657 @@
+,Team,Name,Age,Position,Nation,Market Value,Left / Joined Club,Left / Joined Country,Transfer Fee,In or Out,season
+0,AIK,Mohamed Bangura,20,Left Winger,Sierra Leone,0,Kallon FC,Sierra Leone,70000,in,2010
+1,AIK,Nicklas Maripuu,18,Defensive Midfield,Sweden,150000,AFC Eskilstuna,Sweden,free transfer,in,2010
+2,AIK,Admir Catovic,22,Centre-Forward,Sweden,0,AFC Eskilstuna,Sweden,free transfer,in,2010
+3,AIK,Robert Ahman-Persson,23,Defensive Midfield,Sweden,0,Malmö FF,Sweden,free transfer,in,2010
+4,AIK,Goran Ljubojevic,27,Centre-Forward,Croatia,0,NK Zagreb,Croatia,free transfer,in,2010
+5,AIK,Helgi Danielsson,31,Defensive Midfield,Iceland,25000,Hansa Rostock,Germany,free transfer,in,2010
+6,AIK,Ivan Turina,29,Goalkeeper,Croatia,0,Dinamo Zagreb,Croatia,0,in,2010
+7,AIK,Saihou Jagne,23,Right Winger,The Gambia,275000,GIF Sundsvall,Sweden,"End of loanAug 1, 2010",in,2010
+8,AIK,Martin Mutumba,25,Left Midfield,Uganda,0,Videoton FC,Hungary,400000,out,2010
+9,AIK,Bojan Djordjic,28,Left Winger,Sweden,0,Videoton FC,Hungary,300000,out,2010
+10,AIK,Jorge Ortiz,26,Central Midfield,Argentina,50000,Arsenal Sarandí,Argentina,free transfer,out,2010
+11,AIK,Miran Burgic,25,Centre-Forward,Slovenia,0,FC Wacker,Austria,free transfer,out,2010
+12,AIK,Kevin Walker,21,Defensive Midfield,Sweden,250000,Assyriska FF,Sweden,loan transfer,out,2010
+13,AIK,Clécio,22,Defensive Midfield,Brazil,0,Morrinhos-GO,Brazil,"End of loanJun 30, 2010",out,2010
+14,AIK,Sebastián Eguren,29,Defensive Midfield,Uruguay,0,Villarreal,Spain,"End of loanJun 30, 2010",out,2010
+15,Malmö FF,Robert Ahman-Persson,23,Defensive Midfield,Sweden,0,AIK,Sweden,free transfer,out,2010
+16,Malmö FF,Edward Ofere,24,Centre-Forward,Nigeria,200000,Lecce,Italy,0,out,2010
+17,Helsingborgs IF,Alexander Gerndt,23,Centre-Forward,Sweden,200000,Gefle,Sweden,500000,in,2010
+18,Helsingborgs IF,Mohamed Ramadan,19,Centre-Forward,Lebanon,75000,Kvarnby IK,Sweden,0,in,2010
+19,Helsingborgs IF,René Makondele,28,Left Winger,DR Congo,0,Häcken,Sweden,500000,out,2010
+20,Helsingborgs IF,Samuel Aziz,19,Centre-Forward,Sweden,75000,Varbergs BoIS,Sweden,free transfer,out,2010
+21,Helsingborgs IF,Mohamed Ramadan,20,Centre-Forward,Lebanon,75000,Ängelholm,Sweden,loan transfer,out,2010
+22,Helsingborgs IF,Samuel Aziz,19,Centre-Forward,Sweden,75000,Ängelholm,Sweden,loan transfer,out,2010
+23,Helsingborgs IF,Rachid Bouaouzan,26,Left Midfield,Netherlands,0,Wigan,England,"End of loanJun 30, 2010",out,2010
+24,Trelleborgs FF,Ade Runsewe,20,Right Winger,Nigeria,100000,FC Hjörring,Denmark,free transfer,in,2010
+25,Trelleborgs FF,Ibrahim Koroma,21,Defensive Midfield,Sierra Leone,0,Motala AIF,Sweden,0,in,2010
+26,Trelleborgs FF,Tuomo Turunen,22,Centre-Back,Finland,0,IFK Göteborg,Sweden,loan transfer,in,2010
+27,Trelleborgs FF,Rasmus Östman,22,Attacking Midfield,Sweden,0,Brage,Sweden,"End of loanJun 30, 2010",in,2010
+28,IFK Göteborg,August Strömberg,18,Goalkeeper,Sweden,150000,IFK U19,Sweden,0,in,2010
+29,IFK Göteborg,Joel Allansson,17,Central Midfield,Sweden,400000,IFK U19,Sweden,0,in,2010
+30,IFK Göteborg,Niclas Andersén,17,Left-Back,Sweden,150000,IFK U19,Sweden,0,in,2010
+31,IFK Göteborg,Kim Christensen,30,Goalkeeper,Denmark,0,FC Copenhagen,Denmark,400000,out,2010
+32,IFK Göteborg,Fredrik Risp,29,Centre-Back,Sweden,0,Esbjerg fB,Denmark,free transfer,out,2010
+33,IFK Göteborg,Gustav Svensson,23,Defensive Midfield,Sweden,300000,Bursaspor,Turkey,0,out,2010
+34,IFK Göteborg,Tuomo Turunen,22,Centre-Back,Finland,0,Trelleborg,Sweden,loan transfer,out,2010
+35,Halmstads BK,Guri Baqaj,19,Centre-Forward,Kosovo,0,UC AlbinoLeffe,Italy,loan transfer,in,2010
+36,Halmstads BK,Michael Thomas,22,Defensive Midfield,United States,175000,Ljungskile,Sweden,free transfer,out,2010
+37,Halmstads BK,Nauzet Pérez,26,Goalkeeper,Spain,150000,No club,No country,0,out,2010
+38,Halmstads BK,Iván Díaz,32,Central Midfield,Spain,0,No club,No country,0,out,2010
+39,Djurgardens IF,Daniel Jarl,18,Centre-Back,Sweden,300000,Enköpings SK,Sweden,0,in,2010
+40,Djurgardens IF,Gabriel Ahmed,21,Central Midfield,Ghana,0,MD FF Köping,Sweden,0,in,2010
+41,Djurgardens IF,Lucho,25,Left-Back,Argentina,300000,FC Sheriff,Moldova,loan transfer,in,2010
+42,Djurgardens IF,Shqipran Skeraj,25,Left-Back,Kosovo,0,No club,No country,0,in,2010
+43,Djurgardens IF,Adam Outinen,17,defence,Sweden,0,Sirius,Sweden,free transfer,out,2010
+44,Örebro SK,Astrit Ajdarevic,20,Central Midfield,Albania,150000,Leicester,England,free transfer,in,2010
+45,Örebro SK,Anthony Flood,25,Centre-Forward,Ireland,0,Galway United,Ireland,free transfer,in,2010
+46,Örebro SK,Denis Abdulahi,20,Defensive Midfield,Finland,0,FC Viikingit,Finland,0,in,2010
+47,Örebro SK,Henri Belle,21,Centre-Forward,Cameroon,200000,Union Douala,Cameroon,loan transfer,in,2010
+48,Örebro SK,Simon Nurme,27,Goalkeeper,Sweden,0,No club,No country,0,in,2010
+49,Örebro SK,Kim Olsen,31,Centre-Forward,Denmark,0,Vejle BK,Denmark,0,out,2010
+50,IF Elfsborg,Jesper Christiansen,32,Goalkeeper,Denmark,0,FC Copenhagen,Denmark,670000,in,2010
+51,IF Elfsborg,Jon Jönsson,26,Centre-Back,Sweden,100000,Bröndby IF,Denmark,500000,in,2010
+52,IF Elfsborg,Andréas Klarström,32,Right-Back,Sweden,0,Esbjerg fB,Denmark,free transfer,in,2010
+53,IF Elfsborg,Richard Yarsuvat,18,Centre-Forward,Sweden,250000,IF Elfsborg U19,Sweden,0,in,2010
+54,IF Elfsborg,Anton Wede,20,Left Midfield,Sweden,150000,IF Elfsborg U21,Sweden,0,in,2010
+55,IF Elfsborg,Abbas Hassan,25,Goalkeeper,Lebanon,0,Aalborg BK,Denmark,"End of loanJun 30, 2010",in,2010
+56,IF Elfsborg,Elmin Kurbegovic,23,Defensive Midfield,Sweden,0,Novara,Italy,"End of loanJun 30, 2010",in,2010
+57,IF Elfsborg,Andreas Andersson,20,Goalkeeper,Sweden,200000,FC Trollhättan,Sweden,"End of loanMay 1, 2011",in,2010
+58,IF Elfsborg,Emir Bajrami,22,Right Winger,Sweden,0,Twente FC,Netherlands,3500000,out,2010
+59,IF Elfsborg,Abbas Hassan,25,Goalkeeper,Lebanon,0,Norrköping,Sweden,free transfer,out,2010
+60,IF Elfsborg,Jesper Florén,19,Right-Back,Sweden,50000,GAIS,Sweden,loan transfer,out,2010
+61,BK Häcken,René Makondele,28,Left Winger,DR Congo,0,Helsingborg,Sweden,500000,in,2010
+62,BK Häcken,Kari Arkivuo,27,Left-Back,Finland,0,Go Ahead Eagles,Netherlands,free transfer,in,2010
+63,BK Häcken,Everton,28,Right Midfield,Brazil,0,APO Levadiakos,Greece,free transfer,out,2010
+64,BK Häcken,Jonatan Ask,19,Centre-Back,Sweden,0,Qviding,Sweden,loan transfer,out,2010
+65,BK Häcken,Kayke Rodrigues,22,Centre-Forward,Brazil,600000,Venda Nova-MG,Brazil,"End of loanJun 30, 2010",out,2010
+66,IFK Norrköping,Bruninho,26,Centre-Forward,Brazil,100000,Ceará SC,Brazil,free transfer,in,2010
+67,IFK Norrköping,Abbas Hassan,25,Goalkeeper,Lebanon,0,Elfsborg,Sweden,free transfer,in,2010
+68,IFK Norrköping,Gunnar Thór Gunnarsson,25,Centre-Back,Iceland,25000,KR Reykjavík,Iceland,free transfer,out,2010
+69,IFK Norrköping,Timmy Wilhelmsson,21,Centre-Forward,Sweden,0,Sylvia,Sweden,"End of loanJun 30, 2010",out,2010
+70,Kalmar FF,Johan Bertilsson,22,Second Striker,Sweden,300000,Degerfors,Sweden,0,in,2010
+71,Kalmar FF,Douglas,22,Centre-Forward,Brazil,200000,S. E. R. Santo Ângelo (RS),Brazil,loan transfer,in,2010
+72,Kalmar FF,Daryl Smylie,24,Attacking Midfield,Northern Ireland,250000,Jönköping,Sweden,loan transfer,out,2010
+73,Kalmar FF,Johann Smith,23,Left-Back,United States,100000,No club,No country,0,out,2010
+74,Gefle IF,Alexander Gerndt,23,Centre-Forward,Sweden,200000,Helsingborg,Sweden,500000,out,2010
+75,Gefle IF,Jonatan Berg,25,Right Midfield,Sweden,0,Taranto,Italy,0,out,2010
+76,Gefle IF,Haruna Moshi,26,Attacking Midfield,Tanzania,100000,No club,No country,0,out,2010
+77,Gefle IF,Hans Berggren,38,Centre-Forward,Sweden,0,No club,No country,0,out,2010
+78,GAIS Göteborg,Jimmy Tamandi,30,Right-Back,Sweden,75000,FK Lyn,Norway,free transfer,in,2010
+79,GAIS Göteborg,Jonas Lindberg,21,Centre-Forward,Sweden,100000,Skövde AIK,Sweden,0,in,2010
+80,GAIS Göteborg,Jesper Florén,19,Right-Back,Sweden,50000,Elfsborg,Sweden,loan transfer,in,2010
+81,GAIS Göteborg,Wanderson,24,Centre-Forward,Brazil,0,Ahli,Saudi Arabia,1400000,out,2010
+82,GAIS Göteborg,Kyle Patterson,24,Right Midfield,England,50000,Hednesford,England,free transfer,out,2010
+83,GAIS Göteborg,Tommy Lycén,28,Left Midfield,Sweden,0,Örgryte,Sweden,free transfer,out,2010
+84,Syrianska FC,Imad Zatara,25,Right Midfield,Palästina,0,Nîmes Olympique,France,"End of loanJun 30, 2010",in,2010
+85,Syrianska FC,Tonis Vanna,26,Centre-Back,Estonia,0,Dalkurd,Sweden,free transfer,out,2010
+86,AIK,Edward Owusu,17,Defensive Midfield,Sweden,0,IF Bromma U21,Sweden,0,in,2011
+87,AIK,Lalawélé Atakora,20,Left Winger,Togo,300000,Fredrikstad,Norway,loan transfer,in,2011
+88,AIK,Christian Kouakou,16,Centre-Forward,Sweden,500000,AIK U19,Sweden,0,in,2011
+89,AIK,Teteh Bangura,21,Centre-Forward,Sierra Leone,0,Bursaspor,Turkey,3300000,out,2011
+90,AIK,Mohamed Bangura,22,Left Winger,Sierra Leone,0,Celtic,Scotland,2200000,out,2011
+91,AIK,Kevin Walker,22,Defensive Midfield,Sweden,250000,GIF Sundsvall,Sweden,loan transfer,out,2011
+92,GAIS Göteborg,Wanderson,25,Centre-Forward,Brazil,0,Ahli,Saudi Arabia,800000,in,2011
+93,GAIS Göteborg,Erik Berg,22,Centre-Back,Sweden,0,Falkenberg,Sweden,0,in,2011
+94,GAIS Göteborg,Malkolm Moenza,18,Left-Back,Sweden,200000,GAIS U19,Sweden,0,in,2011
+95,GAIS Göteborg,Johan Martensson,22,Defensive Midfield,Sweden,300000,FC Utrecht,Netherlands,1100000,out,2011
+96,GAIS Göteborg,Razak Omotoyossi,25,Centre-Forward,Benin,0,Syrianska FC,Sweden,free transfer,out,2011
+97,GAIS Göteborg,Johan Rundqvist,20,Centre-Back,Sweden,50000,Qviding,Sweden,loan transfer,out,2011
+98,GAIS Göteborg,Hallgrímur Jónasson,25,Centre-Back,Iceland,50000,SönderjyskE,Denmark,loan transfer,out,2011
+99,GAIS Göteborg,Álvaro Santos,31,Centre-Forward,Brazil,0,Örgryte,Sweden,"End of loanJun 30, 2011",out,2011
+100,GAIS Göteborg,Amadaiya Rennie,21,Right Winger,Liberia,100000,Elfsborg,Sweden,"End of loanJun 30, 2011",out,2011
+101,GAIS Göteborg,Wanderson,25,Centre-Forward,Brazil,0,Ahli,Saudi Arabia,"End of loanJun 30, 2011",out,2011
+102,Atvidabergs FF,Thomas Olsson,35,Central Midfield,Sweden,0,IFK Göteborg,Sweden,loan transfer,in,2011
+103,Atvidabergs FF,Thomas Thudin,38,Goalkeeper,Sweden,0,No club,No country,0,in,2011
+104,Atvidabergs FF,Pontus Hydén,27,Left Midfield,Sweden,0,BK Kenty,Sweden,loan transfer,out,2011
+105,Atvidabergs FF,Thomas Olsson,35,Central Midfield,Sweden,0,IFK Göteborg,Sweden,"End of loanOct 1, 2011",out,2011
+106,Gefle IF,Johan Svantesson,20,Centre-Forward,Sweden,0,No club,No country,free transfer,in,2011
+107,Gefle IF,Simon Lundevall,22,Left Midfield,Sweden,200000,Västerås SK,Sweden,0,in,2011
+108,Gefle IF,James Frempong,22,Right Midfield,Sweden,0,Norrköping,Sweden,0,out,2011
+109,Kalmar FF,Pedro Henrique,25,Centre-Forward,Brazil,0,Volta Redonda,Brazil,free transfer,in,2011
+110,Kalmar FF,Zlatan Azinovic,23,Goalkeeper,Sweden,0,Trelleborg,Sweden,loan transfer,out,2011
+111,Kalmar FF,Daryl Smylie,25,Attacking Midfield,Northern Ireland,250000,Jönköping,Sweden,loan transfer,out,2011
+112,IFK Norrköping,James Frempong,22,Right Midfield,Sweden,0,Gefle,Sweden,0,in,2011
+113,IFK Norrköping,Nikola Tkalcic,21,Right-Back,Croatia,250000,NK Varazdin,Croatia,0,in,2011
+114,IFK Norrköping,Riki Cakic,21,Centre-Forward,Sweden,0,Assyriska FF,Sweden,loan transfer,out,2011
+115,IFK Norrköping,Joonas Tamm,19,Centre-Back,Estonia,500000,Sylvia,Sweden,loan transfer,out,2011
+116,GIF Sundsvall,Pa Dibba,23,Centre-Forward,The Gambia,275000,Haninge/Brandb.,Sweden,0,in,2011
+117,GIF Sundsvall,Kevin Walker,22,Defensive Midfield,Sweden,250000,AIK,Sweden,loan transfer,in,2011
+118,GIF Sundsvall,Alieu Jagne,27,Left Midfield,The Gambia,0,Haukar,Iceland,free transfer,out,2011
+119,GIF Sundsvall,Kristian Ek,22,Centre-Back,Sweden,0,AFC Eskilstuna,Sweden,free transfer,out,2011
+120,Mjällby AIF,Pär Ericsson,22,Centre-Forward,Sweden,0,IFK Göteborg,Sweden,loan transfer,in,2011
+121,Mjällby AIF,Erton Fejzullahu,23,Centre-Forward,Kosovo,300000,NEC Nijmegen,Netherlands,loan transfer,in,2011
+122,Mjällby AIF,Adam Larsson,22,Centre-Back,Sweden,0,Keflavík,Iceland,"End of loanOct 1, 2011",in,2011
+123,Mjällby AIF,Petr Gitselov,28,Right Winger,Russia,0,Fakel Voronezh,Russia,free transfer,out,2011
+124,Mjällby AIF,Andreas Johansson,21,defence,Sweden,0,Kristianstad,Sweden,loan transfer,out,2011
+125,Mjällby AIF,Mostapha El Kabir,22,Centre-Forward,Morocco,100000,Cagliari Calcio,Italy,loan transfer,out,2011
+126,Mjällby AIF,Robin Strömberg,20,Centre-Forward,Sweden,200000,Thór,Iceland,loan transfer,out,2011
+127,Mjällby AIF,Anders Wikström,29,Centre-Back,Sweden,0,Elfsborg,Sweden,"End of loanAug 1, 2011",out,2011
+128,BK Häcken,Andrés Vásquez,23,Left Midfield,Sweden,0,FC Zürich U21,Switzerland,free transfer,in,2011
+129,BK Häcken,Oscar Lewicki,19,Defensive Midfield,Sweden,1700000,FC Bayern II,Germany,free transfer,in,2011
+130,BK Häcken,Wenderson,19,Attacking Midfield,Brazil,0,Cruzeiro U20,Brazil,loan transfer,in,2011
+131,BK Häcken,Robin Eriksson,20,Centre-Forward,Sweden,50000,H'veen/Emmen II,Netherlands,loan transfer,in,2011
+132,BK Häcken,Simon Sandberg,18,Right-Back,Sweden,600000,Häcken U19,Sweden,0,in,2011
+133,BK Häcken,Mathias Ranégie,27,Centre-Forward,Sweden,0,Malmö FF,Sweden,1500000,out,2011
+134,BK Häcken,John Chibuike,22,Second Striker,Nigeria,200000,Rosenborg,Norway,1000000,out,2011
+135,BK Häcken,Robin Jansson,19,Centre-Back,Sweden,750000,FC Trollhättan,Sweden,loan transfer,out,2011
+136,BK Häcken,Jonatan Ask,20,Centre-Back,Sweden,0,Lindome GIF,Sweden,0,out,2011
+137,IF Elfsborg,Zlatan Krizanovic,20,Centre-Forward,Sweden,75000,AZ Alkmaar U19,Netherlands,free transfer,in,2011
+138,IF Elfsborg,Simon Hedlund,19,Centre-Forward,Sweden,1500000,IF Elfsborg U19,Sweden,0,in,2011
+139,IF Elfsborg,Oscar Hiljemark,19,Central Midfield,Sweden,0,IF Elfsborg U19,Sweden,0,in,2011
+140,IF Elfsborg,Amadaiya Rennie,21,Right Winger,Liberia,100000,GAIS,Sweden,"End of loanJun 30, 2011",in,2011
+141,IF Elfsborg,Richard Yarsuvat,19,Centre-Forward,Sweden,250000,Värnamo,Sweden,"End of loanMay 1, 2012",in,2011
+142,IF Elfsborg,Anders Wikström,29,Centre-Back,Sweden,0,Mjällby AIF,Sweden,"End of loanAug 1, 2011",in,2011
+143,IF Elfsborg,Ante Covic,36,Goalkeeper,Australia,0,Melbourne,Australia,free transfer,out,2011
+144,IF Elfsborg,Anton Lans,20,Centre-Back,Sweden,150000,Falkenberg,Sweden,loan transfer,out,2011
+145,IF Elfsborg,Amadaiya Rennie,21,Right Winger,Liberia,100000,Degerfors,Sweden,0,out,2011
+146,IF Elfsborg,Joel Anell,25,Centre-Forward,Sweden,0,Halmstads BK,Sweden,loan transfer,out,2011
+147,IF Elfsborg,James Keene,25,Centre-Forward,England,100000,Fredrikstad,Norway,loan transfer,out,2011
+148,IF Elfsborg,Zlatan Krizanovic,20,Centre-Forward,Sweden,75000,Falkenberg,Sweden,loan transfer,out,2011
+149,IF Elfsborg,Anton Wede,21,Left Midfield,Sweden,150000,Falkenberg,Sweden,loan transfer,out,2011
+150,Örebro SK,Riku Riski,22,Right Winger,Finland,250000,Widzew Lodz,Poland,Loan fee:25000,in,2011
+151,Örebro SK,Eidur Aron Sigurbjörnsson,21,Centre-Back,Iceland,175000,ÍBV,Iceland,0,in,2011
+152,Örebro SK,Brunet Hay,26,Centre-Forward,Panama,150000,San Miguelito,Panama,0,in,2011
+153,Örebro SK,Denis Abdulahi,21,Defensive Midfield,Finland,0,Víkingur,Iceland,"End of loanAug 1, 2011",in,2011
+154,Örebro SK,Michael Almebäck,23,Centre-Back,Sweden,200000,Club Brugge,Belgium,550000,out,2011
+155,Örebro SK,Alejandro Bedoya,24,Central Midfield,United States,600000,Rangers,Scotland,345000,out,2011
+156,Örebro SK,Erik Nilsson,22,Defensive Midfield,Sweden,75000,Ljungskile,Sweden,loan transfer,out,2011
+157,Djurgardens IF,Adama Guira,23,Central Midfield,Burkina Faso,200000,UD Logroñés,Spain,free transfer,in,2011
+158,Djurgardens IF,Peter Nymann,28,Right-Back,Denmark,0,Esbjerg fB,Denmark,free transfer,in,2011
+159,Djurgardens IF,Mehdi Khalil,19,Goalkeeper,Lebanon,250000,MD FF Köping,Sweden,0,in,2011
+160,Djurgardens IF,Nicolaj Agger,22,attack,Denmark,0,Bröndby IF,Denmark,loan transfer,in,2011
+161,Djurgardens IF,Hrvoje Milic,22,Left-Back,Croatia,300000,NK Istra,Croatia,free transfer,out,2011
+162,Djurgardens IF,Rtawi Mecconen,20,defence,Sweden,0,Valsta,Sweden,loan transfer,out,2011
+163,Djurgardens IF,Joel Perovuo,26,Central Midfield,Finland,0,HJK Helsinki,Finland,0,out,2011
+164,Djurgardens IF,Carl Björk,19,Centre-Forward,Sweden,0,Jönköping,Sweden,loan transfer,out,2011
+165,Djurgardens IF,Gabriel Ahmed,22,Central Midfield,Ghana,0,Jönköping,Sweden,loan transfer,out,2011
+166,Djurgardens IF,Christoffer Matwiejew,19,Goalkeeper,Sweden,0,Sollentuna FK,Sweden,loan transfer,out,2011
+167,Djurgardens IF,Shqipran Skeraj,25,Left-Back,Kosovo,0,No club,No country,0,out,2011
+168,IFK Göteborg,Emil Salomonsson,22,Right-Back,Sweden,1000000,Halmstads BK,Sweden,400000,in,2011
+169,IFK Göteborg,Philip Haglund,24,Defensive Midfield,Sweden,600000,Heerenveen,Netherlands,0,in,2011
+170,IFK Göteborg,David Moberg Karlsson,17,Right Winger,Sweden,2200000,IFK U19,Sweden,0,in,2011
+171,IFK Göteborg,Thomas Olsson,35,Central Midfield,Sweden,0,Atvidaberg,Sweden,"End of loanOct 1, 2011",in,2011
+172,IFK Göteborg,Ragnar Sigurdsson,25,Centre-Back,Iceland,300000,FC Copenhagen,Denmark,800000,out,2011
+173,IFK Göteborg,Sebastian Eriksson,22,Central Midfield,Sweden,400000,Cagliari Calcio,Italy,Loan fee:550000,out,2011
+174,IFK Göteborg,Nicklas Bärkroth,19,Left Winger,Sweden,400000,Brommapojkarna,Sweden,loan transfer,out,2011
+175,IFK Göteborg,Pär Ericsson,22,Centre-Forward,Sweden,0,Mjällby AIF,Sweden,loan transfer,out,2011
+176,IFK Göteborg,Thomas Olsson,35,Central Midfield,Sweden,0,Atvidaberg,Sweden,loan transfer,out,2011
+177,IFK Göteborg,Alexander Faltsetas,24,Defensive Midfield,Sweden,200000,Brage,Sweden,loan transfer,out,2011
+178,Helsingborgs IF,Erlend Hanstveit,30,Left-Back,Norway,0,KAA Gent,Belgium,free transfer,in,2011
+179,Helsingborgs IF,Álvaro Santos,31,Centre-Forward,Brazil,0,Örgryte,Sweden,0,in,2011
+180,Helsingborgs IF,Thomas Sörum,28,Centre-Forward,Norway,0,Haugesund,Norway,0,in,2011
+181,Helsingborgs IF,Jörgen Skjelvik,20,Left-Back,Norway,400000,Stabæk Fotball,Norway,loan transfer,in,2011
+182,Helsingborgs IF,Sebastian Carlsén,20,Defensive Midfield,Sweden,75000,Inter U19,Italy,loan transfer,in,2011
+183,Helsingborgs IF,Gudjón Lýdsson,23,Central Midfield,Iceland,150000,Valur,Iceland,loan transfer,in,2011
+184,Helsingborgs IF,Rafael Porcellis,24,Centre-Forward,Brazil,225000,Värnamo,Sweden,"End of loanJun 30, 2011",in,2011
+185,Helsingborgs IF,Mohamed Ramadan,20,Centre-Forward,Lebanon,75000,Ängelholm,Sweden,"End of loanAug 1, 2011",in,2011
+186,Helsingborgs IF,Samuel Aziz,19,Centre-Forward,Sweden,75000,Ängelholm,Sweden,"End of loanJun 30, 2011",in,2011
+187,Helsingborgs IF,Alexander Gerndt,25,Centre-Forward,Sweden,200000,FC Utrecht,Netherlands,4800000,out,2011
+188,Helsingborgs IF,Rasmus Jönsson,21,Centre-Forward,Sweden,300000,VfL Wolfsburg,Germany,3400000,out,2011
+189,Helsingborgs IF,Marcus Nilsson,23,Centre-Back,Sweden,0,FC Utrecht,Netherlands,1100000,out,2011
+190,Helsingborgs IF,Rafael Porcellis,24,Centre-Forward,Brazil,225000,CD Fátima,Portugal,0,out,2011
+191,Helsingborgs IF,Abbe Khalili,19,Central Midfield,Sweden,1000000,Värnamo,Sweden,loan transfer,out,2011
+192,Helsingborgs IF,Marcus Bergholtz,21,Defensive Midfield,Sweden,150000,Stabæk Fotball,Norway,loan transfer,out,2011
+193,Helsingborgs IF,Peter Larsson,27,Centre-Back,Sweden,0,FC Copenhagen,Denmark,"End of loanAug 1, 2011",out,2011
+194,Malmö FF,Mathias Ranégie,27,Centre-Forward,Sweden,0,Häcken,Sweden,1500000,in,2011
+195,Malmö FF,Miiko Albornoz,20,Left-Back,Chile,600000,Brommapojkarna,Sweden,0,in,2011
+196,Malmö FF,Omid Nazari,20,Central Midfield,Philippines,250000,Malmö U19,Sweden,0,in,2011
+197,Malmö FF,Guillermo Molins,22,Centre-Forward,Sweden,200000,RSC Anderlecht,Belgium,500000,out,2011
+198,Malmö FF,Yago Fernández,23,Centre-Back,Portugal,0,Girona,Spain,free transfer,out,2011
+199,Malmö FF,Filip Stenström,19,Left-Back,Sweden,0,Bunkeflo,Sweden,loan transfer,out,2011
+200,Syrianska FC,Mamadou Fofana,23,Central Midfield,France,50000,La Vitréenne FC,France,free transfer,in,2011
+201,Syrianska FC,Razak Omotoyossi,25,Centre-Forward,Benin,0,GAIS,Sweden,free transfer,in,2011
+202,Syrianska FC,Mohamed Kabia,20,Centre-Forward,Sierra Leone,100000,Motala AIF,Sweden,0,in,2011
+203,Syrianska FC,Alusine Kamara,21,Attacking Midfield,Sierra Leone,40000,Motala AIF,Sweden,0,in,2011
+204,Syrianska FC,Raby George,19,Central Midfield,Sweden,50000,Syrians. FC U17,Sweden,0,in,2011
+205,Syrianska FC,Vuk Martinovic,21,Left-Back,Montenegro,100000,FK Lovcen,Montenegro,loan transfer,in,2011
+206,Syrianska FC,Razak Omotoyossi,25,Centre-Forward,Benin,0,Zamalek,Egypt,0,out,2011
+207,Syrianska FC,Semir Mete,23,Attacking Midfield,Sweden,50000,Syrianska IF,Sweden,loan transfer,out,2011
+208,Syrianska FC,Obie Etie Ikechukwu,24,Centre-Forward,Nigeria,0,Östers IF,Sweden,loan transfer,out,2011
+209,AIK,Daniel Majstorović,35,Centre-Back,Sweden,0,Celtic,Scotland,free transfer,in,2012
+210,AIK,Henok Goitom,27,Centre-Forward,Eritrea,300000,UD Almería,Spain,free transfer,in,2012
+211,AIK,Ibrahim Moro,18,Central Midfield,Ghana,150000,New Edubiase,Ghana,0,in,2012
+212,AIK,Christian Frealdsson,33,Goalkeeper,Sweden,0,Akropolis,Sweden,0,in,2012
+213,AIK,Mohamed Bangura,23,Left Winger,Sierra Leone,0,Celtic,Scotland,loan transfer,in,2012
+214,AIK,Tom Bongay,18,attack,Sierra Leone,50000,No club,No country,loan transfer,in,2012
+215,AIK,Robin Palacios,20,Central Midfield,Sweden,0,Akropolis,Sweden,"End of loanAug 16, 2012",in,2012
+216,AIK,Kwame Karikari,20,Centre-Forward,Ghana,200000,Degerfors,Sweden,"End of loanAug 1, 2012",in,2012
+217,AIK,Sal Jobarteh,19,Central Midfield,Sweden,0,Sirius,Sweden,loan transfer,out,2012
+218,AIK,Nicklas Maripuu,20,Defensive Midfield,Sweden,150000,Umeå FC,Sweden,loan transfer,out,2012
+219,AIK,Robin Palacios,20,Central Midfield,Sweden,0,IK Frej Täby,Sweden,loan transfer,out,2012
+220,AIK,Christian Kouakou,17,Centre-Forward,Sweden,500000,Akropolis,Sweden,loan transfer,out,2012
+221,AIK,Edward Owusu,18,Defensive Midfield,Sweden,0,Akropolis,Sweden,loan transfer,out,2012
+222,AIK,Pontus Engblom,20,Centre-Forward,Sweden,400000,Haugesund,Norway,0,out,2012
+223,AIK,Crespo Kamara,19,Centre-Forward,Sierra Leone,125000,Örebro SK,Sweden,loan transfer,out,2012
+224,Atvidabergs FF,Mohammed Abubakari,26,Defensive Midfield,Ghana,25000,Doxa Dramas,Greece,free transfer,in,2012
+225,Atvidabergs FF,Imad Zatara,27,Right Midfield,Palästina,0,Sanat Naft,Iran,free transfer,in,2012
+226,Atvidabergs FF,Diego Silva,29,Centre-Forward,Brazil,0,Al-Muharraq,Bahrain,free transfer,in,2012
+227,Atvidabergs FF,Martin Christensen,24,Right Midfield,Denmark,0,HB Köge,Denmark,0,in,2012
+228,Atvidabergs FF,Alain Junior Ollé Ollé,25,Left Midfield,Cameroon,0,Varbergs BoIS,Sweden,"End of loanOct 10, 2012",in,2012
+229,Atvidabergs FF,Magnus Eriksson,22,Attacking Midfield,Sweden,1000000,KAA Gent,Belgium,500000,out,2012
+230,Atvidabergs FF,Christoffer Karlsson,24,Central Midfield,Sweden,0,Varbergs BoIS,Sweden,loan transfer,out,2012
+231,Atvidabergs FF,Alain Junior Ollé Ollé,25,Left Midfield,Cameroon,0,Varbergs BoIS,Sweden,loan transfer,out,2012
+232,Atvidabergs FF,Alain Junior Ollé Ollé,25,Left Midfield,Cameroon,0,No club,No country,0,out,2012
+233,Gefle IF,Sebastian Senatore,26,Left-Back,Sweden,100000,Varbergs BoIS,Sweden,free transfer,out,2012
+234,Gefle IF,Hjalmar Öhagen,27,Defensive Midfield,Sweden,0,Sandviken,Sweden,free transfer,out,2012
+235,Gefle IF,Erik Törnros,19,Centre-Forward,Sweden,75000,Brage,Sweden,loan transfer,out,2012
+236,Kalmar FF,Khadim N'Diaye,27,Goalkeeper,Senegal,250000,ASC Linguère,Senegal,loan transfer,in,2012
+237,Kalmar FF,Filip Sachpekidis,15,Left Midfield,Sweden,200000,Kalmar U19,Sweden,0,in,2012
+238,Kalmar FF,Johan Bertilsson,24,Second Striker,Sweden,300000,Jönköping,Sweden,loan transfer,out,2012
+239,Kalmar FF,Kristoffer Fagercrantz,25,Central Midfield,Sweden,0,Halmstads BK,Sweden,loan transfer,out,2012
+240,Kalmar FF,Tobias Carlsson,37,Centre-Back,Sweden,0,No club,No country,0,out,2012
+241,IFK Norrköping,Christopher Meneses,23,Left-Back,Costa Rica,175000,LD Alajuelense,Costa Rica,150000,in,2012
+242,IFK Norrköping,Riki Cakic,22,Centre-Forward,Sweden,0,Ljungskile,Sweden,"End of loanAug 1, 2012",in,2012
+243,IFK Norrköping,Marcus Johansson,18,Centre-Forward,Sweden,0,Assyriska BK,Sweden,"End of loanAug 1, 2012",in,2012
+244,IFK Norrköping,Astrit Ajdarevic,22,Central Midfield,Albania,150000,Standard Liège,Belgium,1700000,out,2012
+245,IFK Norrköping,Riki Cakic,22,Centre-Forward,Sweden,0,IK Sleipner,Sweden,loan transfer,out,2012
+246,IFK Norrköping,Shpetim Hasani,30,Centre-Forward,Kosovo,0,Örebro SK,Sweden,0,out,2012
+247,Mjällby AIF,Juan Robledo,33,Centre-Back,Chile,0,Kasimpasa,Turkey,free transfer,in,2012
+248,Mjällby AIF,Anders Wikström,30,Centre-Back,Sweden,0,Elfsborg,Sweden,0,in,2012
+249,Mjällby AIF,Mostapha El Kabir,23,Centre-Forward,Morocco,100000,Cagliari Calcio,Italy,"End of loanJun 30, 2012",in,2012
+250,Mjällby AIF,Pavel Zavadil,34,Central Midfield,Czech Republic,0,Zbrojovka Brno,Czech Republic,0,out,2012
+251,Mjällby AIF,Samuel Petrone,23,Centre-Forward,United States,0,Leiknir,Iceland,loan transfer,out,2012
+252,Mjällby AIF,Erton Fejzullahu,24,Centre-Forward,Kosovo,300000,NEC Nijmegen,Netherlands,"End of loanJul 31, 2012",out,2012
+253,Mjällby AIF,Dominique Kivuvu,24,Defensive Midfield,Angola,0,CFR Cluj,Romania,"End of loanAug 1, 2012",out,2012
+254,Mjällby AIF,Anders Wikström,30,Centre-Back,Sweden,0,Elfsborg,Sweden,"End of loanJul 31, 2012",out,2012
+255,Östers IF,Marcus Bergholtz,22,Defensive Midfield,Sweden,150000,Helsingborg,Sweden,0,in,2012
+256,Östers IF,Joachim Lantz,35,Centre-Back,Sweden,0,IFK Berga,Sweden,loan transfer,in,2012
+257,Östers IF,Christoffer Katenda,20,Attacking Midfield,Sweden,0,Akropolis,Sweden,free transfer,out,2012
+258,Östers IF,Anton Henningsson,20,Centre-Forward,Sweden,100000,Oskarshamn,Sweden,loan transfer,out,2012
+259,Östers IF,Davíd Thór Vidarsson,28,Defensive Midfield,Iceland,0,Vejle-Kolding,Denmark,0,out,2012
+260,Östers IF,Kevin Amuneke,26,Centre-Forward,Nigeria,0,No club,No country,0,out,2012
+261,Östers IF,Lucas Ohlander,19,Central Midfield,Sweden,200000,Helsingborg,Sweden,"End of loanAug 1, 2012",out,2012
+262,BK Häcken,Jimmy Dixon,30,Centre-Back,Liberia,0,Manisaspor,Turkey,free transfer,in,2012
+263,BK Häcken,Martin Ericsson,31,Central Midfield,Sweden,0,Elfsborg,Sweden,free transfer,in,2012
+264,BK Häcken,Filip Pivkovski,18,Left Midfield,North Macedonia,75000,Blackburn U18,England,free transfer,in,2012
+265,BK Häcken,Nasiru Mohammed,18,Right Winger,Ghana,200000,Rainbow FC,Ghana,loan transfer,in,2012
+266,BK Häcken,Mattias Östberg,34,Centre-Back,Sweden,0,Djurgarden,Sweden,0,out,2012
+267,BK Häcken,Martin Ericsson,31,Central Midfield,Sweden,0,Elfsborg,Sweden,"End of loanJul 31, 2012",out,2012
+268,BK Häcken,Eddie Hernández,21,Centre-Forward,Honduras,325000,Platense FC,Honduras,"End of loanJun 30, 2012",out,2012
+269,IF Elfsborg,Martin Ericsson,31,Central Midfield,Sweden,0,Häcken,Sweden,"End of loanJul 31, 2012",in,2012
+270,IF Elfsborg,Anders Wikström,30,Centre-Back,Sweden,0,Mjällby AIF,Sweden,"End of loanJul 31, 2012",in,2012
+271,IF Elfsborg,Kenneth Höie,32,Goalkeeper,Norway,0,Djurgarden,Sweden,free transfer,out,2012
+272,IF Elfsborg,Martin Ericsson,31,Central Midfield,Sweden,0,Häcken,Sweden,free transfer,out,2012
+273,IF Elfsborg,Mohammed Abdulrahman,22,Centre-Forward,Nigeria,0,Värnamo,Sweden,loan transfer,out,2012
+274,IF Elfsborg,Anders Wikström,30,Centre-Back,Sweden,0,Mjällby AIF,Sweden,0,out,2012
+275,IF Elfsborg,Carl Wede,22,Right Midfield,Sweden,75000,Falkenberg,Sweden,loan transfer,out,2012
+276,IF Brommapojkarna,Ivo Vazgec,27,Goalkeeper,Sweden,0,Landskrona,Sweden,free transfer,in,2012
+277,IF Brommapojkarna,Bojan Djordjic,30,Left Winger,Sweden,0,No club,No country,0,in,2012
+278,IF Brommapojkarna,Filip Tronêt,19,Right Winger,Sweden,175000,Västerås SK,Sweden,loan transfer,out,2012
+279,Djurgardens IF,Erton Fejzullahu,24,Centre-Forward,Kosovo,300000,NEC Nijmegen,Netherlands,350000,in,2012
+280,Djurgardens IF,Kenneth Höie,32,Goalkeeper,Norway,0,Elfsborg,Sweden,free transfer,in,2012
+281,Djurgardens IF,Mattias Östberg,34,Centre-Back,Sweden,0,Häcken,Sweden,0,in,2012
+282,Djurgardens IF,Mohammed Kamanor,19,Right-Back,Sierra Leone,50000,Kallon FC,Sierra Leone,loan transfer,in,2012
+283,Djurgardens IF,Alhaji Kamara,18,Centre-Forward,Sierra Leone,500000,Kallon FC,Sierra Leone,loan transfer,in,2012
+284,Djurgardens IF,Carl Björk,20,Centre-Forward,Sweden,0,Brage,Sweden,"End of loanAug 28, 2012",in,2012
+285,Djurgardens IF,Kebba Ceesay,24,Centre-Back,The Gambia,100000,Lech Poznan,Poland,210000,out,2012
+286,Djurgardens IF,Ricardo Santos,25,Centre-Forward,Brazil,300000,Sogndal IL,Norway,free transfer,out,2012
+287,Djurgardens IF,Ljeutrim Makolli,20,Attacking Midfield,Sweden,0,IK Frej Täby,Sweden,loan transfer,out,2012
+288,Djurgardens IF,Carl Björk,20,Centre-Forward,Sweden,0,Västerås SK,Sweden,loan transfer,out,2012
+289,Djurgardens IF,Christer Youssef,24,Right Winger,Sweden,150000,Assyriska FF,Sweden,loan transfer,out,2012
+290,Halmstads BK,Kristoffer Fagercrantz,25,Central Midfield,Sweden,0,Kalmar FF,Sweden,loan transfer,in,2012
+291,Halmstads BK,Jónas Gudni Saevarsson,28,Central Midfield,Iceland,0,KR Reykjavík,Iceland,free transfer,out,2012
+292,Halmstads BK,Joakim Wrele,22,Centre-Back,Sweden,50000,ÍA Akranes,Iceland,loan transfer,out,2012
+293,IFK Göteborg,Mattias Bjärsmyr,26,Centre-Back,Sweden,200000,Panathinaikos,Greece,free transfer,in,2012
+294,IFK Göteborg,Sebastian Eriksson,23,Central Midfield,Sweden,400000,Cagliari Calcio,Italy,"End of loanJun 30, 2012",in,2012
+295,IFK Göteborg,Marcus Sandberg,21,Goalkeeper,Sweden,400000,Ljungskile,Sweden,"End of loanJun 30, 2012",in,2012
+296,IFK Göteborg,Nicklas Bärkroth,20,Left Winger,Sweden,400000,Leiria,Portugal,"End of loanJun 30, 2012",in,2012
+297,IFK Göteborg,Sebastian Eriksson,23,Central Midfield,Sweden,400000,Cagliari Calcio,Italy,1500000,out,2012
+298,IFK Göteborg,Tobias Sana,23,Left Winger,Sweden,600000,Ajax,Netherlands,320000,out,2012
+299,IFK Göteborg,Marcus Sandberg,21,Goalkeeper,Sweden,400000,Ljungskile,Sweden,loan transfer,out,2012
+300,Helsingborgs IF,David Accam,21,Right Winger,Ghana,400000,Östersund,Sweden,500000,in,2012
+301,Helsingborgs IF,Alejandro Bedoya,25,Central Midfield,United States,600000,Rangers,Scotland,free transfer,in,2012
+302,Helsingborgs IF,Peter Larsson,28,Centre-Back,Sweden,0,FC Copenhagen,Denmark,free transfer,in,2012
+303,Helsingborgs IF,Nikola Djurdjic,26,Centre-Forward,Serbia,425000,Haugesund,Norway,loan transfer,in,2012
+304,Helsingborgs IF,Lucas Ohlander,19,Central Midfield,Sweden,200000,Östers IF,Sweden,"End of loanAug 1, 2012",in,2012
+305,Helsingborgs IF,Emil Aberg,20,Centre-Forward,Sweden,0,Kristianstad,Sweden,"End of loanAug 1, 2012",in,2012
+306,Helsingborgs IF,Marcus Bergholtz,22,Defensive Midfield,Sweden,150000,Östers IF,Sweden,0,out,2012
+307,Helsingborgs IF,Erik Sundin,33,Centre-Forward,Sweden,0,Hammarby,Sweden,0,out,2012
+308,Helsingborgs IF,Lucas Ohlander,19,Central Midfield,Sweden,200000,Brönshöj BK,Denmark,loan transfer,out,2012
+309,Helsingborgs IF,Alfred Finnbogason,23,Centre-Forward,Iceland,1200000,KSC Lokeren,Belgium,"End of loanAug 1, 2012",out,2012
+310,Malmö FF,Matías Concha,32,Right-Back,Sweden,0,VfL Bochum,Germany,free transfer,in,2012
+311,Malmö FF,Zlatan Azinovic,24,Goalkeeper,Sweden,0,Trelleborg,Sweden,free transfer,in,2012
+312,Malmö FF,Tokelo Rantie,21,Centre-Forward,South Africa,200000,Stars of Africa,South Africa,loan transfer,in,2012
+313,Malmö FF,David Löfquist,26,Defensive Midfield,Sweden,200000,Parma,Italy,loan transfer,in,2012
+314,Malmö FF,Filip Helander,19,Centre-Back,Sweden,3500000,Malmö U19,Sweden,0,in,2012
+315,Malmö FF,Rick Kruys,27,Central Midfield,Netherlands,0,FC Volendam,Netherlands,"End of loanJun 30, 2012",in,2012
+316,Malmö FF,Mathias Ranégie,28,Centre-Forward,Sweden,0,Udinese Calcio,Italy,2000000,out,2012
+317,Malmö FF,Jimmy Durmaz,23,Central Midfield,Sweden,600000,Genclerbirligi,Turkey,580000,out,2012
+318,Malmö FF,Rick Kruys,27,Central Midfield,Netherlands,0,Excelsior,Netherlands,free transfer,out,2012
+319,Malmö FF,Tobias Lewicki,19,Right Midfield,Sweden,0,Trelleborg,Sweden,loan transfer,out,2012
+320,Malmö FF,Viktor Noring,21,Goalkeeper,Sweden,150000,Trelleborg,Sweden,"End of loanAug 20, 2012",out,2012
+321,Syrianska FC,Christian Demirtas,28,Right-Back,Germany,0,Carl Zeiss Jena,Germany,free transfer,in,2012
+322,Syrianska FC,Labinot Harbuzi,26,Attacking Midfield,Sweden,0,Manisaspor,Turkey,free transfer,in,2012
+323,Syrianska FC,Osman Sow,23,Centre-Forward,Sweden,300000,Dacia,Moldova,free transfer,in,2012
+324,Syrianska FC,Charbel Georges,18,Defensive Midfield,Sweden,125000,Arameisk SIF,Sweden,0,in,2012
+325,Syrianska FC,Josef Ibrahim,21,Left Midfield,Sweden,75000,Örebro SK,Sweden,loan transfer,in,2012
+326,Syrianska FC,Kevin Bisse,17,Left Midfield,Sweden,50000,Syrians. FC U19,Sweden,0,in,2012
+327,Syrianska FC,Felix Michel Melki,18,Centre-Back,Lebanon,200000,Syrians. FC U19,Sweden,0,in,2012
+328,Syrianska FC,Lasse Staw,24,Goalkeeper,Norway,0,Lillestrøm SK,Norway,free transfer,out,2012
+329,Syrianska FC,Raby George,20,Central Midfield,Sweden,50000,Tar Heels,United States,free transfer,out,2012
+330,Syrianska FC,Marcos Gondra,25,Defensive Midfield,Spain,50000,SD Balmaseda,Spain,free transfer,out,2012
+331,Syrianska FC,Obie Etie Ikechukwu,25,Centre-Forward,Nigeria,0,Syrianska IF,Sweden,loan transfer,out,2012
+332,Syrianska FC,Semir Mete,24,Attacking Midfield,Sweden,50000,Husqvarna,Sweden,loan transfer,out,2012
+333,Syrianska FC,Matthew Mbuta,26,Left Midfield,Cameroon,50000,No club,No country,0,out,2012
+334,AIK,Patrik Carlgren,21,Goalkeeper,Sweden,1000000,Brage,Sweden,0,in,2013
+335,AIK,Ebenezer Ofori,18,Defensive Midfield,Ghana,400000,New Edubiase,Ghana,0,in,2013
+336,AIK,Sauli Väisänen,20,Centre-Back,Finland,400000,FC Honka,Finland,0,in,2013
+337,AIK,Anton Salétros,17,Central Midfield,Sweden,600000,AIK U19,Sweden,0,in,2013
+338,AIK,Sal Jobarteh,20,Central Midfield,Sweden,0,AFC Eskilstuna,Sweden,"End of loanJun 30, 2013",in,2013
+339,AIK,Christian Kouakou,18,Centre-Forward,Sweden,500000,Mjällby AIF,Sweden,"End of loanJun 4, 2013",in,2013
+340,AIK,Sal Jobarteh,20,Central Midfield,Sweden,0,Dalkurd,Sweden,loan transfer,out,2013
+341,AIK,Viktor Lundberg,22,Centre-Forward,Sweden,250000,Randers FC,Denmark,0,out,2013
+342,AIK,Helgi Danielsson,32,Defensive Midfield,Iceland,25000,Belenenses SAD,Portugal,0,out,2013
+343,AIK,Kwame Karikari,21,Centre-Forward,Ghana,200000,Balikesirspor,Turkey,loan transfer,out,2013
+344,AIK,Daniel Gustafsson,22,Right Winger,Sweden,300000,Örebro SK,Sweden,loan transfer,out,2013
+345,AIK,Lalawélé Atakora,22,Left Winger,Togo,300000,Balikesirspor,Turkey,loan transfer,out,2013
+346,AIK,Edward Owusu,19,Defensive Midfield,Sweden,0,Kongsvinger,Norway,loan transfer,out,2013
+347,AIK,Daniel Tjernström,39,Defensive Midfield,Sweden,0,No club,No country,0,out,2013
+348,AIK,Christian Frealdsson,33,Goalkeeper,Sweden,0,No club,No country,0,out,2013
+349,Malmö FF,Guillermo Molins,24,Centre-Forward,Sweden,200000,RSC Anderlecht,Belgium,150000,in,2013
+350,Malmö FF,Johan Hammar,19,Centre-Back,Sweden,300000,Everton U21,England,free transfer,in,2013
+351,Malmö FF,Erdal Rakip,17,Central Midfield,North Macedonia,900000,Malmö U19,Sweden,0,in,2013
+352,Malmö FF,Filip Stenström,22,Left-Back,Sweden,0,Ängelholm,Sweden,"End of loanAug 6, 2013",in,2013
+353,Malmö FF,Tokelo Rantie,22,Centre-Forward,South Africa,200000,Bournemouth,England,4000000,out,2013
+354,Malmö FF,Filip Stenström,22,Left-Back,Sweden,0,Ängelholm,Sweden,0,out,2013
+355,Helsingborgs IF,Arnór Smárason,24,Second Striker,Iceland,75000,Esbjerg fB,Denmark,free transfer,in,2013
+356,Helsingborgs IF,Emmanuel Boateng,19,Left Midfield,Ghana,450000,UCSB Gauchos,United States,free transfer,in,2013
+357,Helsingborgs IF,Måns Lagmark,19,Goalkeeper,Sweden,0,HIF Akademi,Sweden,free transfer,in,2013
+358,Helsingborgs IF,Imad Khalili,26,Centre-Forward,Palästina,100000,Norrköping,Sweden,0,in,2013
+359,Helsingborgs IF,Carl Johansson,19,Centre-Back,Sweden,600000,Helsingborg U19,Sweden,0,in,2013
+360,Helsingborgs IF,Lucas Ohlander,20,Central Midfield,Sweden,200000,Brönshöj BK,Denmark,"End of loanJun 30, 2013",in,2013
+361,Helsingborgs IF,Andreas Linde,19,Goalkeeper,Sweden,700000,Värnamo,Sweden,"End of loanJul 15, 2013",in,2013
+362,Helsingborgs IF,Alejandro Bedoya,26,Central Midfield,United States,600000,FC Nantes,France,800000,out,2013
+363,Helsingborgs IF,Lucas Ohlander,20,Central Midfield,Sweden,200000,Valur,Iceland,free transfer,out,2013
+364,Helsingborgs IF,Andreas Linde,20,Goalkeeper,Sweden,700000,HIF Akademi,Sweden,loan transfer,out,2013
+365,Helsingborgs IF,Elias Andersson,17,Central Midfield,Sweden,400000,HIF Akademi,Sweden,loan transfer,out,2013
+366,Helsingborgs IF,Joseph Baffo,20,Centre-Back,Sweden,400000,Vålerenga,Norway,loan transfer,out,2013
+367,Helsingborgs IF,Rachid Bouaouzan,29,Left Midfield,Netherlands,0,No club,No country,0,out,2013
+368,IFK Göteborg,Lasse Vibe,26,Centre-Forward,Denmark,0,SönderjyskE,Denmark,650000,in,2013
+369,IFK Göteborg,Darijan Bojanic,18,Defensive Midfield,Sweden,1200000,Östers IF,Sweden,0,in,2013
+370,IFK Göteborg,David Moberg Karlsson,19,Right Winger,Sweden,2200000,Sunderland,England,1750000,out,2013
+371,IFK Göteborg,Nordin Gerzic,29,Defensive Midfield,Sweden,100000,Örebro SK,Sweden,loan transfer,out,2013
+372,Halmstads BK,Johan Mauritzson,19,Centre-Back,Sweden,75000,Halmstad U19,Sweden,0,in,2013
+373,Halmstads BK,Anton Tideman,20,Left-Back,Sweden,275000,Oddevold,Sweden,free transfer,out,2013
+374,Halmstads BK,Liridon Selmani,21,Centre-Forward,Albania,150000,Oddevold,Sweden,free transfer,out,2013
+375,Halmstads BK,Anton Jonsson,20,Central Midfield,Sweden,25000,Älvsjö AIK,Sweden,free transfer,out,2013
+376,Halmstads BK,Malkolm Nilsson Säfqvist,20,Goalkeeper,Sweden,350000,Lunds BK,Sweden,loan transfer,out,2013
+377,Halmstads BK,Christian Järdler,31,Left-Back,Sweden,0,No club,No country,0,out,2013
+378,Djurgardens IF,Aleksandar Prijovic,23,Centre-Forward,Serbia,1000000,FC Sion,Switzerland,200000,in,2013
+379,Djurgardens IF,Haris Radetinac,27,Right Midfield,Bosnia-Herzegovina,200000,Mjällby AIF,Sweden,0,in,2013
+380,Djurgardens IF,Marc Pedersen,23,Centre-Back,Denmark,0,FC Fredericia,Denmark,free transfer,out,2013
+381,Djurgardens IF,Nahir Oyal,22,Right Midfield,Sweden,0,Syrianska FC,Sweden,loan transfer,out,2013
+382,Djurgardens IF,Luis Solignac,22,Centre-Forward,Argentina,400000,IFK Mariehamn,Finland,loan transfer,out,2013
+383,Örebro SK,Daniel Björnkvist,24,Right-Back,Sweden,150000,BK Forward,Sweden,0,in,2013
+384,Örebro SK,Daniel Gustafsson,22,Right Winger,Sweden,300000,AIK,Sweden,loan transfer,in,2013
+385,Örebro SK,Marcus Pode,27,Centre-Forward,Sweden,100000,Mjällby AIF,Sweden,loan transfer,in,2013
+386,Örebro SK,Nordin Gerzic,29,Defensive Midfield,Sweden,100000,IFK Göteborg,Sweden,loan transfer,in,2013
+387,Örebro SK,William Kvist,18,Right Midfield,Sweden,0,IFK Hässleholm,Sweden,loan transfer,in,2013
+388,Örebro SK,Ludwig Bergström,30,Goalkeeper,Sweden,75000,No club,No country,0,in,2013
+389,Örebro SK,Josef Ibrahim,22,Left Midfield,Sweden,75000,IFK Mariehamn,Finland,free transfer,out,2013
+390,Örebro SK,Marcus Astvald,22,Second Striker,Sweden,100000,Degerfors,Sweden,0,out,2013
+391,Örebro SK,Emil Berger,22,Central Midfield,Sweden,75000,Fylkir,Iceland,loan transfer,out,2013
+392,IF Brommapojkarna,Jesper Karlström,18,Defensive Midfield,Sweden,1500000,IF Bromma U19,Sweden,0,in,2013
+393,IF Brommapojkarna,Andreas Haddad,31,Centre-Forward,Sweden,0,Hammarby,Sweden,0,out,2013
+394,IF Elfsborg,Mikkel Beckmann,29,Centre-Forward,Denmark,0,APOEL Nicosia,Cyprus,free transfer,in,2013
+395,IF Elfsborg,David Elm,30,Centre-Forward,Sweden,0,Kalmar FF,Sweden,0,out,2013
+396,IF Elfsborg,Per Frick,21,Centre-Forward,Sweden,1200000,Falkenberg,Sweden,loan transfer,out,2013
+397,BK Häcken,Yago Fernández,25,Centre-Back,Portugal,0,AEK Athens,Greece,free transfer,in,2013
+398,BK Häcken,Mikolaj Lebedynski,22,Centre-Forward,Poland,125000,Roda JC,Netherlands,free transfer,in,2013
+399,BK Häcken,Carlos Strandberg,17,Centre-Forward,Sweden,2800000,Häcken U19,Sweden,0,in,2013
+400,BK Häcken,Abdel Bouraima,20,Right Winger,Benin,75000,Örgryte,Sweden,loan transfer,out,2013
+401,BK Häcken,Andrés Vásquez,25,Left Midfield,Sweden,0,No club,No country,0,out,2013
+402,BK Häcken,Reuben Ayarna,27,Defensive Midfield,Ghana,50000,No club,No country,0,out,2013
+403,Mjällby AIF,Kwame Bonsu,19,Central Midfield,Ghana,300000,Rosengård,Sweden,0,in,2013
+404,Mjällby AIF,Hannes Sigurdsson,30,Centre-Forward,Iceland,0,Grödig,Austria,free transfer,out,2013
+405,Mjällby AIF,Samuel Petrone,24,Centre-Forward,United States,0,Husqvarna,Sweden,loan transfer,out,2013
+406,Mjällby AIF,Haris Radetinac,27,Right Midfield,Bosnia-Herzegovina,200000,Djurgarden,Sweden,0,out,2013
+407,Mjällby AIF,Marcus Pode,27,Centre-Forward,Sweden,100000,Örebro SK,Sweden,loan transfer,out,2013
+408,Mjällby AIF,Victor Nilsson,20,Right-Back,Sweden,100000,Jönköping,Sweden,loan transfer,out,2013
+409,Mjällby AIF,Christian Kouakou,18,Centre-Forward,Sweden,500000,AIK,Sweden,"End of loanJun 4, 2013",out,2013
+410,IFK Norrköping,Emir Kujovic,25,Centre-Forward,Sweden,300000,Elazigspor ,Turkey,free transfer,in,2013
+411,IFK Norrköping,Joonas Tamm,21,Centre-Back,Estonia,500000,Sylvia,Sweden,loan transfer,out,2013
+412,IFK Norrköping,Imad Khalili,26,Centre-Forward,Palästina,100000,Helsingborg,Sweden,0,out,2013
+413,IFK Norrköping,Gunnar Heidar Thorvaldsson,31,Centre-Forward,Iceland,0,Konyaspor,Turkey,0,out,2013
+414,Kalmar FF,Björnar Holmvik,28,Left-Back,Norway,0,Sandnes Ulf,Norway,0,in,2013
+415,Kalmar FF,David Elm,30,Centre-Forward,Sweden,0,Elfsborg,Sweden,0,in,2013
+416,Kalmar FF,Etrit Berisha,24,Goalkeeper,Albania,2200000,Lazio,Italy,400000,out,2013
+417,Kalmar FF,Jörgen Skjelvik,22,Left-Back,Norway,400000,Rosenborg,Norway,0,out,2013
+418,Kalmar FF,Daniel Mendes,32,Centre-Forward,Brazil,0,GAIS,Sweden,loan transfer,out,2013
+419,Gefle IF,Joachim Adukor,21,Defensive Midfield,Ghana,250000,Trofense,Portugal,free transfer,out,2013
+420,Gefle IF,Johan Svantesson,21,Centre-Forward,Sweden,0,No club,No country,0,out,2013
+421,Falkenbergs FF,Matteo Blomqvist-Zampi,22,Centre-Forward,Sweden,0,Östers IF,Sweden,0,in,2013
+422,Falkenbergs FF,Per Frick,21,Centre-Forward,Sweden,1200000,Elfsborg,Sweden,loan transfer,in,2013
+423,Falkenbergs FF,Mac Johansson,20,Centre-Back,Sweden,25000,No club,No country,0,out,2013
+424,Atvidabergs FF,Ricardo Santos,26,Centre-Forward,Brazil,300000,Sogndal IL,Norway,free transfer,in,2013
+425,Atvidabergs FF,Christoffer Karlsson,25,Central Midfield,Sweden,0,Grebo IK,Sweden,free transfer,out,2013
+426,Atvidabergs FF,Viktor Prodell,25,Centre-Forward,Sweden,150000,KV Mechelen,Belgium,0,out,2013
+427,Atvidabergs FF,Tom Pettersson,23,Centre-Back,Sweden,650000,OH Leuven,Belgium,loan transfer,out,2013
+428,Atvidabergs FF,Mattias Mete,26,Centre-Forward,Sweden,0,Syrianska FC,Sweden,loan transfer,out,2013
+429,Malmö FF,Isaac Kiese Thelin,22,Centre-Forward,Sweden,2700000,Norrköping,Sweden,110000,in,2014
+430,Malmö FF,Kári Árnason,32,Centre-Back,Iceland,50000,Rotherham,England,free transfer,in,2014
+431,Malmö FF,Enoch Kofi Adu,23,Defensive Midfield,Ghana,300000,Club Brugge,Belgium,0,in,2014
+432,Malmö FF,Agon Mehmeti,24,Centre-Forward,Albania,150000,US Palermo,Italy,0,in,2014
+433,Malmö FF,Anton Tinnerholm,23,Right-Back,Sweden,2500000,Atvidaberg,Sweden,0,in,2014
+434,Malmö FF,Piotr Johansson,19,Right Midfield,Sweden,400000,Malmö U21,Sweden,0,in,2014
+435,Malmö FF,Pa Konate,20,Left-Back,Guinea,400000,Östers IF,Sweden,"End of loanJun 30, 2014",in,2014
+436,Malmö FF,Miiko Albornoz,23,Left-Back,Chile,600000,Hannover 96,Germany,1500000,out,2014
+437,Malmö FF,Pontus Jansson,23,Centre-Back,Sweden,5000000,Torino,Italy,free transfer,out,2014
+438,Malmö FF,Jasmin Sudic,23,Centre-Back,Sweden,0,Mjällby AIF,Sweden,0,out,2014
+439,Malmö FF,Mahmut Özen,25,Right-Back,Sweden,75000,K. Erciyesspor,Turkey,0,out,2014
+440,Malmö FF,Petar Petrovic,18,Left Midfield,Sweden,250000,Radnicki Nis,Serbia,loan transfer,out,2014
+441,AIK,Gabriel Ferreyra,20,Central Midfield,Argentina,25000,Boca Juniors II,Argentina,loan transfer,in,2014
+442,AIK,Crespo Kamara,20,Centre-Forward,Sierra Leone,125000,Örebro SK,Sweden,"End of loanJun 30, 2013",in,2014
+443,AIK,Kwame Karikari,22,Centre-Forward,Ghana,200000,Balikesirspor,Turkey,"End of loanJun 30, 2014",in,2014
+444,AIK,Lalawélé Atakora,23,Left Winger,Togo,300000,Balikesirspor,Turkey,"End of loanJun 30, 2014",in,2014
+445,AIK,Eero Markkanen,23,Centre-Forward,Finland,250000,RM Castilla,Spain,2300000,out,2014
+446,AIK,Robin Quaison,20,Second Striker,Sweden,7500000,US Palermo,Italy,2000000,out,2014
+447,AIK,Edward Owusu,20,Defensive Midfield,Sweden,0,Assyriska FF,Sweden,loan transfer,out,2014
+448,AIK,Teteh Bangura,24,Centre-Forward,Sierra Leone,0,Bursaspor,Turkey,"End of loanAug 25, 2014",out,2014
+449,IFK Göteborg,Sebastian Eriksson,26,Central Midfield,Sweden,400000,Cagliari Calcio,Italy,325000,in,2014
+450,IFK Göteborg,Kenneth Zohore,20,Centre-Forward,Denmark,2000000,Fiorentina,Italy,loan transfer,in,2014
+451,IFK Göteborg,Sören Rieks,27,Left Winger,Denmark,500000,NEC Nijmegen,Netherlands,0,in,2014
+452,IFK Göteborg,Diego Calvo,23,Left Winger,Costa Rica,0,Vålerenga,Norway,loan transfer,in,2014
+453,IFK Göteborg,Patrick Dyrestam,18,Centre-Back,Sweden,0,IFK U19,Sweden,0,in,2014
+454,IFK Göteborg,Mattias Hugosson,40,Goalkeeper,Sweden,0,No club,No country,0,in,2014
+455,IFK Göteborg,Sam Larsson,21,Left Winger,Sweden,3500000,Heerenveen,Netherlands,1500000,out,2014
+456,IFK Göteborg,Darijan Bojanic,19,Defensive Midfield,Sweden,1200000,Helsingborg,Sweden,0,out,2014
+457,IFK Göteborg,Robin Söder,23,Centre-Forward,Sweden,300000,Esbjerg fB,Denmark,0,out,2014
+458,IFK Göteborg,Malick Mané,25,Centre-Forward,Senegal,0,Central Coast,Australia,loan transfer,out,2014
+459,IFK Göteborg,Daniel Sobralense,31,Attacking Midfield,Brazil,0,Örebro SK,Sweden,loan transfer,out,2014
+460,IFK Göteborg,Sebastian Eriksson,26,Central Midfield,Sweden,400000,Cagliari Calcio,Italy,"End of loanMay 25, 2015",out,2014
+461,BK Häcken,Gunnar Heidar Thorvaldsson,32,Centre-Forward,Iceland,0,Konyaspor,Turkey,0,in,2014
+462,BK Häcken,Richard Donkor,18,Right Midfield,Ghana,50000,Right to Dream,Ghana,loan transfer,in,2014
+463,BK Häcken,Augustine Okrah,20,Attacking Midfield,Ghana,75000,Bechem United,Ghana,loan transfer,in,2014
+464,BK Häcken,Egzon Binaku,19,Left-Back,Albania,150000,Häcken U19,Sweden,0,in,2014
+465,BK Häcken,Sula Matovu,21,Left Winger,Uganda,75000,Al-Najaf FC,Iraq,0,out,2014
+466,BK Häcken,Hosam Aiesh,19,Right Winger,Sweden,400000,Varbergs BoIS,Sweden,loan transfer,out,2014
+467,BK Häcken,Mostapha El Kabir,25,Centre-Forward,Morocco,100000,Ahli,Saudi Arabia,,out,2014
+468,Helsingborgs IF,Markus Holgersson,29,Centre-Back,Sweden,0,Wigan,England,free transfer,in,2014
+469,Helsingborgs IF,Johan Martensson,25,Defensive Midfield,Sweden,300000,FC Utrecht,Netherlands,free transfer,in,2014
+470,Helsingborgs IF,Mikael Dahlberg,29,Centre-Forward,Sweden,0,Apollon Smyrnis,Greece,free transfer,in,2014
+471,Helsingborgs IF,Jordan Larsson,17,Centre-Forward,Sweden,14000000,Högaborg,Sweden,0,in,2014
+472,Helsingborgs IF,Victor Pálsson,23,Defensive Midfield,Iceland,800000,NEC Nijmegen,Netherlands,0,in,2014
+473,Helsingborgs IF,Darijan Bojanic,19,Defensive Midfield,Sweden,1200000,IFK Göteborg,Sweden,0,in,2014
+474,Helsingborgs IF,Imad Khalili,27,Centre-Forward,Palästina,100000,Shabab,Saudi Arabia,"End of loanJun 30, 2014",in,2014
+475,Helsingborgs IF,Rasmus Lindgren,20,Defensive Midfield,Sweden,0,Ängelholm,Sweden,"End of loanJul 28, 2014",in,2014
+476,Helsingborgs IF,Måns Lagmark,19,Goalkeeper,Sweden,0,Eskilsminne,Sweden,loan transfer,out,2014
+477,Helsingborgs IF,Rasmus Lindgren,20,Defensive Midfield,Sweden,0,HIF Akademi,Sweden,loan transfer,out,2014
+478,Helsingborgs IF,Anton Kinnander,18,Centre-Forward,Sweden,0,HIF Akademi,Sweden,loan transfer,out,2014
+479,Helsingborgs IF,Markus Holgersson,29,Centre-Back,Sweden,0,Anorthosis,Cyprus,0,out,2014
+480,Helsingborgs IF,Daniel Nordmark,26,Right Midfield,Sweden,0,Örebro SK,Sweden,0,out,2014
+481,Helsingborgs IF,Ardian Gashi,33,Central Midfield,Norway,0,Odds BK,Norway,0,out,2014
+482,Helsingborgs IF,Abbe Khalili,22,Central Midfield,Sweden,1000000,Mersin IY,Turkey,0,out,2014
+483,Helsingborgs IF,Loret Sadiku,22,Defensive Midfield,Albania,850000,Mersin IY,Turkey,0,out,2014
+484,Helsingborgs IF,Imad Khalili,27,Centre-Forward,Palästina,100000,SH SIPG,China,0,out,2014
+485,Helsingborgs IF,Mans Ekvall,19,Defensive Midfield,Sweden,125000,Örgryte,Sweden,loan transfer,out,2014
+486,Helsingborgs IF,Gustav Jarl,19,Right-Back,Sweden,100000,Assyriska FF,Sweden,loan transfer,out,2014
+487,IF Elfsborg,Tom Söderberg,26,Centre-Back,Sweden,0,Apollon Smyrnis,Greece,"End of loanJun 30, 2014",in,2014
+488,IF Elfsborg,Niklas Hult,24,Left-Back,Sweden,700000,OGC Nice,France,800000,out,2014
+489,IF Elfsborg,Tom Söderberg,26,Centre-Back,Sweden,0,Sogndal IL,Norway,loan transfer,out,2014
+490,Djurgardens IF,Fredrik Stenman,31,Centre-Back,Sweden,0,Club Brugge,Belgium,free transfer,in,2014
+491,Djurgardens IF,Sebastian Andersson,23,Centre-Forward,Sweden,4500000,Kalmar FF,Sweden,0,in,2014
+492,Djurgardens IF,Xolani Mdaki,22,Defensive Midfield,South Africa,100000,Sundowns,South Africa,loan transfer,in,2014
+493,Djurgardens IF,Nahir Oyal,23,Right Midfield,Sweden,0,Sanliurfaspor ,Turkey,"End of loanJun 30, 2014",in,2014
+494,Djurgardens IF,Daniel Amartey,19,Centre-Back,Ghana,5000000,FC Copenhagen,Denmark,1800000,out,2014
+495,Djurgardens IF,Aleksandar Prijovic,24,Centre-Forward,Serbia,1000000,Boluspor,Turkey,150000,out,2014
+496,Djurgardens IF,Yussif Chibsah,30,Defensive Midfield,Ghana,0,Alanyaspor,Turkey,free transfer,out,2014
+497,Djurgardens IF,Vytautas Andriuskevicius,23,Left-Back,Lithuania,0,SC Cambuur,Netherlands,free transfer,out,2014
+498,Djurgardens IF,Erton Fejzullahu,26,Centre-Forward,Kosovo,300000,BJ Guoan,China,loan transfer,out,2014
+499,IFK Norrköping,Marcus Sahlman,29,Goalkeeper,Sweden,0,Tromsø IL,Norway,free transfer,in,2014
+500,IFK Norrköping,Mirza Halvadzic,18,Centre-Forward,Sweden,50000,Malmö U19,Sweden,free transfer,in,2014
+501,IFK Norrköping,Isaac Kiese Thelin,22,Centre-Forward,Sweden,2700000,Malmö FF,Sweden,110000,out,2014
+502,IFK Norrköping,Morten Skjönsberg,31,Centre-Back,Norway,0,Stabæk Fotball,Norway,free transfer,out,2014
+503,IFK Norrköping,Gentrit Citaku,18,midfield,Sweden,0,Sylvia,Sweden,loan transfer,out,2014
+504,IFK Norrköping,Mathias Florén,38,Left-Back,Sweden,0,Sylvia,Sweden,loan transfer,out,2014
+505,IFK Norrköping,Armin Tankovic,24,Central Midfield,Sweden,0,Sirius,Sweden,0,out,2014
+506,IFK Norrköping,Siim Luts,25,Left Winger,Estonia,150000,No club,No country,0,out,2014
+507,Kalmar FF,Pär Ericsson,25,Centre-Forward,Sweden,0,RAEC Mons,Belgium,free transfer,in,2014
+508,Kalmar FF,Marcus Nilsson,26,Centre-Back,Sweden,0,FC Utrecht,Netherlands,free transfer,in,2014
+509,Kalmar FF,César Santin,33,Second Striker,Brazil,0,APOEL Nicosia,Cyprus,free transfer,in,2014
+510,Kalmar FF,Mans Olström,18,Centre-Forward,Sweden,50000,Kalmar U19,Sweden,0,in,2014
+511,Kalmar FF,Melker Hallberg,18,Central Midfield,Sweden,600000,Udinese Calcio,Italy,1500000,out,2014
+512,Kalmar FF,Sebastian Andersson,23,Centre-Forward,Sweden,4500000,Djurgarden,Sweden,0,out,2014
+513,Kalmar FF,Daniel Mendes,33,Centre-Forward,Brazil,0,Minnesota NASL,United States,0,out,2014
+514,Kalmar FF,Archford Gutu,20,Defensive Midfield,Zimbabwe,50000,Värnamo,Sweden,loan transfer,out,2014
+515,Kalmar FF,Marcus Nilsson,26,Centre-Back,Sweden,0,FC Utrecht,Netherlands,"End of loanJul 28, 2014",out,2014
+516,Kalmar FF,Melvin Platje,25,Centre-Forward,Netherlands,275000,Neftchi Baku,Azerbaijan,"End of loanAug 1, 2014",out,2014
+517,Hammarby IF,Linus Hallenius,25,Centre-Forward,Sweden,350000,FC Aarau,Switzerland,free transfer,in,2014
+518,Hammarby IF,Lars Saetra,22,Centre-Back,Norway,400000,Strømsgodset,Norway,free transfer,in,2014
+519,Hammarby IF,Marko Mihajlovic,27,Centre-Back,Bosnia-Herzegovina,10000,Syrianska FC,Sweden,free transfer,out,2014
+520,Hammarby IF,Thomas Guldborg Christensen,31,Centre-Back,Denmark,0,Valur,Iceland,0,out,2014
+521,Örebro SK,Mozart Surville,25,Centre-Forward,France,50000,Örebro Syr.,Sweden,free transfer,in,2014
+522,Örebro SK,Daniel Nordmark,26,Right Midfield,Sweden,0,Helsingborg,Sweden,0,in,2014
+523,Örebro SK,Daniel Sobralense,31,Attacking Midfield,Brazil,0,IFK Göteborg,Sweden,loan transfer,in,2014
+524,Örebro SK,Eidur Aron Sigurbjörnsson,24,Centre-Back,Iceland,175000,ÍBV,Iceland,"End of loanAug 11, 2014",in,2014
+525,Örebro SK,Shpetim Hasani,31,Centre-Forward,Kosovo,0,Gornik Leczna,Poland,free transfer,out,2014
+526,Örebro SK,Eidur Aron Sigurbjörnsson,24,Centre-Back,Iceland,175000,Sandnes Ulf,Norway,loan transfer,out,2014
+527,Örebro SK,Ludwig Bergström,30,Goalkeeper,Sweden,75000,No club,No country,0,out,2014
+528,Örebro SK,Crespo Kamara,20,Centre-Forward,Sierra Leone,125000,AIK,Sweden,"End of loanJun 30, 2013",out,2014
+529,Falkenbergs FF,Junaid Sait,21,Centre-Back,South Africa,100000,Milano United,South Africa,free transfer,in,2014
+530,Falkenbergs FF,Patrik Ingelsten,32,Centre-Forward,Sweden,0,Mjällby AIF,Sweden,loan transfer,in,2014
+531,Falkenbergs FF,Linus Andersson,19,Centre-Back,Sweden,50000,Falkenberg U19,Sweden,0,in,2014
+532,Falkenbergs FF,Erik Zetterberg,18,Defensive Midfield,Sweden,125000,Falkenberg U19,Sweden,0,in,2014
+533,Falkenbergs FF,Arben Ajdarevic,19,Central Midfield,Sweden,0,Sylvia,Sweden,loan transfer,out,2014
+534,Falkenbergs FF,Tibor Joza,27,Centre-Back,Sweden,0,Östers IF,Sweden,loan transfer,out,2014
+535,Falkenbergs FF,Felix Johansson,21,Centre-Back,Sweden,50000,Arendal Fotball,Norway,loan transfer,out,2014
+536,Halmstads BK,Eric Smith,17,Defensive Midfield,Sweden,1200000,Halmstad U19,Sweden,0,in,2014
+537,Halmstads BK,Joakim Wrele,23,Centre-Back,Sweden,50000,IL Hödd,Norway,"End of loanJul 14, 2014",in,2014
+538,Halmstads BK,Kristoffer Thydell,21,Central Midfield,Sweden,0,Husqvarna,Sweden,loan transfer,out,2014
+539,Halmstads BK,Joakim Wrele,23,Centre-Back,Sweden,50000,IL Hödd,Norway,0,out,2014
+540,Gefle IF,Johan Bertilsson,26,Second Striker,Sweden,300000,Zaglebie Lubin,Poland,free transfer,in,2014
+541,Gefle IF,Christoffer Aspgren,19,Right Midfield,Sweden,0,Gefle U19,Sweden,0,in,2014
+542,Gefle IF,Zakaria Abdullai,24,Defensive Midfield,Ghana,0,Husqvarna,Sweden,free transfer,out,2014
+543,Gefle IF,Oscar Karlsson,23,Centre-Forward,Sweden,0,Nyköping,Sweden,free transfer,out,2014
+544,Gefle IF,Christoffer Wallander Ianev,19,Right-Back,Sweden,0,Maryland,United States,free transfer,out,2014
+545,Atvidabergs FF,Emmanuel Boakye,29,Right-Back,Ghana,0,No club,No country,0,in,2014
+546,Atvidabergs FF,Kenny Hildeby,18,Centre-Forward,Sweden,0,Atvidaberg U19,Sweden,0,in,2014
+547,Atvidabergs FF,Tom Pettersson,24,Centre-Back,Sweden,650000,OH Leuven,Belgium,"End of loanJun 30, 2014",in,2014
+548,Atvidabergs FF,Emmanuel Dogbe,22,Central Midfield,Ghana,50000,AFC Eskilstuna,Sweden,loan transfer,out,2014
+549,Atvidabergs FF,Anton Tinnerholm,23,Right-Back,Sweden,2500000,Malmö FF,Sweden,0,out,2014
+550,GIF Sundsvall,Sebastian Rajalakso,25,Left Midfield,Sweden,0,No club,No country,0,in,2014
+551,GIF Sundsvall,Filip Tägtström,16,Centre-Back,Sweden,100000,Sundsvall U17,Sweden,0,in,2014
+552,GIF Sundsvall,Philip Olofsson,19,Attacking Midfield,Sweden,25000,Bodens BK,Sweden,loan transfer,out,2014
+553,IFK Norrköping,Andreas Vaikla,18,Goalkeeper,Estonia,150000,West Brom U18,England,free transfer,in,2015
+554,IFK Norrköping,Tesfaldet Tekie,18,Central Midfield,Sweden,1000000,Norrköping U21,Sweden,0,in,2015
+555,IFK Norrköping,Kenneth Udjus,32,Goalkeeper,Norway,0,No club,No country,0,in,2015
+556,IFK Norrköping,Mohanad Jeahze,19,Left-Back,Sweden,1000000,Norrköping U19,Sweden,0,in,2015
+557,IFK Norrköping,Alhaji Kamara,21,Centre-Forward,Sierra Leone,500000,Johor DT,Malaysia,"End of loanJul 1, 2015",in,2015
+558,IFK Norrköping,Christopher Meneses,25,Left-Back,Costa Rica,175000,LD Alajuelense,Costa Rica,free transfer,out,2015
+559,IFK Norrköping,Marcus Sahlman,30,Goalkeeper,Sweden,0,Halmia,Sweden,free transfer,out,2015
+560,IFK Norrköping,Alhaji Kamara,22,Centre-Forward,Sierra Leone,500000,D.C. United,United States,free transfer,out,2015
+561,IFK Norrköping,Mirza Halvadzic,19,Centre-Forward,Sweden,50000,Trelleborg,Sweden,loan transfer,out,2015
+562,IFK Göteborg,Lawson Sabah,18,Defensive Midfield,Ghana,75000,Inter Allies,Ghana,0,in,2015
+563,IFK Göteborg,Victor Sköld,25,Centre-Forward,Sweden,150000,Atvidaberg,Sweden,0,in,2015
+564,IFK Göteborg,Mads Albaek,25,Central Midfield,Denmark,350000,Stade Reims,France,0,in,2015
+565,IFK Göteborg,Riku Riski,25,Right Winger,Finland,250000,Rosenborg,Norway,loan transfer,in,2015
+566,IFK Göteborg,Malick Mané,26,Centre-Forward,Senegal,0,Hönefoss,Norway,"End of loanSep 16, 2015",in,2015
+567,IFK Göteborg,Lasse Vibe,28,Centre-Forward,Denmark,0,Brentford,England,1300000,out,2015
+568,IFK Göteborg,Karl Bohm,19,Right Midfield,Sweden,100000,Utsikten,Sweden,loan transfer,out,2015
+569,IFK Göteborg,Patrick Dyrestam,19,Centre-Back,Sweden,0,Utsikten,Sweden,loan transfer,out,2015
+570,IFK Göteborg,Malick Mané,26,Centre-Forward,Senegal,0,Najran SC,Saudi Arabia,loan transfer,out,2015
+571,IFK Göteborg,Heath Pearce,30,Left-Back,United States,0,No club,No country,0,out,2015
+572,IFK Göteborg,Thomas Mikkelsen,25,Centre-Forward,Denmark,350000,Odense BK,Denmark,"End of loanJun 30, 2015",out,2015
+573,AIK,Jos Hooiveld,32,Centre-Back,Netherlands,0,Southampton,England,free transfer,in,2015
+574,AIK,Stefan Ishizaki,33,Right Midfield,Sweden,0,LA Galaxy,United States,free transfer,in,2015
+575,AIK,Patrick Kpozo,18,Left Midfield,Ghana,300000,Inter Allies,Ghana,0,in,2015
+576,AIK,William Sheriff,18,Attacking Midfield,Sweden,0,AIK U19,Sweden,0,in,2015
+577,AIK,Alexander Isak,16,Centre-Forward,Sweden,40000000,AIK U19,Sweden,0,in,2015
+578,AIK,Edward Owusu,21,Defensive Midfield,Sweden,0,Akropolis,Sweden,"End of loanJun 30, 2015",in,2015
+579,AIK,Celso Borges,27,Central Midfield,Costa Rica,400000,Dep. La Coruña,Spain,"End of loanJun 30, 2015",in,2015
+580,AIK,Nabil Bahoui,24,Left Winger,Sweden,500000,Ahli,Saudi Arabia,910000,out,2015
+581,AIK,Panajotis Dimitriadis,28,midfield,Sweden,150000,Genclerbirligi,Turkey,550000,out,2015
+582,AIK,Edward Owusu,21,Defensive Midfield,Sweden,0,Piteå IF,Sweden,loan transfer,out,2015
+583,AIK,Marko Nikolic,18,Central Midfield,Sweden,175000,Syrianska FC,Sweden,loan transfer,out,2015
+584,AIK,Celso Borges,27,Central Midfield,Costa Rica,400000,Dep. La Coruña,Spain,0,out,2015
+585,AIK,Sam Lundholm,21,Right Winger,Sweden,50000,NEC Nijmegen,Netherlands,0,out,2015
+586,AIK,Sauli Väisänen,21,Centre-Back,Finland,400000,Helsinki IFK,Finland,loan transfer,out,2015
+587,AIK,Christos Gravius,17,Central Midfield,Sweden,450000,Vasalund,Sweden,loan transfer,out,2015
+588,IF Elfsborg,Viktor Prodell,27,Centre-Forward,Sweden,150000,KV Mechelen,Belgium,0,in,2015
+589,IF Elfsborg,Niklas Gunnarsson,24,Centre-Back,Norway,300000,Vålerenga,Norway,loan transfer,in,2015
+590,IF Elfsborg,Victor Rotting,22,Centre-Forward,Sweden,0,Örgryte,Sweden,"End of loanJul 1, 2015",in,2015
+591,IF Elfsborg,Victor Rotting,22,Centre-Forward,Sweden,0,Motala AIF,Sweden,loan transfer,out,2015
+592,IF Elfsborg,Viktor Prodell,27,Centre-Forward,Sweden,150000,KV Mechelen,Belgium,"End of loanOct 6, 2015",out,2015
+593,Malmö FF,Nikola Djurdjic,29,Centre-Forward,Serbia,425000,FC Augsburg,Germany,Loan fee:100000,in,2015
+594,Malmö FF,Johan Sellberg-Wiland,34,Goalkeeper,Sweden,0,FC Copenhagen,Denmark,free transfer,in,2015
+595,Malmö FF,Mahmut Özen,26,Right-Back,Sweden,75000,K. Erciyesspor,Turkey,free transfer,in,2015
+596,Malmö FF,Felipe Carvalho,21,Centre-Back,Uruguay,200000,Tacuarembó,Uruguay,0,in,2015
+597,Malmö FF,Vladimir Rodic,21,Right Winger,Montenegro,400000,Rad,Serbia,0,in,2015
+598,Malmö FF,Fredrik Andersson,26,Goalkeeper,Sweden,200000,Örgryte,Sweden,0,in,2015
+599,Malmö FF,Mattias Svanberg,16,Central Midfield,Sweden,12000000,Malmö U19,Sweden,0,in,2015
+600,Malmö FF,Petar Petrovic,19,Left Midfield,Sweden,250000,Värnamo,Sweden,"End of loanJul 1, 2015",in,2015
+601,Malmö FF,Sixten Mohlin,19,Goalkeeper,Cape Verde,150000,Västerås SK,Sweden,"End of loanJul 28, 2015",in,2015
+602,Malmö FF,Erik Berg,26,Centre-Back,Sweden,0,KAA Gent,Belgium,1700000,out,2015
+603,Malmö FF,Filip Helander,22,Centre-Back,Sweden,3500000,Hellas Verona,Italy,1000000,out,2015
+604,Malmö FF,Robin Olsen,25,Goalkeeper,Sweden,3000000,PAOK Salonika,Greece,650000,out,2015
+605,Malmö FF,Sixten Mohlin,19,Goalkeeper,Cape Verde,150000,Kristianstad,Sweden,loan transfer,out,2015
+606,Malmö FF,Marcelinho,30,Centre-Forward,Brazil,0,No club,No country,0,out,2015
+607,Djurgardens IF,Seon-min Moon,23,Left Winger,"Korea, South",750000,Östersund,Sweden,loan transfer,in,2015
+608,Djurgardens IF,Tino Kadewere,19,Right Winger,Zimbabwe,13000000,Harare City,Zimbabwe,loan transfer,in,2015
+609,Djurgardens IF,Martin Broberg,24,Right Midfield,Sweden,100000,Örebro SK,Sweden,0,out,2015
+610,Djurgardens IF,Nyasha Mushekwi,28,Centre-Forward,Zimbabwe,350000,Sundowns,South Africa,"End of loanAug 24, 2015",out,2015
+611,BK Häcken,Michiel Hemmen,28,Centre-Forward,Netherlands,0,SC Cambuur,Netherlands,free transfer,in,2015
+612,BK Häcken,Niels Vorthoren,27,Central Midfield,Netherlands,0,MVV Maastricht,Netherlands,free transfer,in,2015
+613,BK Häcken,Tefu Mashamaite,30,Centre-Back,South Africa,175000,Kaizer Chiefs,South Africa,free transfer,in,2015
+614,BK Häcken,Albin Skoglund,18,Attacking Midfield,Sweden,100000,Häcken U19,Sweden,0,in,2015
+615,BK Häcken,Simon Gustafson,20,Attacking Midfield,Sweden,2200000,Feyenoord,Netherlands,1500000,out,2015
+616,BK Häcken,Walid Atta,28,Centre-Back,Sweden,0,Genclerbirligi,Turkey,320000,out,2015
+617,BK Häcken,Leonard Zuta,23,Left-Back,North Macedonia,400000,HNK Rijeka,Croatia,50000,out,2015
+618,BK Häcken,Gunnar Heidar Thorvaldsson,33,Centre-Forward,Iceland,0,ÍBV,Iceland,free transfer,out,2015
+619,BK Häcken,Diego Lugano,34,Centre-Back,Uruguay,0,Cerro Porteño,Paraguay,free transfer,out,2015
+620,BK Häcken,Joakim Olausson,20,Central Midfield,Sweden,150000,Örgryte,Sweden,free transfer,out,2015
+621,Helsingborgs IF,Rade Prica,35,Centre-Forward,Sweden,0,M. Tel Aviv,Israel,free transfer,in,2015
+622,Helsingborgs IF,Frederik Helstrup,22,Centre-Back,Denmark,375000,AC Horsens,Denmark,0,in,2015
+623,Helsingborgs IF,Arnór Smárason,26,Second Striker,Iceland,75000,Torpedo Moscow,Russia,"End of loanJun 30, 2015",in,2015
+624,Helsingborgs IF,Emil Krafth,21,Right-Back,Sweden,3500000,Bologna,Italy,500000,out,2015
+625,Helsingborgs IF,Anton Kinnander,19,Centre-Forward,Sweden,0,Motala AIF,Sweden,loan transfer,out,2015
+626,Helsingborgs IF,Mohamed Ramadan,24,Centre-Forward,Lebanon,75000,Landskrona,Sweden,loan transfer,out,2015
+627,Helsingborgs IF,Victor Pálsson,24,Defensive Midfield,Iceland,800000,Esbjerg fB,Denmark,0,out,2015
+628,Helsingborgs IF,Gustav Jarl,20,Right-Back,Sweden,100000,AFC Eskilstuna,Sweden,loan transfer,out,2015
+629,Helsingborgs IF,Astrit Ajdarevic,25,Central Midfield,Albania,150000,Standard Liège,Belgium,"End of loanJul 14, 2015",out,2015
+630,Helsingborgs IF,Frederik Helstrup,22,Centre-Back,Denmark,375000,AC Horsens,Denmark,"End of loanJul 31, 2015",out,2015
+631,Örebro SK,Astrit Ajdarevic,25,Central Midfield,Albania,150000,Standard Liège,Belgium,free transfer,in,2015
+632,Örebro SK,Martin Broberg,24,Right Midfield,Sweden,100000,Djurgarden,Sweden,0,in,2015
+633,Örebro SK,Pär Ericsson,27,Centre-Forward,Sweden,0,Kalmar FF,Sweden,loan transfer,in,2015
+634,Örebro SK,David Hasler,18,Left-Back,Sweden,0,Syrianska IF,Sweden,loan transfer,in,2015
+635,Örebro SK,Jonathan Lundberg,17,Central Midfield,Sweden,0,Örebro SK U19,Sweden,0,in,2015
+636,Örebro SK,Carl Ekstrand Hamrén,19,Centre-Back,Sweden,0,Örebro SK U19,Sweden,0,in,2015
+637,Örebro SK,Anton Westerlund,20,Defensive Midfield,Sweden,0,BK Forward,Sweden,"End of loanJul 31, 2015",in,2015
+638,Örebro SK,Anton Westerlund,20,Defensive Midfield,Sweden,0,BK Forward,Sweden,free transfer,out,2015
+639,Örebro SK,Christer Lipovac,19,Centre-Forward,Sweden,0,Karlslunds IF,Sweden,loan transfer,out,2015
+640,Örebro SK,Mozart Surville,25,Centre-Forward,France,50000,BK Forward,Sweden,loan transfer,out,2015
+641,Örebro SK,Ahmed Yasin,24,Right Winger,Iraq,500000,Aarhus GF,Denmark,0,out,2015
+642,Örebro SK,Michael Seaton,19,Centre-Forward,Jamaica,125000,D.C. United,United States,"End of loanJun 4, 2015",out,2015
+643,Gefle IF,Kwame Bonsu,20,Central Midfield,Ghana,300000,Mjällby AIF,Sweden,0,in,2015
+644,Gefle IF,Zoran Akovic,29,Goalkeeper,Montenegro,50000,Husqvarna,Sweden,loan transfer,in,2015
+645,Gefle IF,Mattias Hugosson,42,Goalkeeper,Sweden,0,No club,No country,0,in,2015
+646,Gefle IF,Emil Bellander,21,Centre-Forward,Sweden,0,Brommapojkarna,Sweden,"End of loanJul 21, 2015",in,2015
+647,Gefle IF,Oskar Larsson,20,Goalkeeper,Sweden,75000,Dalkurd,Sweden,loan transfer,out,2015
+648,Gefle IF,Christoffer Aspgren,19,Right Midfield,Sweden,0,Piteå IF,Sweden,loan transfer,out,2015
+649,Hammarby IF,Ögmundur Kristinsson,26,Goalkeeper,Iceland,500000,Randers FC,Denmark,free transfer,in,2015
+650,Hammarby IF,Richárd Magyar,24,Centre-Back,Sweden,400000,FC Aarau,Switzerland,free transfer,in,2015
+651,Hammarby IF,Imad Khalili,28,Centre-Forward,Palästina,100000,FC Baniyas,United Arab Emirates,0,in,2015
+652,Hammarby IF,Joseph Aidoo,19,Centre-Back,Ghana,6000000,Inter Allies,Ghana,loan transfer,in,2015
+653,Hammarby IF,Jakob Orlov,29,Centre-Forward,Sweden,0,Brann,Norway,loan transfer,in,2015
+654,Hammarby IF,William Eskelinen,18,Goalkeeper,Sweden,700000,Värmdö IF,Sweden,"End of loanMay 28, 2015",in,2015
+655,Hammarby IF,Johannes Hopf,28,Goalkeeper,Sweden,0,Genclerbirligi,Turkey,975000,out,2015
+656,Hammarby IF,Nahir Besara,24,Second Striker,Sweden,600000,Göztepe,Turkey,0,out,2015
+657,Hammarby IF,Viktor Nordin,19,Right Midfield,Sweden,0,IK Frej Täby,Sweden,loan transfer,out,2015
+658,Hammarby IF,Amadaiya Rennie,25,Right Winger,Liberia,100000,Brann,Norway,loan transfer,out,2015
+659,GIF Sundsvall,Robert Hammarstedt,27,Centre-Back,Sweden,0,Östersund,Sweden,free transfer,in,2015
+660,GIF Sundsvall,Shpetim Hasani,32,Centre-Forward,Kosovo,0,Gornik Leczna,Poland,free transfer,in,2015
+661,GIF Sundsvall,Robert Lundström,25,Right-Back,Sweden,200000,Vålerenga,Norway,0,out,2015
+662,GIF Sundsvall,Smajl Suljevic,21,Defensive Midfield,Sweden,100000,IK Frej Täby,Sweden,loan transfer,out,2015
+663,Kalmar FF,Svante Ingelsson,17,Central Midfield,Sweden,600000,Kalmar U19,Sweden,0,in,2015
+664,Kalmar FF,Peter Westberg,19,midfield,Sweden,50000,Oskarshamn,Sweden,"End of loanSep 17, 2015",in,2015
+665,Kalmar FF,Pär Ericsson,28,Centre-Forward,Sweden,0,Jönköping,Sweden,free transfer,out,2015
+666,Kalmar FF,Tor Öyvind Hovda,25,Central Midfield,Norway,100000,Atvidaberg,Sweden,loan transfer,out,2015
+667,Kalmar FF,Pär Ericsson,27,Centre-Forward,Sweden,0,Örebro SK,Sweden,loan transfer,out,2015
+668,Kalmar FF,Sebastian Ramhorn,19,Centre-Back,Sweden,0,Atvidaberg,Sweden,loan transfer,out,2015
+669,Falkenbergs FF,Carl-Oscar Andersson,23,Attacking Midfield,Sweden,25000,NY Cosmos,United States,free transfer,out,2015
+670,Falkenbergs FF,Hampus Svensson,20,Defensive Midfield,Sweden,100000,Vinbergs IF,Sweden,loan transfer,out,2015
+671,Falkenbergs FF,Junaid Sait,22,Centre-Back,South Africa,100000,Milano United,South Africa,0,out,2015
+672,Jönköpings Södra IF,Pär Ericsson,28,Centre-Forward,Sweden,0,Kalmar FF,Sweden,free transfer,in,2015
+673,Östersunds FK,Sotirios Papagiannopoulos,24,Centre-Back,Sweden,1000000,PAOK Salonika,Greece,free transfer,in,2015
+674,Östersunds FK,Andrew Stadler,27,Centre-Forward,United States,75000,Landskrona,Sweden,0,in,2015
+675,Östersunds FK,Robert Hammarstedt,27,Centre-Back,Sweden,0,GIF Sundsvall,Sweden,free transfer,out,2015
+676,Östersunds FK,Linus Sjöberg,21,Central Midfield,Sweden,0,Dalkurd,Sweden,loan transfer,out,2015
+677,Östersunds FK,Seon-min Moon,23,Left Winger,"Korea, South",750000,Djurgarden,Sweden,loan transfer,out,2015
+678,Östersunds FK,Taylor Morgan,24,Centre-Forward,England,0,Airdrieonians,Scotland,loan transfer,out,2015
+679,Östersunds FK,Emir Smajic,27,Centre-Forward,Sweden,0,No club,No country,0,out,2015
+680,Malmö FF,Behrang Safari,31,Left-Back,Sweden,200000,FC Basel,Switzerland,free transfer,in,2016
+681,Malmö FF,Alexander Jeremejeff,22,Centre-Forward,Sweden,1000000,Häcken,Sweden,0,in,2016
+682,Malmö FF,Dennis Hadzikadunic,18,Centre-Back,Bosnia-Herzegovina,2500000,Malmö U19,Sweden,0,in,2016
+683,Malmö FF,Vidar Örn Kjartansson,26,Centre-Forward,Iceland,800000,M. Tel Aviv,Israel,3500000,out,2016
+684,Malmö FF,Guillermo Molins,27,Centre-Forward,Sweden,200000,BJ Renhe,China,free transfer,out,2016
+685,Malmö FF,Vladimir Rodic,22,Right Winger,Montenegro,400000,Karabükspor,Turkey,0,out,2016
+686,Malmö FF,Piotr Johansson,21,Right Midfield,Sweden,400000,Östersund,Sweden,loan transfer,out,2016
+687,Malmö FF,Felipe Carvalho,22,Centre-Back,Uruguay,200000,Falkenberg,Sweden,loan transfer,out,2016
+688,Malmö FF,Zlatan Azinovic,28,Goalkeeper,Sweden,0,No club,No country,0,out,2016
+689,AIK,John Chibuike,27,Second Striker,Nigeria,200000,Gaziantepspor,Turkey,free transfer,in,2016
+690,AIK,Chinedu Obasi,30,Centre-Forward,Nigeria,100000,No club,No country,0,in,2016
+691,AIK,William Sheriff,19,Attacking Midfield,Sweden,0,Nyköping,Sweden,"End of loanJul 18, 2016",in,2016
+692,AIK,Rickson Mansiamina,19,Centre-Forward,Sweden,75000,Helsinki IFK,Finland,"End of loanJul 9, 2016",in,2016
+693,AIK,Marko Nikolic,18,Central Midfield,Sweden,175000,Syrianska FC,Sweden,"End of loanAug 1, 2016",in,2016
+694,AIK,William Sheriff,19,Attacking Midfield,Sweden,0,Karlbergs BK,Sweden,free transfer,out,2016
+695,AIK,Fredrik Brustad,27,Right Winger,Norway,200000,Molde,Norway,0,out,2016
+696,AIK,Niclas Eliasson,20,Left Midfield,Sweden,3000000,Norrköping,Sweden,loan transfer,out,2016
+697,AIK,Carlos Strandberg,20,Centre-Forward,Sweden,2800000,CSKA Moscow,Russia,"End of loanJul 18, 2016",out,2016
+698,IFK Norrköping,David Moberg Karlsson,22,Right Winger,Sweden,2200000,Nordsjaelland,Denmark,350000,in,2016
+699,IFK Norrköping,Pontus Almqvist,17,Right Winger,Sweden,2800000,Nike Academy,England,free transfer,in,2016
+700,IFK Norrköping,Michael Langer,31,Goalkeeper,Austria,100000,TB Rowdies,United States,0,in,2016
+701,IFK Norrköping,Karl Holmberg,23,Centre-Forward,Sweden,600000,Örebro SK,Sweden,0,in,2016
+702,IFK Norrköping,Niclas Eliasson,20,Left Midfield,Sweden,3000000,AIK,Sweden,loan transfer,in,2016
+703,IFK Norrköping,Arnór Ingvi Traustason,23,Left Winger,Iceland,700000,Rapid Vienna,Austria,2300000,out,2016
+704,IFK Norrköping,Christoffer Nyman,23,Centre-Forward,Sweden,1500000,E. Braunschweig,Germany,700000,out,2016
+705,IFK Norrköping,Emir Kujovic,28,Centre-Forward,Sweden,300000,KAA Gent,Belgium,0,out,2016
+706,IFK Norrköping,Joel Enarsson,23,Centre-Forward,Sweden,0,GIF Sundsvall,Sweden,0,out,2016
+707,IFK Norrköping,Abbas Hassan,31,Goalkeeper,Lebanon,0,Örgryte,Sweden,0,out,2016
+708,IFK Norrköping,Gentrit Citaku,20,midfield,Sweden,0,Värnamo,Sweden,loan transfer,out,2016
+709,IFK Norrköping,Kenneth Udjus,33,Goalkeeper,Norway,0,No club,No country,0,out,2016
+710,IFK Göteborg,Scott Jamieson,27,Left-Back,Australia,350000,Western Sydney,Australia,free transfer,in,2016
+711,IFK Göteborg,Elías Már Ómarsson,21,Centre-Forward,Iceland,750000,Vålerenga,Norway,loan transfer,in,2016
+712,IFK Göteborg,Pontus Dahlberg,17,Goalkeeper,Sweden,1200000,IFK U19,Sweden,0,in,2016
+713,IFK Göteborg,Gustav Engvall,20,Centre-Forward,Sweden,1000000,Bristol City,England,1600000,out,2016
+714,IFK Göteborg,Haitam Aleesami,25,Left-Back,Norway,1200000,US Palermo,Italy,1380000,out,2016
+715,IFK Göteborg,Oliver Gustafsson,23,Goalkeeper,Sweden,50000,Ljungskile,Sweden,free transfer,out,2016
+716,IFK Göteborg,Victor Sköld,26,Centre-Forward,Sweden,150000,Örebro SK,Sweden,0,out,2016
+717,IFK Göteborg,Scott Jamieson,28,Left-Back,Australia,350000,Melbourne City,Australia,0,out,2016
+718,IFK Göteborg,Hjörtur Hermannsson,21,Centre-Back,Iceland,800000,PSV U21,Netherlands,"End of loanJul 1, 2016",out,2016
+719,IFK Göteborg,Mauricio Albornoz,28,Defensive Midfield,Sweden,100000,Atvidaberg,Sweden,"End of loanJul 1, 2016",out,2016
+720,IF Elfsborg,Issam Jebali,24,Second Striker,Tunisia,600000,Värnamo,Sweden,0,in,2016
+721,IF Elfsborg,Daniel Gustafsson,25,Right Winger,Sweden,300000,Örebro SK,Sweden,0,in,2016
+722,IF Elfsborg,Ibrahim Dresevic,19,Centre-Back,Kosovo,1000000,IF Elfsborg U19,Sweden,0,in,2016
+723,IF Elfsborg,Simon Olsson,19,Central Midfield,Sweden,1000000,IF Elfsborg U21,Sweden,0,in,2016
+724,IF Elfsborg,David Olsson,19,Goalkeeper,Sweden,100000,IF Elfsborg U19,Sweden,0,in,2016
+725,IF Elfsborg,Rami Kaib,19,Left-Back,Sweden,550000,IF Elfsborg U19,Sweden,0,in,2016
+726,IF Elfsborg,Simon Hedlund,23,Centre-Forward,Sweden,1500000,Union Berlin,Germany,850000,out,2016
+727,IF Elfsborg,Marcus Rohdén,25,Central Midfield,Sweden,700000,Crotone,Italy,500000,out,2016
+728,IF Elfsborg,Anton Andreasson,23,Central Midfield,Sweden,150000,Pro Patria,Italy,0,out,2016
+729,IF Elfsborg,Viktor Nilsson,19,Centre-Back,Sweden,0,Varbergs BoIS,Sweden,loan transfer,out,2016
+730,Kalmar FF,Mans Söderqvist,23,Centre-Forward,Sweden,150000,Hammarby,Sweden,0,in,2016
+731,Kalmar FF,Henri Anier,25,Centre-Forward,Estonia,350000,Dundee United,Scotland,0,in,2016
+732,Kalmar FF,Mahmoud Eid,23,Left Winger,Palästina,100000,Atvidaberg,Sweden,0,in,2016
+733,Kalmar FF,Mans Olström,19,Centre-Forward,Sweden,50000,Oskarshamn,Sweden,"End of loanAug 2, 2016",in,2016
+734,Kalmar FF,Marcus Antonsson,25,Centre-Forward,Sweden,600000,Leeds,England,2400000,out,2016
+735,Djurgardens IF,Magnus Eriksson,26,Attacking Midfield,Sweden,1000000,Bröndby IF,Denmark,400000,in,2016
+736,Djurgardens IF,Othman El Kabir,24,Left Midfield,Netherlands,2000000,AFC Eskilstuna,Sweden,150000,in,2016
+737,Djurgardens IF,Kebba Ceesay,28,Centre-Back,The Gambia,100000,Lech Poznan,Poland,15000,in,2016
+738,Djurgardens IF,Niklas Gunnarsson,25,Centre-Back,Norway,300000,Vålerenga,Norway,0,in,2016
+739,Djurgardens IF,Andreas Isaksson,34,Goalkeeper,Sweden,0,Kasimpasa,Turkey,0,in,2016
+740,Djurgardens IF,Sam Johnson,23,Centre-Forward,Liberia,500000,WH Zall,China,4200000,out,2016
+741,Djurgardens IF,Omar Colley,23,Centre-Back,The Gambia,6000000,KRC Genk,Belgium,1700000,out,2016
+742,Djurgardens IF,Stefan Karlsson,27,Right-Back,Sweden,0,Östersund,Sweden,0,out,2016
+743,Djurgardens IF,Hampus Nilsson,26,Goalkeeper,Sweden,175000,Östersund,Sweden,loan transfer,out,2016
+744,Östersunds FK,Curtis Edwards,22,Central Midfield,England,350000,Ytterhogdal,Sweden,0,in,2016
+745,Östersunds FK,Stefan Karlsson,27,Right-Back,Sweden,0,Djurgarden,Sweden,0,in,2016
+746,Östersunds FK,Piotr Johansson,21,Right Midfield,Sweden,400000,Malmö FF,Sweden,loan transfer,in,2016
+747,Östersunds FK,Hampus Nilsson,26,Goalkeeper,Sweden,175000,Djurgarden,Sweden,loan transfer,in,2016
+748,Östersunds FK,Hosam Aiesh,21,Right Winger,Sweden,400000,Varbergs BoIS,Sweden,"End of loanJun 30, 2016",in,2016
+749,Östersunds FK,Haraldur Björnsson,27,Goalkeeper,Iceland,100000,Lillestrøm SK,Norway,free transfer,out,2016
+750,Östersunds FK,Sebastian Lundbäck,20,Defensive Midfield,Sweden,0,Team TG,Sweden,loan transfer,out,2016
+751,Östersunds FK,Michael Omoh,24,Left Midfield,Nigeria,200000,Örebro SK,Sweden,0,out,2016
+752,Östersunds FK,Monday Samuel,22,Defensive Midfield,Sweden,100000,Helsingborg,Sweden,0,out,2016
+753,Östersunds FK,Jamal Blackman,22,Goalkeeper,England,600000,Chelsea,England,"End of loanJun 12, 2016",out,2016
+754,Örebro SK,Martin Lorentzson,32,Right-Back,Sweden,100000,Coventry,England,free transfer,in,2016
+755,Örebro SK,Alfred Ajdarevic,18,Left Midfield,Kosovo,100000,Falkenberg U19,Sweden,free transfer,in,2016
+756,Örebro SK,Nahir Besara,25,Second Striker,Sweden,600000,Göztepe,Turkey,free transfer,in,2016
+757,Örebro SK,Michael Omoh,24,Left Midfield,Nigeria,200000,Östersund,Sweden,0,in,2016
+758,Örebro SK,Anton Fagerström,24,Goalkeeper,Sweden,250000,Nyköping,Sweden,0,in,2016
+759,Örebro SK,Victor Sköld,26,Centre-Forward,Sweden,150000,IFK Göteborg,Sweden,0,in,2016
+760,Örebro SK,Ferhad Ayaz,21,Left Winger,Sweden,250000,No club,No country,0,in,2016
+761,Örebro SK,Jacob Rinne,23,Goalkeeper,Sweden,800000,KAA Gent,Belgium,800000,out,2016
+762,Örebro SK,Crespo Kamara,23,Centre-Forward,Sierra Leone,125000,Häcken,Sweden,0,out,2016
+763,Örebro SK,Karl Holmberg,23,Centre-Forward,Sweden,600000,Norrköping,Sweden,0,out,2016
+764,Örebro SK,Daniel Gustafsson,25,Right Winger,Sweden,300000,Elfsborg,Sweden,0,out,2016
+765,BK Häcken,Rasmus Lindgren,31,Centre-Back,Sweden,100000,FC Groningen,Netherlands,free transfer,in,2016
+766,BK Häcken,Alexander Farnerud,32,Central Midfield,Sweden,100000,Torino,Italy,free transfer,in,2016
+767,BK Häcken,Crespo Kamara,23,Centre-Forward,Sierra Leone,125000,Örebro SK,Sweden,0,in,2016
+768,BK Häcken,Kevin Ackermann,16,Central Midfield,Sweden,225000,BK Häcken U17,Sweden,0,in,2016
+769,BK Häcken,Egzon Binaku,21,Left-Back,Albania,150000,Ljungskile,Sweden,"End of loanSep 6, 2016",in,2016
+770,BK Häcken,Samuel Gustafson,21,Central Midfield,Sweden,700000,Torino,Italy,600000,out,2016
+771,BK Häcken,Simon Sandberg,22,Right-Back,Sweden,600000,Levski Sofia,Bulgaria,170000,out,2016
+772,BK Häcken,Dardan Rexhepi,24,Centre-Forward,Kosovo,75000,GAIS,Sweden,0,out,2016
+773,BK Häcken,Tefu Mashamaite,31,Centre-Back,South Africa,175000,SuperSport Utd.,South Africa,0,out,2016
+774,BK Häcken,Alexander Jeremejeff,22,Centre-Forward,Sweden,1000000,Malmö FF,Sweden,0,out,2016
+775,BK Häcken,Egzon Binaku,20,Left-Back,Albania,150000,Ljungskile,Sweden,loan transfer,out,2016
+776,BK Häcken,Niels Vorthoren,28,Central Midfield,Netherlands,0,No club,No country,0,out,2016
+777,Hammarby IF,Pa Dibba,28,Centre-Forward,The Gambia,275000,GIF Sundsvall,Sweden,100000,in,2016
+778,Hammarby IF,Petter Andersson,31,Central Midfield,Sweden,0,FC Midtjylland,Denmark,free transfer,in,2016
+779,Hammarby IF,Ian Smith,18,Right-Back,Costa Rica,175000,Santos FC,Costa Rica,loan transfer,in,2016
+780,Hammarby IF,Leo Bengtsson,18,Left Winger,Sweden,1200000,Hammarby U19,Sweden,0,in,2016
+781,Hammarby IF,William Eskelinen,19,Goalkeeper,Sweden,700000,Aspudden-Tellus,Sweden,"End of loanJul 1, 2016",in,2016
+782,Hammarby IF,Dusan Jajic,18,Central Midfield,Sweden,150000,Enskede,Sweden,loan transfer,out,2016
+783,Hammarby IF,Mans Söderqvist,23,Centre-Forward,Sweden,150000,Kalmar FF,Sweden,0,out,2016
+784,Hammarby IF,Amadaiya Rennie,26,Right Winger,Liberia,100000,Antalyaspor,Turkey,0,out,2016
+785,Hammarby IF,William Eskelinen,19,Goalkeeper,Sweden,700000,Enskede,Sweden,loan transfer,out,2016
+786,Hammarby IF,Gershon Koffie,25,Central Midfield,Ghana,225000,Revolution,United States,loan transfer,out,2016
+787,Hammarby IF,Melker Hallberg,20,Central Midfield,Sweden,600000,Udinese Calcio,Italy,"End of loanJun 30, 2016",out,2016
+788,Jönköpings Södra IF,Cala,26,Central Midfield,Spain,0,Real Jaén CF,Spain,free transfer,in,2016
+789,Jönköpings Södra IF,Fran Marmolejo,28,Goalkeeper,Spain,0,CD El Palo ,Spain,free transfer,in,2016
+790,Jönköpings Södra IF,Sebastian Holmqvist,23,Right Midfield,Sweden,0,Nest-Sotra IL,Norway,"End of loanJul 26, 2016",in,2016
+791,Jönköpings Södra IF,Sebastian Holmqvist,23,Right Midfield,Sweden,0,Lysekloster IL,Norway,loan transfer,out,2016
+792,Jönköpings Södra IF,Simon Dimitrijevic,20,Defensive Midfield,Sweden,0,Husqvarna,Sweden,loan transfer,out,2016
+793,Jönköpings Södra IF,Moses Ogbu,25,Centre-Forward,Nigeria,625000,Sirius,Sweden,loan transfer,out,2016
+794,GIF Sundsvall,Joel Enarsson,23,Centre-Forward,Sweden,0,Norrköping,Sweden,0,in,2016
+795,GIF Sundsvall,Mauricio Albornoz,28,Defensive Midfield,Sweden,100000,Atvidaberg,Sweden,loan transfer,in,2016
+796,GIF Sundsvall,Jonathan Morsay,19,Left Winger,Sweden,300000,Sundsvall U19,Sweden,0,in,2016
+797,GIF Sundsvall,Granit Buzuku,21,Attacking Midfield,Sweden,0,Egersund,Norway,"End of loanJun 30, 2015",in,2016
+798,GIF Sundsvall,Granit Buzuku,23,Attacking Midfield,Sweden,0,IFK Luleå,Sweden,"End of loanJul 13, 2016",in,2016
+799,GIF Sundsvall,Jonathan Malmberg,22,Goalkeeper,Sweden,50000,Levanger FK,Norway,"End of loanJul 18, 2016",in,2016
+800,GIF Sundsvall,Rúnar Már Sigurjónsson,26,Central Midfield,Iceland,1200000,Grasshoppers,Switzerland,1100000,out,2016
+801,GIF Sundsvall,Pa Dibba,28,Centre-Forward,The Gambia,275000,Hammarby,Sweden,100000,out,2016
+802,GIF Sundsvall,Granit Buzuku,23,Attacking Midfield,Sweden,0,Team TG,Sweden,loan transfer,out,2016
+803,GIF Sundsvall,Shpetim Hasani,34,Centre-Forward,Kosovo,0,Degerfors,Sweden,0,out,2016
+804,IK Sirius,Jesper Arvidsson,31,Left-Back,Sweden,100000,Vålerenga,Norway,free transfer,in,2016
+805,IK Sirius,Karim Fegrouch,34,Goalkeeper,Morocco,0,FAR Rabat,Morocco,free transfer,in,2016
+806,IK Sirius,Oscar Kindlund,19,Defensive Midfield,Sweden,0,IFK U19,Sweden,0,in,2016
+807,IK Sirius,Moses Ogbu,25,Centre-Forward,Nigeria,625000,Jönköping,Sweden,loan transfer,in,2016
+808,IK Sirius,Kyria Kambusi,18,Defensive Midfield,Sweden,0,Sirius U19,Sweden,0,in,2016
+809,IK Sirius,Alexander Hedman,20,Centre-Back,Sweden,40000,Karlbergs BK,Sweden,free transfer,out,2016
+810,IK Sirius,Nicklas Maripuu,24,Defensive Midfield,Sweden,150000,J'ville Armada,United States,0,out,2016
+811,IK Sirius,Paul Torres,24,Right Midfield,United States,25000,Assyriska FF,Sweden,0,out,2016
+812,IK Sirius,Kujtim Bala,26,Left-Back,Sweden,0,Dalkurd,Sweden,0,out,2016
+813,IK Sirius,Daniel Ahonen,25,Defensive Midfield,Sweden,0,Östers IF,Sweden,0,out,2016
+814,IK Sirius,Oscar Kindlund,19,Defensive Midfield,Sweden,0,IFK U19,Sweden,"End of loanAug 4, 2016",out,2016
+815,AFC Eskilstuna,Korede Aiyegbusi,28,Left-Back,England,0,Siah Jamegan FC,Iran,free transfer,in,2016
+816,AFC Eskilstuna,Soufiane Laghmouchi,26,Left Winger,Morocco,0,FC Volendam,Netherlands,free transfer,in,2016
+817,AFC Eskilstuna,Aaron Zahui Bazoukou,20,Centre-Forward,Sweden,0,Vasalund,Sweden,0,in,2016
+818,AFC Eskilstuna,Davor Blazevic,23,Goalkeeper,Sweden,300000,No club,No country,0,in,2016
+819,AFC Eskilstuna,Othman El Kabir,24,Left Midfield,Netherlands,2000000,Djurgarden,Sweden,150000,out,2016
+820,AFC Eskilstuna,Christoff Dias de Oliveira,21,Attacking Midfield,Netherlands,0,IK Sleipner,Sweden,loan transfer,out,2016
+821,AFC Eskilstuna,Haris Cirak,21,Defensive Midfield,Sweden,150000,Elverum,Norway,loan transfer,out,2016
+822,Halmstads BK,Marcus Mathisen,20,Central Midfield,Denmark,600000,FC Copenhagen,Denmark,free transfer,in,2016
+823,Halmstads BK,Rasmus Wiedesheim-Paul,17,Centre-Forward,Sweden,400000,Halmstad U19,Sweden,0,in,2016
+824,Halmstads BK,Ardian Berisha,18,Centre-Forward,Sweden,75000,Halmstad U19,Sweden,0,in,2016
+825,Halmstads BK,Gabriel Gudmundsson,17,Left-Back,Sweden,1800000,Halmstad U19,Sweden,0,in,2016
+826,Halmstads BK,Jonathan Svedberg,17,Defensive Midfield,Sweden,100000,Halmstad U19,Sweden,0,in,2016
+827,Halmstads BK,Alexander Arvidsson,18,Defensive Midfield,Sweden,0,Halmstad U19,Sweden,0,in,2016
+828,Halmstads BK,David Struski Persson,19,Left-Back,Sweden,0,Halmstad U19,Sweden,0,in,2016
+829,Halmstads BK,Adrian Hallsö,19,Centre-Back,Sweden,50000,Halmstad U19,Sweden,0,in,2016
+830,Halmstads BK,Isak Pettersson,19,Goalkeeper,Sweden,800000,Östers IF,Sweden,"End of loanJul 15, 2016",in,2016
+831,Halmstads BK,Junes Barny,26,Central Midfield,Sweden,200000,Difaâ El Jadida,Morocco,300000,out,2016
+832,Halmstads BK,Mak Lind,28,Centre-Back,Lebanon,0,No club,No country,0,out,2016
+833,Halmstads BK,Mads Roerslev Rasmussen,17,Right-Back,Denmark,1500000,Copenhagen U19,Denmark,"End of loanMay 11, 2017",out,2016
+834,Malmö FF,Kingsley Sarfo,22,Central Midfield,Ghana,200000,Sirius,Sweden,1450000,in,2017
+835,Malmö FF,Carlos Strandberg,21,Centre-Forward,Sweden,2800000,Club Brugge,Belgium,1000000,in,2017
+836,Malmö FF,Bonke Innocent,21,Defensive Midfield,Nigeria,800000,Lillestrøm SK,Norway,900000,in,2017
+837,Malmö FF,Johan Dahlin,30,Goalkeeper,Sweden,400000,FC Midtjylland,Denmark,350000,in,2017
+838,Malmö FF,Samuel Adrian,20,Defensive Midfield,Sweden,150000,Malmö U21,Sweden,0,in,2017
+839,Malmö FF,Hugo Andersson,18,Centre-Back,Sweden,300000,Malmö U19,Sweden,0,in,2017
+840,Malmö FF,Zlatan Azinovic,28,Goalkeeper,Sweden,0,Ängelholm,Sweden,"End of loanJun 30, 2016",in,2017
+841,Malmö FF,Pawel Cibicki,23,Left Winger,Sweden,200000,Leeds,England,1600000,out,2017
+842,Malmö FF,Yoshimar Yotún,27,Central Midfield,Peru,2500000,Orlando City SC,United States,1000000,out,2017
+843,Malmö FF,Pa Konate,23,Left-Back,Guinea,400000,SPAL,Italy,285000,out,2017
+844,Malmö FF,Tobias Sana,27,Left Winger,Sweden,600000,Aarhus GF,Denmark,0,out,2017
+845,Malmö FF,Johan Sellberg-Wiland,36,Goalkeeper,Sweden,0,Hammarby,Sweden,0,out,2017
+846,Malmö FF,Kingsley Sarfo,23,Central Midfield,Ghana,200000,No club,No country,0,out,2017
+847,AIK,Robert Taylor,22,Left Winger,Finland,600000,RoPS,Finland,100000,in,2017
+848,AIK,Chinedu Obasi,31,Centre-Forward,Nigeria,100000,SZ FC,China,free transfer,in,2017
+849,AIK,Rasmus Lindkvist,27,Left Midfield,Sweden,250000,Vålerenga,Norway,0,in,2017
+850,AIK,Nicolás Stefanelli,22,Centre-Forward,Argentina,750000,Defensa,Argentina,0,in,2017
+851,AIK,Agustin Gómez,20,Centre-Back,Argentina,25000,Defensa II,Argentina,loan transfer,in,2017
+852,AIK,Enoch Kofi Adu,27,Defensive Midfield,Ghana,300000,No club,No country,0,in,2017
+853,AIK,Rickson Mansiamina,20,Centre-Forward,Sweden,75000,GAIS,Sweden,"End of loanJul 15, 2017",in,2017
+854,AIK,Patrick Kpozo,20,Left Midfield,Ghana,300000,Tromsø IL,Norway,"End of loanJul 20, 2017",in,2017
+855,AIK,Sauli Väisänen,23,Centre-Back,Finland,400000,SPAL,Italy,225000,out,2017
+856,AIK,Sulejman Krpic,26,Centre-Forward,Bosnia-Herzegovina,400000,Sloboda Tuzla,Bosnia-Herzegovina,free transfer,out,2017
+857,AIK,Alan Naib,19,attack,Sweden,0,Karlbergs BK,Sweden,loan transfer,out,2017
+858,AIK,Patrick Kpozo,20,Left Midfield,Ghana,300000,Östersund,Sweden,0,out,2017
+859,AIK,Ahmed Yasin,26,Right Winger,Iraq,500000,Häcken,Sweden,loan transfer,out,2017
+860,AIK,Rickson Mansiamina,20,Centre-Forward,Sweden,75000,Syrianska FC,Sweden,loan transfer,out,2017
+861,AIK,Eero Markkanen,26,Centre-Forward,Finland,250000,Dynamo Dresden,Germany,loan transfer,out,2017
+862,AIK,Anton Salétros,21,Central Midfield,Sweden,600000,Újpest FC,Hungary,loan transfer,out,2017
+863,AIK,Stipe Vrdoljak,23,Left-Back,Croatia,100000,NK Novigrad,Croatia,"End of loanJul 31, 2017",out,2017
+864,Djurgardens IF,Julian Kristoffersen,20,Centre-Forward,Norway,400000,FC Copenhagen,Denmark,free transfer,in,2017
+865,Djurgardens IF,Gustav Engvall,21,Centre-Forward,Sweden,1000000,Bristol City,England,loan transfer,in,2017
+866,Djurgardens IF,Haruna Garba,24,Centre-Forward,Nigeria,50000,Gzira Utd,Malta,"End of loanMay 23, 2018",in,2017
+867,Djurgardens IF,Haruna Garba,24,Centre-Forward,Nigeria,50000,Gzira Utd,Malta,0,out,2017
+868,Djurgardens IF,Joseph Ceesay,19,Left Winger,Sweden,450000,IK Frej Täby,Sweden,loan transfer,out,2017
+869,Djurgardens IF,Jesper Karlström,22,Defensive Midfield,Sweden,1500000,Brommapojkarna,Sweden,loan transfer,out,2017
+870,Djurgardens IF,Gustav Engvall,21,Centre-Forward,Sweden,1000000,Bristol City,England,"End of loanJul 16, 2017",out,2017
+871,BK Häcken,Mervan Celik,27,Left Winger,Sweden,250000,Akhisarspor,Turkey,free transfer,in,2017
+872,BK Häcken,Mathias Ranégie,33,Centre-Forward,Sweden,0,Watford,England,free transfer,in,2017
+873,BK Häcken,Ahmed Yasin,26,Right Winger,Iraq,500000,AIK,Sweden,loan transfer,in,2017
+874,BK Häcken,Lucas Hedlund,19,Centre-Forward,Sweden,100000,Häcken U19,Sweden,0,in,2017
+875,BK Häcken,Kevin Yakob,17,Attacking Midfield,Sweden,400000,Häcken U19,Sweden,0,in,2017
+876,BK Häcken,Gustav Berggren,20,Defensive Midfield,Sweden,1200000,Varbergs BoIS,Sweden,"End of loanNov 30, 2017",in,2017
+877,BK Häcken,Shkodran Maholli,24,Centre-Forward,Sweden,100000,Sirius,Sweden,0,out,2017
+878,BK Häcken,Gustav Berggren,19,Defensive Midfield,Sweden,1200000,Varbergs BoIS,Sweden,loan transfer,out,2017
+879,BK Häcken,Albin Skoglund,20,Attacking Midfield,Sweden,100000,Örgryte,Sweden,loan transfer,out,2017
+880,BK Häcken,Mostapha El Kabir,29,Centre-Forward,Morocco,100000,Antalyaspor,Turkey,"End of loanMay 27, 2018",out,2017
+881,Östersunds FK,Patrick Kpozo,20,Left Midfield,Ghana,300000,AIK,Sweden,0,in,2017
+882,Östersunds FK,Frank Arhin,18,Central Midfield,Ghana,200000,Right to Dream,Ghana,0,in,2017
+883,Östersunds FK,Andrew Mills,23,Goalkeeper,England,150000,IFK Östersund,Sweden,loan transfer,in,2017
+884,Östersunds FK,Emil Hedvall,34,Goalkeeper,Sweden,0,No club,No country,0,in,2017
+885,Östersunds FK,Sebastian Lundbäck,21,Defensive Midfield,Sweden,0,Team TG,Sweden,loan transfer,out,2017
+886,Östersunds FK,Darijan Bojanic,22,Defensive Midfield,Sweden,1200000,Helsingborg,Sweden,"End of loanAug 11, 2017",out,2017
+887,Östersunds FK,Andrew Mills,23,Goalkeeper,England,150000,IFK Östersund,Sweden,"End of loanJul 31, 2017",out,2017
+888,IFK Norrköping,Alexander Jakobsen,23,Left Winger,Egypt,250000,Viborg FF,Denmark,0,in,2017
+889,IFK Norrköping,Aslak Falch,25,Goalkeeper,Norway,150000,Vålerenga,Norway,0,in,2017
+890,IFK Norrköping,Johannes Vall,24,Left-Back,Sweden,200000,Falkenberg,Sweden,0,in,2017
+891,IFK Norrköping,Mohanad Jeahze,20,Left-Back,Sweden,1000000,Degerfors,Sweden,"End of loanJul 1, 2017",in,2017
+892,IFK Norrköping,Mohanad Jeahze,20,Left-Back,Sweden,1000000,Syrianska FC,Sweden,"End of loanSep 11, 2017",in,2017
+893,IFK Norrköping,Julius Lindgren,20,Goalkeeper,Sweden,125000,Sylvia,Sweden,"End of loanAug 23, 2017",in,2017
+894,IFK Norrköping,Niclas Eliasson,21,Left Midfield,Sweden,3000000,Bristol City,England,2000000,out,2017
+895,IFK Norrköping,Nicklas Bärkroth,25,Left Winger,Sweden,400000,Lech Poznan,Poland,650000,out,2017
+896,IFK Norrköping,Sebastian Andersson,26,Centre-Forward,Sweden,4500000,1.FC K'lautern,Germany,650000,out,2017
+897,IFK Norrköping,Michael Langer,32,Goalkeeper,Austria,100000,FC Schalke 04,Germany,free transfer,out,2017
+898,IFK Norrköping,Otto Martler,30,Goalkeeper,Sweden,75000,GAIS,Sweden,free transfer,out,2017
+899,IFK Norrköping,Adin Bukva,19,Centre-Forward,Sweden,50000,Husqvarna,Sweden,loan transfer,out,2017
+900,IFK Norrköping,Julius Lindgren,20,Goalkeeper,Sweden,125000,Husqvarna,Sweden,loan transfer,out,2017
+901,IFK Norrköping,Christopher Telo,27,Left-Back,Sweden,150000,Molde,Norway,0,out,2017
+902,IFK Norrköping,Mohanad Jeahze,20,Left-Back,Sweden,1000000,Syrianska FC,Sweden,loan transfer,out,2017
+903,IFK Norrköping,Henrik Castegren,22,Centre-Back,Sweden,800000,Degerfors,Sweden,loan transfer,out,2017
+904,IK Sirius,Elias Andersson,21,Central Midfield,Sweden,400000,Varbergs BoIS,Sweden,0,in,2017
+905,IK Sirius,Shkodran Maholli,24,Centre-Forward,Sweden,100000,Häcken,Sweden,0,in,2017
+906,IK Sirius,Sam Lundholm,23,Right Winger,Sweden,50000,NEC Nijmegen,Netherlands,0,in,2017
+907,IK Sirius,Zackarias Faour,19,Centre-Forward,Sweden,0,Man City U23,England,0,in,2017
+908,IK Sirius,Kingsley Sarfo,22,Central Midfield,Ghana,200000,Malmö FF,Sweden,1450000,out,2017
+909,IK Sirius,Jakob Bergman,21,Centre-Back,Sweden,150000,Nyköping,Sweden,loan transfer,out,2017
+910,IK Sirius,Kyria Kambusi,19,Defensive Midfield,Sweden,0,Gamla Upsala SK,Sweden,loan transfer,out,2017
+911,IK Sirius,Dragan Kapcevic,31,Centre-Forward,Bosnia-Herzegovina,0,Östers IF,Sweden,0,out,2017
+912,IK Sirius,Diego Montiel,22,Attacking Midfield,Sweden,300000,Gefle,Sweden,loan transfer,out,2017
+913,IK Sirius,Andreas Eriksson,35,Right Winger,Sweden,0,No club,No country,0,out,2017
+914,IK Sirius,Ante Björkebaum,29,Centre-Forward,Sweden,0,No club,No country,0,out,2017
+915,IK Sirius,Omar Eddahri,27,Centre-Forward,Sweden,100000,No club,No country,0,out,2017
+916,IF Elfsborg,Samuel Holmén,33,Central Midfield,Sweden,100000,Basaksehir,Turkey,free transfer,in,2017
+917,Hammarby IF,Sander Svendsen,20,Centre-Forward,Norway,800000,Molde,Norway,500000,in,2017
+918,Hammarby IF,Jeppe Andersen,24,Central Midfield,Denmark,1000000,Esbjerg fB,Denmark,free transfer,in,2017
+919,Hammarby IF,Mads Fenger,26,Centre-Back,Denmark,700000,Randers FC,Denmark,free transfer,in,2017
+920,Hammarby IF,Rebin Asaad,22,Defensive Midfield,Iraq,75000,Halmstads BK,Sweden,free transfer,in,2017
+921,Hammarby IF,Benny Lekström,36,Goalkeeper,Sweden,0,Ängby IF,Sweden,0,in,2017
+922,Hammarby IF,Johan Sellberg-Wiland,36,Goalkeeper,Sweden,0,Malmö FF,Sweden,0,in,2017
+923,Hammarby IF,Muamer Tankovic,22,Left Winger,Sweden,1800000,AZ Alkmaar,Netherlands,0,in,2017
+924,Hammarby IF,Oscar Krusnell,18,Left-Back,Sweden,100000,Sunderland U23,England,0,in,2017
+925,Hammarby IF,Joseph Aidoo,21,Centre-Back,Ghana,6000000,KRC Genk,Belgium,1250000,out,2017
+926,Hammarby IF,Pa Dibba,30,Centre-Forward,The Gambia,275000,SZ FC,China,1160000,out,2017
+927,Hammarby IF,Tim Markström,30,Goalkeeper,Sweden,0,Sandviken,Sweden,free transfer,out,2017
+928,Hammarby IF,Johan Persson,33,Defensive Midfield,Sweden,0,Helsingborg,Sweden,free transfer,out,2017
+929,Hammarby IF,Richárd Magyar,26,Centre-Back,Sweden,400000,Greuther Fürth,Germany,free transfer,out,2017
+930,Hammarby IF,Dusan Jajic,19,Central Midfield,Sweden,150000,IK Frej Täby,Sweden,loan transfer,out,2017
+931,Hammarby IF,Marcus Degerlund,20,Centre-Back,Sweden,250000,IK Frej Täby,Sweden,loan transfer,out,2017
+932,Hammarby IF,Fredrik Torsteinbö,26,Right-Back,Norway,300000,Viking FK,Norway,0,out,2017
+933,Hammarby IF,Ögmundur Kristinsson,28,Goalkeeper,Iceland,500000,Excelsior,Netherlands,0,out,2017
+934,Hammarby IF,Imad Khalili,30,Centre-Forward,Palästina,100000,Brommapojkarna,Sweden,loan transfer,out,2017
+935,Hammarby IF,Mario Musa,26,Left-Back,Croatia,300000,Dinamo Zagreb,Croatia,"End of loanJun 30, 2017",out,2017
+936,IFK Göteborg,Kristopher Da Graca,19,Centre-Back,Sweden,450000,Arsenal U23,England,free transfer,in,2017
+937,IFK Göteborg,Vajebah Sakor,21,Defensive Midfield,Norway,350000,Juventus,Italy,loan transfer,in,2017
+938,IFK Göteborg,Sam Adekugbe,22,Left-Back,Canada,400000,Vancouver,United States,loan transfer,in,2017
+939,IFK Göteborg,Benjamin Nygren,16,Right Winger,Sweden,2000000,IFK U19,Sweden,0,in,2017
+940,IFK Göteborg,John Alvbage,34,Goalkeeper,Sweden,100000,Minnesota Utd.,United States,"End of loanJul 15, 2017",in,2017
+941,IFK Göteborg,Mads Albaek,27,Central Midfield,Denmark,350000,1.FC K'lautern,Germany,100000,out,2017
+942,IFK Göteborg,Mattias Bjärsmyr,31,Centre-Back,Sweden,200000,Sivasspor,Turkey,0,out,2017
+943,IFK Göteborg,Abdul Razak,24,Central Midfield,Cote d'Ivoire,125000,AFC Eskilstuna,Sweden,loan transfer,out,2017
+944,IFK Göteborg,Lawson Sabah,20,Defensive Midfield,Ghana,75000,Varbergs BoIS,Sweden,loan transfer,out,2017
+945,IFK Göteborg,John Alvbage,35,Goalkeeper,Sweden,100000,Stabæk Fotball,Norway,loan transfer,out,2017
+946,IFK Göteborg,Henrik Björdal,20,Attacking Midfield,Norway,700000,Brighton U23,England,"End of loanJul 16, 2017",out,2017
+947,Örebro SK,Isaac Boye,20,Centre-Forward,Nigeria,100000,Acad. for Stars,Nigeria,free transfer,in,2017
+948,Örebro SK,Petteri Forsell,26,Attacking Midfield,Finland,300000,Miedz Legnica,Poland,free transfer,in,2017
+949,Örebro SK,Carl Ekstrand Hamrén,21,Centre-Back,Sweden,0,Västerås SK,Sweden,"End of loanAug 3, 2017",in,2017
+950,Örebro SK,Yanis Mbombo,23,Centre-Forward,Belgium,125000,Mouscron,Belgium,free transfer,out,2017
+951,Örebro SK,Carl Ekstrand Hamrén,21,Centre-Back,Sweden,0,Karlslunds IF,Sweden,free transfer,out,2017
+952,Örebro SK,Damien Plessis,29,Defensive Midfield,France,200000,No club,No country,0,out,2017
+953,Örebro SK,Divine Naah,21,Central Midfield,Ghana,275000,Man City U23,England,"End of loanJul 26, 2017",out,2017
+954,Kalmar FF,Romário,24,Centre-Forward,Brazil,0,Rio Branco,Brazil,free transfer,in,2017
+955,Kalmar FF,Philip Hellqvist,26,Centre-Forward,Sweden,300000,Wolfsberger AC,Austria,free transfer,in,2017
+956,Kalmar FF,Mikael Dyrestam,25,Centre-Back,Guinea,200000,NEC Nijmegen,Netherlands,free transfer,in,2017
+957,Kalmar FF,Jonathan Ring,25,Left Midfield,Sweden,700000,Genclerbirligi,Turkey,free transfer,in,2017
+958,Kalmar FF,Erton Fejzullahu,29,Centre-Forward,Kosovo,300000,Sarpsborg 08,Norway,free transfer,in,2017
+959,Kalmar FF,Harmeet Singh,26,Central Midfield,Norway,200000,No club,No country,0,in,2017
+960,Kalmar FF,Adrian Edqvist,18,Left Winger,Sweden,250000,Kalmar U19,Sweden,0,in,2017
+961,Kalmar FF,Sebastian Starke Hedlund,22,Centre-Back,Sweden,125000,Varbergs BoIS,Sweden,"End of loanJul 16, 2017",in,2017
+962,Kalmar FF,Lumala Abdu,19,Centre-Forward,Uganda,100000,Varbergs BoIS,Sweden,"End of loanJul 15, 2017",in,2017
+963,Kalmar FF,Ismael Silva,22,Central Midfield,Brazil,3000000,Akhmat Grozny,Russia,1000000,out,2017
+964,Kalmar FF,Svante Ingelsson,19,Central Midfield,Sweden,600000,Udinese Calcio,Italy,750000,out,2017
+965,Kalmar FF,John Hakansson,19,Goalkeeper,Sweden,0,Husqvarna,Sweden,loan transfer,out,2017
+966,Kalmar FF,Lumala Abdu,20,Centre-Forward,Uganda,100000,Helsingborg,Sweden,loan transfer,out,2017
+967,GIF Sundsvall,Lloyd Saxton,27,Goalkeeper,England,0,Levanger FK,Norway,"End of loanJul 15, 2017",in,2017
+968,GIF Sundsvall,Jaudet Salih,19,Central Midfield,Sweden,0,IK Frej Täby,Sweden,"End of loanJul 1, 2017",in,2017
+969,GIF Sundsvall,Smajl Suljevic,23,Defensive Midfield,Sweden,100000,No club,No country,0,out,2017
+970,GIF Sundsvall,Alireza Haghighi,30,Goalkeeper,Iran,325000,No club,No country,0,out,2017
+971,IF Brommapojkarna,Marko Nikolic,19,Central Midfield,Sweden,175000,KVC Westerlo,Belgium,free transfer,in,2017
+972,IF Brommapojkarna,Jesper Karlström,22,Defensive Midfield,Sweden,1500000,Djurgarden,Sweden,loan transfer,in,2017
+973,IF Brommapojkarna,Imad Khalili,30,Centre-Forward,Palästina,100000,Hammarby,Sweden,loan transfer,in,2017
+974,IF Brommapojkarna,Jacob Stensson,20,Left Midfield,Sweden,0,Denver Pioneers,United States,free transfer,out,2017
+975,Dalkurd FF,Malkolm Moenza,23,Left-Back,Sweden,200000,GAIS,Sweden,35000,in,2017
+976,Dalkurd FF,Leonard Pllana,20,Centre-Forward,Kosovo,200000,Norrby,Sweden,loan transfer,out,2017
+977,Trelleborgs FF,Norlla Amiri,25,Right Winger,Afghanistan,50000,Rosengård,Sweden,free transfer,out,2017
+978,Trelleborgs FF,Filip Andersson,19,Centre-Forward,Sweden,25000,Kvarnby IK,Sweden,loan transfer,out,2017
+979,AIK,Sebastian Larsson,33,Central Midfield,Sweden,600000,Hull City,England,free transfer,in,2018
+980,AIK,Panajotis Dimitriadis,31,midfield,Sweden,150000,Giresunspor,Turkey,free transfer,in,2018
+981,AIK,Heradi Rashidi,23,Right Winger,Sweden,200000,Dalkurd,Sweden,free transfer,in,2018
+982,AIK,Eero Markkanen,26,Centre-Forward,Finland,250000,Randers FC,Denmark,"End of loanJun 30, 2018",in,2018
+983,AIK,Daniel Mushitu,18,Centre-Forward,Sweden,100000,Vasalund,Sweden,"End of loanJul 15, 2018",in,2018
+984,AIK,Robert Taylor,23,Left Winger,Finland,600000,Tromsø IL,Norway,"End of loanAug 30, 2018",in,2018
+985,AIK,Anton Salétros,22,Central Midfield,Sweden,600000,Rostov,Russia,600000,out,2018
+986,AIK,Eero Markkanen,27,Centre-Forward,Finland,250000,Dalkurd,Sweden,free transfer,out,2018
+987,AIK,Ahmed Yasin,27,Right Winger,Iraq,500000,Al-Khor SC,Qatar,0,out,2018
+988,AIK,Robert Taylor,23,Left Winger,Finland,600000,Tromsø IL,Norway,0,out,2018
+989,AIK,Bilal Hussein,18,Central Midfield,Sweden,1200000,Vasalund,Sweden,loan transfer,out,2018
+990,AIK,Nabil Bahoui,27,Left Winger,Sweden,500000,Grasshoppers,Switzerland,"End of loanJun 30, 2018",out,2018
+991,IFK Norrköping,Alexander Fransson,24,Central Midfield,Sweden,1000000,FC Basel,Switzerland,1000000,in,2018
+992,IFK Norrköping,Kasper Larsen,25,Centre-Back,Denmark,500000,FC Groningen,Netherlands,free transfer,in,2018
+993,IFK Norrköping,Adin Bukva,20,Centre-Forward,Sweden,50000,Atvidaberg,Sweden,"End of loanJul 15, 2018",in,2018
+994,IFK Norrköping,Pontus Almqvist,19,Right Winger,Sweden,2800000,Varbergs BoIS,Sweden,"End of loanJul 16, 2018",in,2018
+995,IFK Norrköping,Arnór Sigurdsson,19,Attacking Midfield,Iceland,4500000,CSKA Moscow,Russia,4000000,out,2018
+996,IFK Norrköping,Jon Gudni Fjóluson,29,Centre-Back,Iceland,400000,Krasnodar,Russia,600000,out,2018
+997,IFK Norrköping,Linus Wahlqvist,21,Right-Back,Sweden,1000000,Dynamo Dresden,Germany,400000,out,2018
+998,IFK Norrköping,Adin Bukva,20,Centre-Forward,Sweden,50000,Smedby AIS,Sweden,free transfer,out,2018
+999,IFK Norrköping,Eric Smith,21,Defensive Midfield,Sweden,1200000,KAA Gent,Belgium,0,out,2018
+1000,IFK Norrköping,Pontus Almqvist,19,Right Winger,Sweden,2800000,Norrby,Sweden,loan transfer,out,2018
+1001,IFK Norrköping,Alfons Sampsted,20,Right-Back,Iceland,800000,Landskrona,Sweden,loan transfer,out,2018
+1002,Malmö FF,Romain Gall,23,Right Winger,United States,300000,GIF Sundsvall,Sweden,500000,in,2018
+1003,Malmö FF,Guillermo Molins,29,Centre-Forward,Sweden,200000,Panathinaikos,Greece,free transfer,in,2018
+1004,Malmö FF,Walter Viitala,26,Goalkeeper,Finland,100000,Viborg FF,Denmark,free transfer,in,2018
+1005,Malmö FF,Anders Christiansen,28,Central Midfield,Denmark,2500000,KAA Gent,Belgium,0,in,2018
+1006,Malmö FF,Marcus Antonsson,27,Centre-Forward,Sweden,600000,Leeds,England,0,in,2018
+1007,Malmö FF,Tim Prica,16,Centre-Forward,Sweden,600000,Malmö U19,Sweden,0,in,2018
+1008,Malmö FF,Dennis Hadzikadunic,19,Centre-Back,Bosnia-Herzegovina,2500000,Trelleborg,Sweden,"End of loanJun 30, 2018",in,2018
+1009,Malmö FF,Mattias Svanberg,19,Central Midfield,Sweden,12000000,Bologna,Italy,4500000,out,2018
+1010,Malmö FF,Dennis Hadzikadunic,20,Centre-Back,Bosnia-Herzegovina,2500000,Rostov,Russia,1000000,out,2018
+1011,Malmö FF,Alexander Jeremejeff,24,Centre-Forward,Sweden,1000000,Häcken,Sweden,0,out,2018
+1012,Malmö FF,Pavle Vagic,18,Defensive Midfield,Sweden,500000,Jönköping,Sweden,loan transfer,out,2018
+1013,Malmö FF,Isak Ssewankambo,22,Defensive Midfield,Sweden,500000,Molde,Norway,"End of loanJul 19, 2018",out,2018
+1014,Hammarby IF,Junes Barny,28,Central Midfield,Sweden,200000,GAIS,Sweden,free transfer,in,2018
+1015,Hammarby IF,Kalle Björklund,19,Centre-Back,Sweden,300000,Torre Levante,Spain,free transfer,in,2018
+1016,Hammarby IF,Vladimir Rodic,24,Right Winger,Montenegro,400000,Silkeborg IF,Denmark,0,in,2018
+1017,Hammarby IF,Leo Bengtsson,20,Left Winger,Sweden,1200000,Gefle,Sweden,"End of loanJul 16, 2018",in,2018
+1018,Hammarby IF,Marcus Degerlund,20,Centre-Back,Sweden,250000,IK Frej Täby,Sweden,"End of loanAug 9, 2018",in,2018
+1019,Hammarby IF,Sander Svendsen,21,Centre-Forward,Norway,800000,Odds BK,Norway,"End of loanJul 15, 2019",in,2018
+1020,Hammarby IF,Gershon Koffie,26,Central Midfield,Ghana,225000,Al-Fahaheel SC,Kuwait,free transfer,out,2018
+1021,Hammarby IF,Erkan Zengin,33,Left Winger,Sweden,300000,Karagümrük,Turkey,free transfer,out,2018
+1022,Hammarby IF,Leo Bengtsson,20,Left Winger,Sweden,1200000,IK Frej Täby,Sweden,loan transfer,out,2018
+1023,Hammarby IF,Arnór Smárason,29,Second Striker,Iceland,75000,Lillestrøm SK,Norway,0,out,2018
+1024,Hammarby IF,Marcus Degerlund,20,Centre-Back,Sweden,250000,IFK Göteborg,Sweden,loan transfer,out,2018
+1025,Hammarby IF,Rebin Asaad,23,Defensive Midfield,Iraq,75000,IK Frej Täby,Sweden,loan transfer,out,2018
+1026,BK Häcken,Godswill Ekpolo,23,Right-Back,Nigeria,1000000,Mérida AD,Spain,free transfer,in,2018
+1027,BK Häcken,Joona Toivio,30,Centre-Back,Finland,600000,Termalica,Poland,free transfer,in,2018
+1028,BK Häcken,Alexander Jeremejeff,24,Centre-Forward,Sweden,1000000,Malmö FF,Sweden,0,in,2018
+1029,BK Häcken,Ali Suljic,20,Centre-Back,Sweden,100000,No club,No country,0,in,2018
+1030,BK Häcken,Aiham Ousou,18,Centre-Back,Sweden,200000,Häcken U19,Sweden,0,in,2018
+1031,BK Häcken,Benjamin Arapovic,19,Central Midfield,Sweden,75000,Häcken U19,Sweden,0,in,2018
+1032,BK Häcken,Joel Andersson,21,Right-Back,Sweden,2000000,FC Midtjylland,Denmark,1300000,out,2018
+1033,BK Häcken,Crespo Kamara,25,Centre-Forward,Sierra Leone,125000,Panetolikos,Greece,free transfer,out,2018
+1034,BK Häcken,Alexander Angelin,28,Left-Back,Sweden,100000,GAIS,Sweden,0,out,2018
+1035,BK Häcken,Jasmin Sudic,27,Centre-Back,Sweden,0,Trelleborg,Sweden,0,out,2018
+1036,BK Häcken,Karl Bohm,22,Right Midfield,Sweden,100000,GAIS,Sweden,0,out,2018
+1037,Östersunds FK,Jerell Sellars,22,Left Winger,England,200000,Cheltenham,England,free transfer,in,2018
+1038,Östersunds FK,Henrik Bellman,19,Right Midfield,Sweden,250000,Copenhagen U19,Denmark,free transfer,in,2018
+1039,Östersunds FK,Simon Kroon,25,Right Midfield,Sweden,250000,FC Midtjylland,Denmark,0,in,2018
+1040,Östersunds FK,Rewan Amin,22,Defensive Midfield,Netherlands,300000,Dalkurd,Sweden,0,in,2018
+1041,Östersunds FK,Jordan Flores,22,Central Midfield,England,100000,Wigan,England,loan transfer,in,2018
+1042,Östersunds FK,Isac Häggman,16,Attacking Midfield,Sweden,25000,Östersunds U19,Sweden,0,in,2018
+1043,Östersunds FK,Robin Wikberg,16,Centre-Back,Sweden,25000,Östersunds U19,Sweden,0,in,2018
+1044,Östersunds FK,Pontus Kindberg,15,Left-Back,Sweden,10000,Östersunds U19,Sweden,0,in,2018
+1045,Östersunds FK,Gustav Wikstrand,15,Centre-Back,Sweden,25000,Östersunds U19,Sweden,0,in,2018
+1046,Östersunds FK,Saman Ghoddos,24,Attacking Midfield,Iran,3000000,Amiens SC,France,4000000,out,2018
+1047,Östersunds FK,Ken Sema,24,Left Midfield,Sweden,4500000,Watford,England,2250000,out,2018
+1048,Östersunds FK,Sotirios Papagiannopoulos,27,Centre-Back,Sweden,1000000,FC Copenhagen,Denmark,0,out,2018
+1049,Östersunds FK,Brwa Nouri,31,Defensive Midfield,Iraq,450000,Bali United,Indonesia,0,out,2018
+1050,Östersunds FK,Alhaji Gero,24,Centre-Forward,Nigeria,150000,Esteghlal FC ,Iran,0,out,2018
+1051,Östersunds FK,Smajl Suljevic,24,Defensive Midfield,Sweden,100000,Dalkurd,Sweden,loan transfer,out,2018
+1052,Östersunds FK,Kelland Absalom,21,Goalkeeper,Wales,25000,No club,No country,0,out,2018
+1053,Djurgardens IF,Nicklas Bärkroth,26,Left Winger,Sweden,400000,Lech Poznan,Poland,200000,in,2018
+1054,Djurgardens IF,Omar Eddahri,27,Centre-Forward,Sweden,100000,Ittihad Tanger,Morocco,free transfer,in,2018
+1055,Djurgardens IF,Erik Berg,29,Centre-Back,Sweden,0,FC Copenhagen,Denmark,0,in,2018
+1056,Djurgardens IF,Joseph Ceesay,20,Left Winger,Sweden,450000,IK Frej Täby,Sweden,"End of loanJul 13, 2018",in,2018
+1057,Djurgardens IF,Souleymane Kone,23,Centre-Back,Cote d'Ivoire,350000,Dunajska Streda,Slovakia,"End of loanJun 30, 2019",in,2018
+1058,Djurgardens IF,Mihlali Mayambela,21,Right Winger,South Africa,175000,Brage,Sweden,"End of loanJun 30, 2018",in,2018
+1059,Djurgardens IF,Felix Beijmo,20,Right-Back,Sweden,700000,Werder Bremen,Germany,3000000,out,2018
+1060,Djurgardens IF,Tino Kadewere,22,Right Winger,Zimbabwe,13000000,AC Le Havre,France,2000000,out,2018
+1061,Djurgardens IF,Oscar Jonsson,21,Goalkeeper,Sweden,50000,IK Frej Täby,Sweden,loan transfer,out,2018
+1062,Djurgardens IF,Joseph Ceesay,20,Left Winger,Sweden,450000,Brage,Sweden,loan transfer,out,2018
+1063,Djurgardens IF,Mihlali Mayambela,21,Right Winger,South Africa,175000,Farense,Portugal,Loan fee:15000,out,2018
+1064,Djurgardens IF,Julian Kristoffersen,21,Centre-Forward,Norway,400000,Hobro IK,Denmark,0,out,2018
+1065,Djurgardens IF,Yura Movsisyan,30,Centre-Forward,Armenia,0,Salt Lake,United States,"End of loanJun 30, 2018",out,2018
+1066,GIF Sundsvall,David Haro,27,Second Striker,Spain,200000,Reus Deportiu,Spain,free transfer,in,2018
+1067,GIF Sundsvall,Pol Moreno,24,Centre-Back,Spain,250000,CE Sabadell ,Spain,0,in,2018
+1068,GIF Sundsvall,Christian Rubio Sivodedov,20,Central Midfield,Sweden,150000,Strømsgodset,Norway,0,in,2018
+1069,GIF Sundsvall,Oliver Berg,24,Central Midfield,Norway,700000,Dalkurd,Sweden,0,in,2018
+1070,GIF Sundsvall,Jesper Carström,17,Central Midfield,Sweden,75000,Sundsvall U19,Sweden,0,in,2018
+1071,GIF Sundsvall,Romain Gall,23,Right Winger,United States,300000,Malmö FF,Sweden,500000,out,2018
+1072,GIF Sundsvall,Samu de los Reyes,26,Left-Back,Spain,100000,UD Almería,Spain,free transfer,out,2018
+1073,GIF Sundsvall,Sebastian Friman,19,Right Midfield,Sweden,50000,Hudiksvall,Sweden,free transfer,out,2018
+1074,GIF Sundsvall,Juho Pirttijoki,21,Centre-Back,Finland,150000,KuPS,Finland,loan transfer,out,2018
+1075,GIF Sundsvall,Tommy Naurin,34,Goalkeeper,Sweden,0,No club,No country,0,out,2018
+1076,GIF Sundsvall,Christian Rubio Sivodedov,20,Central Midfield,Sweden,150000,Strømsgodset,Norway,"End of loanJul 31, 2018",out,2018
+1077,Örebro SK,Johan Bertilsson,30,Second Striker,Sweden,300000,Dalkurd,Sweden,0,in,2018
+1078,Örebro SK,Fabio De Sousa Silva,22,Centre-Back,Brazil,100000,Örebro Syr.,Sweden,0,in,2018
+1079,Örebro SK,Viktor Tranberg,21,Centre-Back,Denmark,250000,Nordsjaelland,Denmark,loan transfer,in,2018
+1080,Örebro SK,Brendan Hines-Ike,23,Centre-Back,United States,700000,KV Kortrijk,Belgium,650000,out,2018
+1081,Kalmar FF,Jajá,23,Attacking Midfield,Brazil,250000,Flamengo,Brazil,loan transfer,in,2018
+1082,Kalmar FF,Nils Fröling,18,Centre-Forward,Sweden,500000,Kalmar U19,Sweden,0,in,2018
+1083,Kalmar FF,Sebastian Starke Hedlund,23,Centre-Back,Sweden,125000,Mjøndalen,Norway,"End of loanJul 14, 2018",in,2018
+1084,Kalmar FF,Mahmoud Eid,25,Left Winger,Palästina,100000,Mjøndalen,Norway,"End of loanJul 15, 2018",in,2018
+1085,Kalmar FF,Sebastian Starke Hedlund,23,Centre-Back,Sweden,125000,Valur,Iceland,0,out,2018
+1086,Kalmar FF,Marcus Thorbjörnsson,30,Centre-Back,Sweden,0,Dalkurd,Sweden,loan transfer,out,2018
+1087,Kalmar FF,Mahmoud Eid,25,Left Winger,Palästina,100000,GAIS,Sweden,loan transfer,out,2018
+1088,Kalmar FF,Lumala Abdu,21,Centre-Forward,Uganda,100000,Syrianska FC,Sweden,loan transfer,out,2018
+1089,Kalmar FF,Melker Hallberg,22,Central Midfield,Sweden,600000,Udinese Calcio,Italy,"End of loanJul 24, 2018",out,2018
+1090,IFK Göteborg,Sargon Abraham,27,Second Striker,Sweden,300000,Degerfors,Sweden,0,in,2018
+1091,IFK Göteborg,Alhassan Yusuf,18,Defensive Midfield,Nigeria,1500000,Tiki Taka,Nigeria,0,in,2018
+1092,IFK Göteborg,Robin Söder,27,Centre-Forward,Sweden,300000,KSC Lokeren,Belgium,0,in,2018
+1093,IFK Göteborg,Marcus Degerlund,20,Centre-Back,Sweden,250000,Hammarby,Sweden,loan transfer,in,2018
+1094,IFK Göteborg,Fredrik Jensen,25,Defensive Midfield,Norway,400000,Zulte Waregem,Belgium,loan transfer,in,2018
+1095,IFK Göteborg,Emil Holm,19,Right-Back,Sweden,700000,IFK U19,Sweden,0,in,2018
+1096,IFK Göteborg,Noah Alexandersson,17,Left Winger,Sweden,200000,IFK U19,Sweden,0,in,2018
+1097,IFK Göteborg,Sebastian Eriksson,29,Central Midfield,Sweden,400000,Panetolikos,Greece,free transfer,out,2018
+1098,IFK Göteborg,Mikael Ingebrigtsen,22,Right Winger,Norway,300000,Tromsø IL,Norway,0,out,2018
+1099,IFK Göteborg,Elías Már Ómarsson,23,Centre-Forward,Iceland,750000,Excelsior,Netherlands,0,out,2018
+1100,IFK Göteborg,Junes Barny,29,Central Midfield,Sweden,200000,No club,No country,0,out,2018
+1101,IFK Göteborg,Pontus Dahlberg,19,Goalkeeper,Sweden,1200000,Watford,England,"End of loanJun 30, 2018",out,2018
+1102,IFK Göteborg,Mix Diskerud,27,Central Midfield,United States,600000,Man City U23,England,"End of loanJul 15, 2018",out,2018
+1103,IFK Göteborg,Gustav Engvall,22,Centre-Forward,Sweden,1000000,Bristol City,England,"End of loanJun 28, 2018",out,2018
+1104,IF Elfsborg,Chinedu Obasi,32,Centre-Forward,Nigeria,100000,Bolton,England,free transfer,in,2018
+1105,IF Elfsborg,David Boysen,27,Right Winger,Denmark,150000,B. Jerusalem,Israel,free transfer,in,2018
+1106,IF Elfsborg,Frederik Holst,23,Central Midfield,Denmark,800000,Sparta R.,Netherlands,0,in,2018
+1107,IF Elfsborg,Gustav Henriksson,20,Centre-Back,Sweden,600000,IF Elfsborg U21,Sweden,0,in,2018
+1108,IF Elfsborg,Rasmus Rosenqvist,21,Defensive Midfield,Sweden,100000,Helsingborg,Sweden,"End of loanJun 13, 2018",in,2018
+1109,IF Elfsborg,Issam Jebali,26,Second Striker,Tunisia,600000,Rosenborg,Norway,1100000,out,2018
+1110,IF Elfsborg,Jörgen Horn,31,Centre-Back,Norway,100000,Sarpsborg 08,Norway,0,out,2018
+1111,IK Sirius,Mohammed Saeid,27,Central Midfield,Eritrea,350000,Lyngby BK,Denmark,free transfer,in,2018
+1112,IK Sirius,Robert Ahman-Persson,31,Defensive Midfield,Sweden,0,Belenenses SAD,Portugal,free transfer,in,2018
+1113,IK Sirius,Jonas Lindberg,29,Centre-Forward,Sweden,100000,GAIS,Sweden,0,in,2018
+1114,IK Sirius,Niklas Thor,32,Defensive Midfield,Sweden,100000,No club,No country,0,in,2018
+1115,IK Sirius,Oscar Kindlund,21,Defensive Midfield,Sweden,0,Nybergsund,Norway,"End of loanSep 10, 2018",in,2018
+1116,IK Sirius,Henry Offia,18,Left Winger,Nigeria,200000,Sollentuna FK,Sweden,"End of loanAug 6, 2018",in,2018
+1117,IK Sirius,Sylvin Kayembe,17,Left Winger,Sweden,100000,BKV Norrtälje,Sweden,"End of loanJul 16, 2018",in,2018
+1118,IK Sirius,Zackarias Faour,20,Centre-Forward,Sweden,0,Östers IF,Sweden,"End of loanJul 15, 2018",in,2018
+1119,IK Sirius,Lukas Jonsson,25,Goalkeeper,Sweden,300000,Mjøndalen,Norway,"End of loanJul 15, 2018",in,2018
+1120,IK Sirius,Joakim Wulff,39,Goalkeeper,Sweden,0,Värnamo,Sweden,free transfer,out,2018
+1121,IK Sirius,Linus Nygren,20,Centre-Back,Sweden,0,Gamla Upsala SK,Sweden,loan transfer,out,2018
+1122,IK Sirius,Shkodran Maholli,25,Centre-Forward,Sweden,100000,Silkeborg IF,Denmark,0,out,2018
+1123,IK Sirius,Sherko Faiqi,19,Central Midfield,Sweden,100000,Nest-Sotra IL,Norway,loan transfer,out,2018
+1124,IK Sirius,Oscar Kindlund,21,Defensive Midfield,Sweden,0,Nybergsund,Norway,loan transfer,out,2018
+1125,IK Sirius,Zackarias Faour,20,Centre-Forward,Sweden,0,No club,No country,0,out,2018
+1126,IK Sirius,Oscar Kindlund,21,Defensive Midfield,Sweden,0,No club,No country,0,out,2018
+1127,Helsingborgs IF,Andreas Granqvist,33,Centre-Back,Sweden,0,Krasnodar,Russia,free transfer,in,2018
+1128,Helsingborgs IF,Rasmus Jönsson,28,Centre-Forward,Sweden,300000,Odense BK,Denmark,free transfer,in,2018
+1129,Helsingborgs IF,Markus Holgersson,33,Centre-Back,Sweden,0,Lorca FC,Spain,free transfer,in,2018
+1130,Helsingborgs IF,Wanderson,32,Centre-Forward,Brazil,0,Alanyaspor,Turkey,free transfer,in,2018
+1131,Helsingborgs IF,Thierry Zahui,30,Defensive Midfield,Cote d'Ivoire,0,No club,No country,0,in,2018
+1132,Helsingborgs IF,Daniel Andersson,45,Goalkeeper,Sweden,0,No club,No country,0,in,2018
+1133,Helsingborgs IF,Alexander Farnerud,34,Central Midfield,Sweden,100000,No club,No country,0,in,2018
+1134,Helsingborgs IF,Carl Thulin,19,Centre-Back,Sweden,100000,Ängelholm,Sweden,loan transfer,out,2018
+1135,Helsingborgs IF,Kalle Joelsson,20,Goalkeeper,Sweden,150000,Ängelholm,Sweden,loan transfer,out,2018
+1136,Helsingborgs IF,Mattias Almeida Sundell,19,Right Midfield,Sweden,100000,Ängelholm,Sweden,loan transfer,out,2018
+1137,Helsingborgs IF,Alex Timossi Andersson,17,Right Winger,Sweden,800000,FC Bayern U19,Germany,0,out,2018
+1138,Helsingborgs IF,Rasmus Rosenqvist,21,Defensive Midfield,Sweden,100000,Elfsborg,Sweden,"End of loanJun 13, 2018",out,2018
+1139,Falkenbergs FF,Eric Gunnarsson,23,Left-Back,Sweden,0,UNCG Spartans,United States,free transfer,in,2018
+1140,Falkenbergs FF,Dennis Bengtsson,18,Goalkeeper,Sweden,100000,Falkenberg U19,Sweden,0,in,2018
+1141,Falkenbergs FF,Eric Gunnarsson,23,Left-Back,Sweden,0,Tvååkers IF,Sweden,loan transfer,out,2018
+1142,Falkenbergs FF,Herve Prudence,18,Defensive Midfield,Sweden,50000,Tvååkers IF,Sweden,loan transfer,out,2018
+1143,Falkenbergs FF,Erik Zetterberg,21,Defensive Midfield,Sweden,125000,Varbergs BoIS,Sweden,0,out,2018
+1144,AFC Eskilstuna,Hossin Lagoun,22,Goalkeeper,Sweden,50000,FK Vereya,Bulgaria,free transfer,in,2018
+1145,AFC Eskilstuna,Bajram Ajeti,29,Centre-Forward,Kosovo,100000,Brommapojkarna,Sweden,free transfer,in,2018
+1146,AFC Eskilstuna,Wille Jakobsson,16,Goalkeeper,Sweden,100000,Eskilstuna City,Sweden,0,in,2018
+1147,AFC Eskilstuna,Pelé,30,Central Midfield,Portugal,0,No club,No country,0,in,2018
+1148,AFC Eskilstuna,Kristijan Miljevic-Sachpekidis,26,Right Winger,Serbia,100000,No club,No country,0,in,2018
+1149,AFC Eskilstuna,Ismet Lushaku,18,Central Midfield,Kosovo,200000,AFC United U19,Sweden,0,in,2018
+1150,AFC Eskilstuna,Rinor Nushi,22,Left Winger,Sweden,0,Västerås SK,Sweden,"End of loanJun 30, 2018",in,2018
+1151,AFC Eskilstuna,Ivan Markovic,24,Attacking Midfield,Serbia,375000,PS Kalamata,Greece,free transfer,out,2018
+1152,AFC Eskilstuna,Rinor Nushi,22,Left Winger,Sweden,0,Västerås SK,Sweden,free transfer,out,2018
+1153,AFC Eskilstuna,Kevin Bisse,22,Left Midfield,Sweden,50000,Syrianska FC,Sweden,loan transfer,out,2018
+1154,AFC Eskilstuna,Aaron Zahui Bazoukou,22,Centre-Forward,Sweden,0,Karlslunds IF,Sweden,loan transfer,out,2018
+1155,AFC Eskilstuna,Kermit Erasmus,28,Centre-Forward,South Africa,500000,Vitória Setúbal,Portugal,0,out,2018
+1156,AFC Eskilstuna,Ibrahim Blati Touré,24,Central Midfield,Burkina Faso,200000,Córdoba CF,Spain,0,out,2018
+1157,AFC Eskilstuna,Michel Termanini,20,Centre-Back,Palästina,25000,Al-Quds Hilal,Palästina,0,out,2018
+1158,AFC Eskilstuna,Wellyson,24,Centre-Back,Brazil,100000,No club,No country,0,out,2018
+1159,Djurgardens IF,Benjamin Machini,22,Goalkeeper,Sweden,50000,Burgos CF,Spain,free transfer,in,2019
+1160,Djurgardens IF,Curtis Edwards,25,Central Midfield,England,350000,Östersund,Sweden,free transfer,in,2019
+1161,Djurgardens IF,Emir Kujovic,31,Centre-Forward,Sweden,300000,F. Düsseldorf,Germany,free transfer,in,2019
+1162,Djurgardens IF,Jesper Nyholm,26,Centre-Back,Philippines,200000,No club,No country,0,in,2019
+1163,Djurgardens IF,Mihlali Mayambela,22,Right Winger,South Africa,175000,Farense,Portugal,"End of loanJun 30, 2019",in,2019
+1164,Djurgardens IF,Mihlali Mayambela,22,Right Winger,South Africa,175000,Farense,Portugal,100000,out,2019
+1165,Djurgardens IF,Johan Andersson,24,Right-Back,Sweden,150000,Karlstad BK,Sweden,loan transfer,out,2019
+1166,Djurgardens IF,Souleymane Kone,23,Centre-Back,Cote d'Ivoire,350000,KVC Westerlo,Belgium,0,out,2019
+1167,Djurgardens IF,Dzenis Kozica,26,Centre-Forward,Sweden,300000,AFC Eskilstuna,Sweden,loan transfer,out,2019
+1168,Malmö FF,Jonas Knudsen,26,Left-Back,Denmark,1300000,Ipswich,England,free transfer,in,2019
+1169,Malmö FF,Ola Toivonen,33,Attacking Midfield,Sweden,600000,Melbourne,Australia,free transfer,in,2019
+1170,Malmö FF,Felix Beijmo,21,Right-Back,Sweden,700000,Werder Bremen,Germany,loan transfer,in,2019
+1171,Malmö FF,Amel Mujanic,18,Central Midfield,Sweden,150000,Malmö U19,Sweden,0,in,2019
+1172,Malmö FF,Sebastian Nanasi,18,Left Winger,Sweden,300000,Malmö U19,Sweden,0,in,2019
+1173,Malmö FF,Pavle Vagic,19,Defensive Midfield,Sweden,500000,Mjällby AIF,Sweden,"End of loanJul 8, 2019",in,2019
+1174,Malmö FF,Carlos Strandberg,23,Centre-Forward,Sweden,2800000,Örebro SK,Sweden,"End of loanAug 29, 2019",in,2019
+1175,Malmö FF,Andreas Vindheim,23,Right-Back,Norway,1200000,Sparta Prague,Czech Republic,1300000,out,2019
+1176,Malmö FF,Anel Ahmedhodzic,20,Centre-Back,Bosnia-Herzegovina,6000000,Hobro IK,Denmark,loan transfer,out,2019
+1177,Malmö FF,Pavle Vagic,19,Defensive Midfield,Sweden,500000,AFC Eskilstuna,Sweden,loan transfer,out,2019
+1178,Malmö FF,Samuel Adrian,21,Defensive Midfield,Sweden,150000,Kalmar FF,Sweden,loan transfer,out,2019
+1179,Malmö FF,Carlos Strandberg,23,Centre-Forward,Sweden,2800000,Al-Hazem,Saudi Arabia,loan transfer,out,2019
+1180,Hammarby IF,Akinkunmi Amoo,18,Right Winger,Nigeria,3000000,Sido's FC,Nigeria,200000,in,2019
+1181,Hammarby IF,Richárd Magyar,28,Centre-Back,Sweden,400000,Greuther Fürth,Germany,150000,in,2019
+1182,Hammarby IF,Aron Jóhannsson,28,Centre-Forward,United States,700000,Werder Bremen,Germany,free transfer,in,2019
+1183,Hammarby IF,Hjalmar Ekdal,20,Centre-Back,Sweden,1500000,IK Frej Täby,Sweden,0,in,2019
+1184,Hammarby IF,Loue Bayere Junior,18,Centre-Forward,Cote d'Ivoire,200000,ASEC Mimosas,Cote d'Ivoire,loan transfer,in,2019
+1185,Hammarby IF,Aziz Ouattara Mohammed,18,Centre-Back,Cote d'Ivoire,800000,ASEC Mimosas,Cote d'Ivoire,loan transfer,in,2019
+1186,Hammarby IF,Benjamin Machini,23,Goalkeeper,Sweden,50000,No club,No country,0,in,2019
+1187,Hammarby IF,Oscar Krusnell,20,Left-Back,Sweden,100000,IK Frej Täby,Sweden,"End of loanAug 13, 2019",in,2019
+1188,Hammarby IF,Odilon Kossounou,18,Centre-Back,Cote d'Ivoire,13000000,Club Brugge,Belgium,3850000,out,2019
+1189,Hammarby IF,Sander Svendsen,21,Centre-Forward,Norway,800000,Odense BK,Denmark,250000,out,2019
+1190,Hammarby IF,Hjalmar Ekdal,20,Centre-Back,Sweden,1500000,IK Frej Täby,Sweden,loan transfer,out,2019
+1191,Hammarby IF,Jean Carlos de Brito,24,Left Winger,Brazil,400000,IK Frej Täby,Sweden,loan transfer,out,2019
+1192,Hammarby IF,Filston Mawana,19,Left Winger,Sweden,100000,IK Frej Täby,Sweden,loan transfer,out,2019
+1193,Hammarby IF,Oscar Krusnell,20,Left-Back,Sweden,100000,Team TG,Sweden,loan transfer,out,2019
+1194,Hammarby IF,Benjamin Machini,23,Goalkeeper,Sweden,50000,IK Frej Täby,Sweden,loan transfer,out,2019
+1195,Hammarby IF,Gianluca Curci,34,Goalkeeper,Italy,0,No club,No country,0,out,2019
+1196,Hammarby IF,Vidar Örn Kjartansson,29,Centre-Forward,Iceland,800000,Rostov,Russia,"End of loanJul 16, 2019",out,2019
+1197,AIK,Nabil Bahoui,28,Left Winger,Sweden,500000,De Graafschap,Netherlands,free transfer,in,2019
+1198,AIK,Felix Michel Melki,25,Centre-Back,Lebanon,200000,AFC Eskilstuna,Sweden,0,in,2019
+1199,AIK,Eric Kahl,18,Left-Back,Sweden,1000000,AIK U19,Sweden,0,in,2019
+1200,AIK,Robin Tihi,18,Centre-Back,Finland,700000,AIK U19,Sweden,0,in,2019
+1201,AIK,Nicolás Stefanelli,24,Centre-Forward,Argentina,750000,Anorthosis,Cyprus,"End of loanJun 30, 2019",in,2019
+1202,AIK,Samuel Brolin,18,Goalkeeper,Sweden,300000,Vasalund,Sweden,"End of loanJul 16, 2019",in,2019
+1203,AIK,Daniel Sundgren,28,Right-Back,Sweden,600000,Aris Saloniki,Greece,120000,out,2019
+1204,AIK,Magnar Ödegaard,26,Centre-Back,Norway,300000,Sarpsborg 08,Norway,free transfer,out,2019
+1205,AIK,Nicolás Stefanelli,24,Centre-Forward,Argentina,750000,La Calera,Chile,loan transfer,out,2019
+1206,AIK,Adam Ben Lamin,18,Centre-Back,Tunisia,150000,Utsikten,Sweden,loan transfer,out,2019
+1207,AIK,Stefan Silva,29,Centre-Forward,Sweden,100000,Karagümrük,Turkey,loan transfer,out,2019
+1208,AIK,Joel Ekstrand,30,Centre-Back,Sweden,0,No club,No country,0,out,2019
+1209,AIK,Jack Lahne,17,Centre-Forward,Sweden,700000,Brommapojkarna,Sweden,"End of loanJun 30, 2019",out,2019
+1210,IFK Norrköping,Sead Haksabanovic,21,Left Winger,Montenegro,5500000,West Ham,England,2600000,in,2019
+1211,IFK Norrköping,Maic Sema,30,Right Midfield,Sweden,100000,GIF Sundsvall,Sweden,free transfer,in,2019
+1212,IFK Norrköping,Christopher Telo,29,Left-Back,Sweden,150000,Molde,Norway,0,in,2019
+1213,IFK Norrköping,Andreas Vaikla,22,Goalkeeper,Estonia,150000,Kristiansund,Norway,0,in,2019
+1214,IFK Norrköping,Ishaq Abdulrazak,18,Right Winger,Nigeria,700000,No club,No country,0,in,2019
+1215,IFK Norrköping,Eric Smith,23,Defensive Midfield,Sweden,1200000,KAA Gent,Belgium,loan transfer,in,2019
+1216,IFK Norrköping,Alfons Sampsted,21,Right-Back,Iceland,800000,Sylvia,Sweden,"End of loanJul 31, 2019",in,2019
+1217,IFK Norrköping,Jordan Larsson,22,Centre-Forward,Sweden,14000000,Spartak Moscow,Russia,4000000,out,2019
+1218,IFK Norrköping,David Mitov Nilsson,28,Goalkeeper,North Macedonia,350000,GIF Sundsvall,Sweden,free transfer,out,2019
+1219,IFK Norrköping,Johannes Vall,26,Left-Back,Sweden,200000,Östers IF,Sweden,loan transfer,out,2019
+1220,IFK Norrköping,Alfons Sampsted,21,Right-Back,Iceland,800000,Breidablik,Iceland,loan transfer,out,2019
+1221,IFK Norrköping,Alexander Jakobsen,25,Left Winger,Egypt,250000,Kalmar FF,Sweden,loan transfer,out,2019
+1222,BK Häcken,Leonard Zuta,27,Left-Back,North Macedonia,400000,Konyaspor,Turkey,free transfer,in,2019
+1223,BK Häcken,Gustaf Nilsson,22,Centre-Forward,Sweden,275000,Vejle BK,Denmark,0,in,2019
+1224,BK Häcken,Teodor Walemark,18,Centre-Back,Sweden,150000,Häcken U19,Sweden,0,in,2019
+1225,BK Häcken,Alexander Nadj,32,Goalkeeper,Sweden,50000,No club,No country,0,in,2019
+1226,BK Häcken,Alexander Jeremejeff,25,Centre-Forward,Sweden,1000000,Dynamo Dresden,Germany,1000000,out,2019
+1227,BK Häcken,Nasiru Mohammed,25,Right Winger,Ghana,200000,Levski Sofia,Bulgaria,250000,out,2019
+1228,BK Häcken,Mervan Celik,29,Left Winger,Sweden,250000,Karagümrük,Turkey,free transfer,out,2019
+1229,BK Häcken,Juhani Ojala,30,Centre-Back,Finland,250000,Vejle BK,Denmark,0,out,2019
+1230,IFK Göteborg,Hosam Aiesh,24,Right Winger,Sweden,400000,Östersund,Sweden,570000,in,2019
+1231,IFK Göteborg,Mattias Bjärsmyr,34,Centre-Back,Sweden,200000,Genclerbirligi,Turkey,free transfer,in,2019
+1232,IFK Göteborg,Tobias Sana,30,Left Winger,Sweden,600000,Aarhus GF,Denmark,0,in,2019
+1233,IFK Göteborg,Alexander Farnerud,36,Central Midfield,Sweden,100000,No club,No country,0,in,2019
+1234,IFK Göteborg,Isak Dahlqvist,18,Right Winger,Sweden,50000,IFK U19,Sweden,0,in,2019
+1235,IFK Göteborg,Jesper Tolinsson,17,Centre-Back,Sweden,1500000,IFK U19,Sweden,0,in,2019
+1236,IFK Göteborg,Edvin Dahlqvist,20,Left-Back,Sweden,100000,Utsikten,Sweden,"End of loanAug 31, 2019",in,2019
+1237,IFK Göteborg,Benjamin Nygren,17,Right Winger,Sweden,2000000,KRC Genk,Belgium,3700000,out,2019
+1238,IFK Göteborg,Carl Starfelt,24,Centre-Back,Sweden,3000000,Rubin Kazan,Russia,1500000,out,2019
+1239,IFK Göteborg,Sebastian Ohlsson,26,Right-Back,Sweden,700000,FC St. Pauli,Germany,280000,out,2019
+1240,IFK Göteborg,Victor Olofsson,20,Defensive Midfield,Sweden,100000,Tar Heels,United States,free transfer,out,2019
+1241,IFK Göteborg,Erik Dahlin,30,Goalkeeper,Sweden,0,Ljungskile,Sweden,free transfer,out,2019
+1242,IFK Göteborg,Edvin Dahlqvist,20,Left-Back,Sweden,100000,Utsikten,Sweden,loan transfer,out,2019
+1243,IFK Göteborg,Amin Affane,25,Attacking Midfield,Sweden,100000,Örgryte,Sweden,loan transfer,out,2019
+1244,IF Elfsborg,Álex Portillo,26,Centre-Back,Spain,325000,Antequera,Spain,free transfer,in,2019
+1245,IF Elfsborg,Rasmus Alm,23,Right Winger,Sweden,1200000,Degerfors,Sweden,0,in,2019
+1246,IF Elfsborg,Sivert Heltne Nilsen,27,Defensive Midfield,Norway,900000,AC Horsens,Denmark,0,in,2019
+1247,IF Elfsborg,Joseph Okumu,22,Centre-Back,Kenya,2000000,Real Monarchs,United States,0,in,2019
+1248,IF Elfsborg,Arian Kabashi,22,Centre-Forward,Sweden,100000,GAIS,Sweden,"End of loanJun 30, 2019",in,2019
+1249,IF Elfsborg,Alex Dyer,29,Defensive Midfield,Montserrat,150000,Lillestrøm SK,Norway,"End of loanAug 1, 2019",in,2019
+1250,IF Elfsborg,Joakim Nilsson,25,Centre-Back,Sweden,2500000,Arm. Bielefeld,Germany,400000,out,2019
+1251,IF Elfsborg,Jesper Manns,24,Right-Back,Sweden,175000,Kalmar FF,Sweden,0,out,2019
+1252,IF Elfsborg,Pawel Cibicki,25,Left Winger,Sweden,200000,Leeds,England,"End of loanJul 15, 2019",out,2019
+1253,IF Elfsborg,Kevin Kabran,25,Attacking Midfield,Sweden,300000,IK Start,Norway,"End of loanJul 31, 2019",out,2019
+1254,Örebro SK,Nahir Besara,29,Second Striker,Sweden,600000,Pafos FC,Cyprus,free transfer,in,2019
+1255,Örebro SK,Hussein Ali,17,Right-Back,Sweden,500000,Malmö U19,Sweden,0,in,2019
+1256,Örebro SK,Yaser Kasim,28,Central Midfield,Iraq,325000,No club,No country,0,in,2019
+1257,Örebro SK,Niclas Bergmark,17,Centre-Back,Sweden,100000,Örebro SK U19,Sweden,0,in,2019
+1258,Örebro SK,Filip Rogic,26,Central Midfield,Sweden,600000,Orenburg,Russia,190000,out,2019
+1259,Örebro SK,Michael Omoh,27,Left Midfield,Nigeria,200000,Mjällby AIF,Sweden,loan transfer,out,2019
+1260,Örebro SK,Carlos Strandberg,23,Centre-Forward,Sweden,2800000,Malmö FF,Sweden,"End of loanAug 29, 2019",out,2019
+1261,Helsingborgs IF,Tobias Mikkelsen,32,Right Winger,Denmark,0,Brisbane Roar,Australia,free transfer,in,2019
+1262,Helsingborgs IF,Anders Lindegaard,35,Goalkeeper,Denmark,300000,Burnley,England,free transfer,in,2019
+1263,Helsingborgs IF,Alhaji Gero,25,Centre-Forward,Nigeria,150000,Östersund,Sweden,free transfer,in,2019
+1264,Helsingborgs IF,Tashreeq Matthews,18,Left Winger,South Africa,500000,B. Dortmund II,Germany,loan transfer,in,2019
+1265,Helsingborgs IF,Alexander Nilsson,22,Goalkeeper,Sweden,150000,IFK Hässleholm,Sweden,0,in,2019
+1266,Helsingborgs IF,Daníel Hafsteinsson,19,Central Midfield,Iceland,150000,KA Akureyri,Iceland,0,in,2019
+1267,Helsingborgs IF,Ibrahim Bancé,18,Attacking Midfield,Burkina Faso,150000,ASEC Mimosas,Cote d'Ivoire,loan transfer,in,2019
+1268,Helsingborgs IF,Alexander Nilsson,21,Goalkeeper,Sweden,150000,IFK Hässleholm,Sweden,loan transfer,in,2019
+1269,Helsingborgs IF,Jakob Voelkerling Persson,18,Centre-Back,Sweden,175000,Helsingborg U19,Sweden,0,in,2019
+1270,Helsingborgs IF,Armin Gigovic,17,Defensive Midfield,Sweden,2000000,Helsingborg U19,Sweden,0,in,2019
+1271,Helsingborgs IF,Mattias Almeida Sundell,20,Right Midfield,Sweden,100000,Värnamo,Sweden,"End of loanJul 15, 2019",in,2019
+1272,Helsingborgs IF,Andri Rúnar Bjarnason,28,Centre-Forward,Iceland,300000,1.FC K'lautern,Germany,190000,out,2019
+1273,Helsingborgs IF,Rasmus Jönsson,29,Centre-Forward,Sweden,300000,Buriram Utd.,Thailand,free transfer,out,2019
+1274,Helsingborgs IF,Noel Mbo,20,Centre-Forward,England,100000,Eskilsminne,Sweden,loan transfer,out,2019
+1275,Helsingborgs IF,Johan Persson,35,Defensive Midfield,Sweden,0,Östers IF,Sweden,0,out,2019
+1276,Helsingborgs IF,David Boysen,28,Right Winger,Denmark,150000,Ness Ziona,Israel,0,out,2019
+1277,Helsingborgs IF,Egzon Bejtulai,26,Centre-Back,North Macedonia,800000,No club,No country,0,out,2019
+1278,Helsingborgs IF,Pär Hansson,33,Goalkeeper,Sweden,0,No club,No country,0,out,2019
+1279,Helsingborgs IF,Alexander Nilsson,22,Goalkeeper,Sweden,150000,IFK Hässleholm,Sweden,"End of loanOct 28, 2019",out,2019
+1280,Helsingborgs IF,Tom Glover,21,Goalkeeper,Australia,650000,Tottenham U23,England,"End of loanJun 30, 2019",out,2019
+1281,IK Sirius,André Österholm,23,Left Winger,Sweden,25000,No club,No country,0,in,2019
+1282,IK Sirius,Isak Braholm,19,Defensive Midfield,Sweden,100000,Sirius U19,Sweden,0,in,2019
+1283,IK Sirius,Gustav Nyberg,21,Goalkeeper,Sweden,100000,Karlstad BK,Sweden,"End of loanJul 31, 2019",in,2019
+1284,IK Sirius,Charbel Georges,25,Defensive Midfield,Sweden,125000,Mjällby AIF,Sweden,free transfer,out,2019
+1285,IK Sirius,Gustav Nyberg,21,Goalkeeper,Sweden,100000,Oskarshamn,Sweden,free transfer,out,2019
+1286,IK Sirius,Sherko Faiqi,20,Central Midfield,Sweden,100000,Gefle,Sweden,loan transfer,out,2019
+1287,IK Sirius,Sylvin Kayembe,18,Left Winger,Sweden,100000,Kir. Shmona U19,Israel,0,out,2019
+1288,IK Sirius,Robert Ahman-Persson,33,Defensive Midfield,Sweden,0,No club,No country,0,out,2019
+1289,Östersunds FK,Brian Martin,24,Centre-Forward,Spain,100000,CD Tenerife B,Spain,free transfer,in,2019
+1290,Östersunds FK,Blair Turgott,25,Right Winger,Jamaica,500000,Maidstone,England,free transfer,in,2019
+1291,Östersunds FK,Alex Purver,23,Attacking Midfield,England,100000,Guiseley,England,free transfer,in,2019
+1292,Östersunds FK,Nebiyou Perry,19,Left Winger,United States,200000,1.FC Köln II,Germany,0,in,2019
+1293,Östersunds FK,Jordan Attah Kadiri,19,Centre-Forward,Nigeria,500000,Nasarawa United,Nigeria,0,in,2019
+1294,Östersunds FK,Felix Hörberg,20,Right Midfield,Sweden,600000,Trelleborg,Sweden,0,in,2019
+1295,Östersunds FK,Adnan Catic,20,Centre-Back,Sweden,50000,AFC Eskilstuna,Sweden,0,in,2019
+1296,Östersunds FK,Kalpi Ouattara,20,Left-Back,Cote d'Ivoire,300000,ASEC Mimosas,Cote d'Ivoire,loan transfer,in,2019
+1297,Östersunds FK,Hosam Aiesh,24,Right Winger,Sweden,400000,IFK Göteborg,Sweden,570000,out,2019
+1298,Östersunds FK,Curtis Edwards,25,Central Midfield,England,350000,Djurgarden,Sweden,free transfer,out,2019
+1299,Östersunds FK,Ravel Morrison,26,Attacking Midfield,Jamaica,500000,Sheff Utd,England,free transfer,out,2019
+1300,Östersunds FK,Alhaji Gero,25,Centre-Forward,Nigeria,150000,Helsingborg,Sweden,free transfer,out,2019
+1301,Östersunds FK,Henrik Bellman,20,Right Midfield,Sweden,250000,Levanger FK,Norway,loan transfer,out,2019
+1302,Östersunds FK,Tesfaldet Tekie,22,Central Midfield,Sweden,1000000,KAA Gent,Belgium,"End of loanJun 30, 2019",out,2019
+1303,Falkenbergs FF,Melker Nilsson,19,Defensive Midfield,Sweden,75000,Malmö U19,Sweden,0,in,2019
+1304,Falkenbergs FF,Viktor Noring,29,Goalkeeper,Sweden,150000,No club,No country,0,in,2019
+1305,Falkenbergs FF,Herve Prudence,19,Defensive Midfield,Sweden,50000,Eskilsminne,Sweden,loan transfer,out,2019
+1306,Falkenbergs FF,Johan Lassagard,25,Right Midfield,Sweden,100000,Värnamo,Sweden,loan transfer,out,2019
+1307,Kalmar FF,Geir André Herrem,31,Centre-Forward,Norway,100000,Bodø/Glimt,Norway,60000,in,2019
+1308,Kalmar FF,Jesper Manns,24,Right-Back,Sweden,175000,Elfsborg,Sweden,0,in,2019
+1309,Kalmar FF,Samuel Adrian,21,Defensive Midfield,Sweden,150000,Malmö FF,Sweden,loan transfer,in,2019
+1310,Kalmar FF,Alexander Jakobsen,25,Left Winger,Egypt,250000,Norrköping,Sweden,loan transfer,in,2019
+1311,Kalmar FF,Carl Gustafsson,19,Central Midfield,Sweden,600000,Kalmar U19,Sweden,0,in,2019
+1312,Kalmar FF,Isak Jansson,17,Attacking Midfield,Sweden,400000,Kalmar U19,Sweden,0,in,2019
+1313,Kalmar FF,Ole Söderberg,29,Goalkeeper,Sweden,200000,No club,No country,0,in,2019
+1314,Kalmar FF,Lumala Abdu,22,Centre-Forward,Uganda,100000,Syrianska FC,Sweden,"End of loanJul 31, 2019",in,2019
+1315,Kalmar FF,Adrian Edqvist,20,Left Winger,Sweden,250000,Oskarshamn,Sweden,"End of loanJun 30, 2019",in,2019
+1316,Kalmar FF,Mostapha El Kabir,30,Centre-Forward,Morocco,100000,C. Rizespor,Turkey,free transfer,out,2019
+1317,Kalmar FF,Olle Lindqvist,19,Right-Back,Sweden,100000,Oskarshamn,Sweden,loan transfer,out,2019
+1318,Kalmar FF,Edvin Crona,19,Centre-Forward,Sweden,150000,Värnamo,Sweden,loan transfer,out,2019
+1319,Kalmar FF,Lumala Abdu,22,Centre-Forward,Uganda,100000,Pyramids FC,Egypt,0,out,2019
+1320,Kalmar FF,Chima Akas,25,Centre-Back,Nigeria,300000,Belenenses SAD,Portugal,0,out,2019
+1321,Kalmar FF,Papa Diouf,30,Centre-Forward,Senegal,175000,Istanbulspor,Turkey,0,out,2019
+1322,Kalmar FF,Adrian Edqvist,20,Left Winger,Sweden,250000,Go Ahead Eagles,Netherlands,loan transfer,out,2019
+1323,Mjällby AIF,Charbel Georges,25,Defensive Midfield,Sweden,125000,Sirius,Sweden,free transfer,in,2019
+1324,Mjällby AIF,Erik Pärsson,25,Centre-Forward,Sweden,100000,OFI Crete,Greece,free transfer,in,2019
+1325,Mjällby AIF,Michael Omoh,27,Left Midfield,Nigeria,200000,Örebro SK,Sweden,loan transfer,in,2019
+1326,Mjällby AIF,Jesper Löfgren,22,Centre-Back,Sweden,800000,Brann,Norway,loan transfer,in,2019
+1327,Mjällby AIF,Viktor Agardius,30,Left-Back,Sweden,400000,No club,No country,0,in,2019
+1328,Mjällby AIF,Hampus Holgersson,19,Attacking Midfield,Sweden,50000,Mjällby U19,Sweden,0,in,2019
+1329,Mjällby AIF,Jonathan Tamimi,25,Right Midfield,Jordan,200000,No club,No country,0,in,2019
+1330,Mjällby AIF,Nino Irgolic,21,Goalkeeper,Slovenia,100000,NK Maribor,Slovenia,loan transfer,in,2019
+1331,Mjällby AIF,Jakob Ottosson,20,Left Midfield,Sweden,0,Kristianstad,Sweden,loan transfer,out,2019
+1332,Mjällby AIF,Jacob Bergström,24,Centre-Forward,Sweden,400000,Mjøndalen,Norway,0,out,2019
+1333,Mjällby AIF,Óttar Magnús Karlsson,22,Centre-Forward,Iceland,200000,Víkingur,Iceland,0,out,2019
+1334,Mjällby AIF,Jesper Johansson,25,Goalkeeper,Sweden,0,No club,No country,0,out,2019
+1335,Mjällby AIF,Andreas Birgersson,28,Centre-Forward,Sweden,0,No club,No country,0,out,2019
+1336,Mjällby AIF,Pavle Vagic,19,Defensive Midfield,Sweden,500000,Malmö FF,Sweden,"End of loanJul 8, 2019",out,2019
+1337,Mjällby AIF,Gísli Eyjólfsson,25,Central Midfield,Iceland,125000,Breidablik,Iceland,"End of loanJul 4, 2019",out,2019
+1338,Varbergs BoIS,Alibek Aliev,22,Centre-Forward,Sweden,150000,Örgryte,Sweden,0,in,2019
+1339,Varbergs BoIS,Anton Liljenbäck,24,Right Midfield,Sweden,300000,No club,No country,0,in,2019
+1340,Varbergs BoIS,Thierry Zahui,31,Defensive Midfield,Cote d'Ivoire,0,Assyriska BK,Sweden,free transfer,out,2019
+1341,Varbergs BoIS,Erik Zetterberg,22,Defensive Midfield,Sweden,125000,Tvååkers IF,Sweden,loan transfer,out,2019
+1342,Varbergs BoIS,Albin Svensson,19,Goalkeeper,Sweden,100000,Varbergs GIF,Sweden,loan transfer,out,2019
+1343,AIK,Bojan Radulovic,20,Centre-Forward,Serbia,300000,Brighton U23,England,free transfer,in,2020
+1344,AIK,Filip Rogic,27,Central Midfield,Sweden,600000,Orenburg,Russia,free transfer,in,2020
+1345,AIK,Mikael Lustig,33,Right-Back,Sweden,500000,KAA Gent,Belgium,free transfer,in,2020
+1346,AIK,Sotirios Papagiannopoulos,29,Centre-Back,Sweden,1000000,FC Copenhagen,Denmark,0,in,2020
+1347,AIK,Erik Ring,18,Left Winger,Sweden,400000,AIK U19,Sweden,0,in,2020
+1348,AIK,Karol Mets,27,Centre-Back,Estonia,600000,Al-Ettifaq,Saudi Arabia,385000,out,2020
+1349,AIK,Saku Ylätupa,21,Right Winger,Finland,600000,IFK Mariehamn,Finland,loan transfer,out,2020
+1350,AIK,Daniel Granli,26,Centre-Back,Norway,600000,Aalborg BK,Denmark,loan transfer,out,2020
+1351,AIK,Felix Michel Melki,26,Centre-Back,Lebanon,200000,Sarpsborg 08,Norway,loan transfer,out,2020
+1352,AIK,Jasir Asani,25,Right Winger,Albania,425000,FK Partizani,Albania,"End of loanAug 12, 2020",out,2020
+1353,Degerfors IF,Tufve Östlund,19,Centre-Back,Sweden,25000,Degerfors U19,Sweden,0,in,2020
+1354,Degerfors IF,Joel Okon Daniel,21,Right Winger,Nigeria,50000,Almagro CF,Spain,free transfer,out,2020
+1355,Degerfors IF,Erik Grandelius,18,Right Midfield,Sweden,75000,Örebro Syr.,Sweden,loan transfer,out,2020
+1356,Degerfors IF,Emil Portén,21,Attacking Midfield,Sweden,50000,Karlst utveck.,Sweden,loan transfer,out,2020
+1357,Degerfors IF,Linus Olsson,20,Centre-Back,Sweden,50000,Nordvärmland FF,Sweden,loan transfer,out,2020
+1358,Djurgardens IF,Magnus Eriksson,30,Attacking Midfield,Sweden,1000000,Quakes,United States,0,in,2020
+1359,Djurgardens IF,Melker Jonsson,18,Centre-Back,Sweden,25000,Djurgarden U19,Sweden,0,in,2020
+1360,Djurgardens IF,Mattias Mitku,19,Attacking Midfield,Sweden,25000,Djurgarden U19,Sweden,0,in,2020
+1361,Djurgardens IF,Oscar Pettersson,20,Left Winger,Sweden,125000,Akropolis,Sweden,loan transfer,out,2020
+1362,Djurgardens IF,Astrit Ajdarevic,30,Central Midfield,Albania,150000,No club,No country,0,out,2020
+1363,Djurgardens IF,Erik Berg,32,Centre-Back,Sweden,0,No club,No country,0,out,2020
+1364,IF Elfsborg,Jeppe Okkels,21,Left Winger,Denmark,900000,Silkeborg IF,Denmark,250000,in,2020
+1365,IF Elfsborg,Jesper Karlsson,22,Left Winger,Sweden,8000000,AZ Alkmaar,Netherlands,2600000,out,2020
+1366,IF Elfsborg,Tim Stalheden,20,Centre-Back,Sweden,0,Tvååkers IF,Sweden,free transfer,out,2020
+1367,IF Elfsborg,Anton Thorsson,21,Central Midfield,Sweden,25000,Assyriska IK,Sweden,free transfer,out,2020
+1368,IF Elfsborg,Eduart Iljazi,20,Right Midfield,Sweden,0,FC Trollhättan,Sweden,free transfer,out,2020
+1369,IF Elfsborg,Deniz Hümmet,23,Centre-Forward,Turkey,500000,Örebro SK,Sweden,loan transfer,out,2020
+1370,IF Elfsborg,Marokhy Ndione,20,Centre-Forward,Sweden,600000,Örgryte,Sweden,loan transfer,out,2020
+1371,IF Elfsborg,Jesper Sandberg Hesselgren,20,attack,Sweden,100000,No club,No country,0,out,2020
+1372,IFK Göteborg,Christian Kouakou,25,Centre-Forward,Sweden,500000,Brage,Sweden,80000,in,2020
+1373,IFK Göteborg,Jakob Johansson,30,Defensive Midfield,Sweden,0,Stade Rennais,France,free transfer,in,2020
+1374,IFK Göteborg,Pontus Wernbloom,34,Central Midfield,Sweden,0,PAOK Salonika,Greece,free transfer,in,2020
+1375,IFK Göteborg,Sebastian Eriksson,31,Central Midfield,Sweden,400000,Genoa,Italy,free transfer,in,2020
+1376,IFK Göteborg,Yahya Kalley,19,Left-Back,Sweden,300000,Malmö U19,Sweden,free transfer,in,2020
+1377,IFK Göteborg,Lawson Sabah,23,Defensive Midfield,Ghana,75000,Linköping City,Sweden,"End of loanJul 31, 2020",in,2020
+1378,IFK Göteborg,Nzuzi Toko,29,Defensive Midfield,DR Congo,350000,Würzb. Kickers,Germany,free transfer,out,2020
+1379,IFK Göteborg,Lawson Sabah,23,Defensive Midfield,Ghana,75000,Linköping City,Sweden,free transfer,out,2020
+1380,IFK Göteborg,Victor Wernersson,25,Left-Back,Sweden,500000,KV Mechelen,Belgium,0,out,2020
+1381,IFK Göteborg,Jakob Johansson,31,Defensive Midfield,Sweden,0,No club,No country,0,out,2020
+1382,IFK Göteborg,Adil Titi,21,Defensive Midfield,Sweden,125000,Norrby,Sweden,loan transfer,out,2020
+1383,BK Häcken,Pontus Dahlberg,21,Goalkeeper,Sweden,1200000,Watford,England,loan transfer,in,2020
+1384,BK Häcken,Nikola Gulan,31,Left-Back,Serbia,150000,No club,No country,0,in,2020
+1385,BK Häcken,Adnan Maric,23,Defensive Midfield,Sweden,250000,GAIS,Sweden,free transfer,out,2020
+1386,BK Häcken,Leonard Zuta,28,Left-Back,North Macedonia,400000,Lecce,Italy,free transfer,out,2020
+1387,BK Häcken,Aiham Ousou,20,Centre-Back,Sweden,200000,AFC Eskilstuna,Sweden,loan transfer,out,2020
+1388,BK Häcken,Kevin Yakob,19,Attacking Midfield,Sweden,400000,Utsikten,Sweden,loan transfer,out,2020
+1389,BK Häcken,Imam Jagne,17,Central Midfield,Sweden,100000,Everton U18,England,0,out,2020
+1390,BK Häcken,Gustaf Nilsson,23,Centre-Forward,Sweden,275000,Falkenberg,Sweden,loan transfer,out,2020
+1391,BK Häcken,Pontus Dahlberg,22,Goalkeeper,Sweden,1200000,Watford,England,"End of loanMay 31, 2021",out,2020
+1392,Halmstads BK,Simon Lundevall,32,Left Midfield,Sweden,200000,Volos NPS,Greece,free transfer,in,2020
+1393,Halmstads BK,Oliver Hintsa,19,Centre-Forward,Sweden,50000,Tvååkers IF,Sweden,loan transfer,out,2020
+1394,Halmstads BK,Rasmus Wiedesheim-Paul,21,Centre-Forward,Sweden,400000,Rosenborg,Norway,0,out,2020
+1395,Halmstads BK,Robin Östlind,30,Left Midfield,Sweden,0,No club,No country,0,out,2020
+1396,Hammarby IF,Axel Sjöberg,20,Right-Back,Sweden,50000,IK Frej Täby,Sweden,0,in,2020
+1397,Hammarby IF,Mohanad Jeahze,23,Left-Back,Sweden,1000000,Mjällby AIF,Sweden,0,in,2020
+1398,Hammarby IF,Abdul-Halik Hudu,20,Defensive Midfield,Ghana,300000,IK Frej Täby,Sweden,"End of loanJul 28, 2020",in,2020
+1399,Hammarby IF,Muamer Tankovic,25,Left Winger,Sweden,1800000,AEK Athens,Greece,free transfer,out,2020
+1400,Hammarby IF,Abdul-Halik Hudu,20,Defensive Midfield,Ghana,300000,GIF Sundsvall,Sweden,loan transfer,out,2020
+1401,Hammarby IF,Axel Sjöberg,20,Right-Back,Sweden,50000,IK Frej Täby,Sweden,loan transfer,out,2020
+1402,Hammarby IF,Jean Carlos de Brito,25,Left Winger,Brazil,400000,TPS,Finland,loan transfer,out,2020
+1403,Hammarby IF,Vladimir Rodic,27,Right Winger,Montenegro,400000,Odds BK,Norway,loan transfer,out,2020
+1404,Kalmar FF,Erik Israelsson,31,Attacking Midfield,Sweden,100000,Vålerenga,Norway,free transfer,in,2020
+1405,Kalmar FF,Douglas Bergqvist,27,Centre-Back,Sweden,350000,Arka Gdynia,Poland,free transfer,in,2020
+1406,Kalmar FF,Mayron George,26,Centre-Forward,Costa Rica,500000,FC Midtjylland,Denmark,loan transfer,in,2020
+1407,Kalmar FF,Jajá,25,Attacking Midfield,Brazil,250000,No club,No country,0,in,2020
+1408,Kalmar FF,Adrian Edqvist,21,Left Winger,Sweden,250000,Go Ahead Eagles,Netherlands,"End of loanJun 30, 2020",in,2020
+1409,Kalmar FF,Fidan Aliti,26,Left-Back,Kosovo,700000,FC Zürich,Switzerland,Loan fee:75000,out,2020
+1410,Kalmar FF,Johan Arvidsson,20,Left Winger,Sweden,100000,Oskarshamn,Sweden,loan transfer,out,2020
+1411,Kalmar FF,Edvin Crona,21,Centre-Forward,Sweden,150000,Oskarshamn,Sweden,loan transfer,out,2020
+1412,Kalmar FF,Svante Ingelsson,22,Central Midfield,Sweden,600000,Udinese Calcio,Italy,"End of loanAug 31, 2020",out,2020
+1413,Malmö FF,Felix Beijmo,22,Right-Back,Sweden,700000,Werder Bremen,Germany,0,in,2020
+1414,Malmö FF,Aleksander Nilsson,18,Defensive Midfield,Sweden,0,Malmö U19,Sweden,0,in,2020
+1415,Malmö FF,Markus Björkqvist,17,Central Midfield,Sweden,100000,Malmö FF U17,Sweden,0,in,2020
+1416,Malmö FF,Marko Johansson,21,Goalkeeper,Sweden,750000,Mjällby AIF,Sweden,"End of loanJul 28, 2020",in,2020
+1417,Malmö FF,Franz Brorsson,24,Centre-Back,Sweden,800000,Esbjerg fB,Denmark,"End of loanJul 31, 2020",in,2020
+1418,Malmö FF,Romain Gall,25,Right Winger,United States,300000,Stabæk Fotball,Norway,"End of loanAug 24, 2020",in,2020
+1419,Malmö FF,Fouad Bachirou,30,Defensive Midfield,Comoros,600000,Nottm Forest,England,670000,out,2020
+1420,Malmö FF,Guillermo Molins,31,Centre-Forward,Sweden,200000,Sarpsborg 08,Norway,free transfer,out,2020
+1421,Malmö FF,Tim Prica,18,Centre-Forward,Sweden,600000,Aalborg BK,Denmark,0,out,2020
+1422,Malmö FF,Hugo Andersson,21,Centre-Back,Sweden,300000,Hobro IK,Denmark,loan transfer,out,2020
+1423,Malmö FF,Romain Gall,25,Right Winger,United States,300000,Örebro SK,Sweden,loan transfer,out,2020
+1424,Malmö FF,Amel Mujanic,19,Central Midfield,Sweden,150000,Hobro IK,Denmark,loan transfer,out,2020
+1425,Malmö FF,Marcus Antonsson,29,Centre-Forward,Sweden,600000,Stabæk Fotball,Norway,loan transfer,out,2020
+1426,Malmö FF,Mathias Nilsson,22,Goalkeeper,Sweden,200000,Östers IF,Sweden,loan transfer,out,2020
+1427,Malmö FF,Pavle Vagic,20,Defensive Midfield,Sweden,500000,Jönköping,Sweden,loan transfer,out,2020
+1428,Mjällby AIF,Max Rundqvist,20,Goalkeeper,Sweden,0,Nosaby IF,Sweden,free transfer,in,2020
+1429,Mjällby AIF,Kadir Hodzic,26,Left-Back,Sweden,500000,Dalkurd,Sweden,0,in,2020
+1430,Mjällby AIF,Martin Spelmann,33,Central Midfield,Denmark,100000,No club,No country,0,in,2020
+1431,Mjällby AIF,Mohanad Jeahze,23,Left-Back,Sweden,1000000,Hammarby,Sweden,0,out,2020
+1432,Mjällby AIF,Adi Terzic,22,Centre-Back,Sweden,150000,Dalkurd,Sweden,loan transfer,out,2020
+1433,Mjällby AIF,Max Rundqvist,20,Goalkeeper,Sweden,0,Nosaby IF,Sweden,loan transfer,out,2020
+1434,Mjällby AIF,Marko Johansson,21,Goalkeeper,Sweden,750000,Malmö FF,Sweden,"End of loanJul 28, 2020",out,2020
+1435,IFK Norrköping,Linus Wahlqvist,23,Right-Back,Sweden,1000000,Dynamo Dresden,Germany,free transfer,in,2020
+1436,IFK Norrköping,Linus Hallenius,31,Centre-Forward,Sweden,350000,APOEL Nicosia,Cyprus,free transfer,in,2020
+1437,IFK Norrköping,Emanuel Chabo,18,attack,Sweden,25000,Norrköping U19,Sweden,0,in,2020
+1438,IFK Norrköping,Pontus Almqvist,21,Right Winger,Sweden,2800000,Rostov,Russia,3750000,out,2020
+1439,IFK Norrköping,Rasmus Lauritsen,24,Centre-Back,Denmark,6500000,Dinamo Zagreb,Croatia,1600000,out,2020
+1440,IFK Norrköping,Ian Smith,22,Right-Back,Costa Rica,175000,LD Alajuelense,Costa Rica,0,out,2020
+1441,IFK Norrköping,Finnur Tómas Pálmason,20,Centre-Back,Iceland,150000,KR Reykjavík,Iceland,loan transfer,out,2020
+1442,IFK Norrköping,Carl Björk,20,Centre-Forward,Sweden,350000,Trelleborg,Sweden,loan transfer,out,2020
+1443,IFK Norrköping,Sead Haksabanovic,21,Left Winger,Montenegro,5500000,West Ham,England,"End of loanJun 11, 2020",out,2020
+1444,IFK Norrköping,Vladimir Sudar,35,Goalkeeper,Bosnia-Herzegovina,0,Team TG,Sweden,"End of loanJul 31, 2020",out,2020
+1445,IK Sirius,Yukiya Sugita,27,Left Winger,Japan,500000,Tractor,Iran,424000,in,2020
+1446,IK Sirius,Johan Karlsson,19,Central Midfield,Sweden,200000,Sirius U19,Sweden,0,in,2020
+1447,IK Sirius,Hannes Sveijer,18,Goalkeeper,Sweden,150000,IFK Luleå,Sweden,"End of loanAug 17, 2020",in,2020
+1448,IK Sirius,Joakim Persson,18,Centre-Forward,Sweden,150000,IFK Luleå,Sweden,loan transfer,out,2020
+1449,IK Sirius,Hannes Sveijer,18,Goalkeeper,Sweden,150000,Sollentuna FK,Sweden,loan transfer,out,2020
+1450,IK Sirius,Kebba Ceesay,32,Centre-Back,The Gambia,100000,Helsingborg,Sweden,loan transfer,out,2020
+1451,IK Sirius,Yukiya Sugita,27,Left Winger,Japan,500000,Tractor,Iran,"End of loanAug 23, 2020",out,2020
+1452,Varbergs BoIS,Gideon Mensah,19,Centre-Back,Ghana,200000,Nordsjaelland,Denmark,loan transfer,in,2020
+1453,Varbergs BoIS,Junes Barny,30,Central Midfield,Sweden,200000,No club,No country,0,in,2020
+1454,Varbergs BoIS,Robin Book,28,Central Midfield,Sweden,400000,Örebro SK,Sweden,loan transfer,in,2020
+1455,Varbergs BoIS,William Kvist,25,Right Midfield,Sweden,0,Landskrona,Sweden,"End of loanJul 28, 2020",in,2020
+1456,Varbergs BoIS,Liam Munther,19,midfield,Sweden,50000,Tvååkers IF,Sweden,"End of loanJul 20, 2020",in,2020
+1457,Varbergs BoIS,William Kvist,25,Right Midfield,Sweden,0,Landskrona,Sweden,free transfer,out,2020
+1458,Varbergs BoIS,Liam Munther,19,midfield,Sweden,50000,Varbergs GIF,Sweden,loan transfer,out,2020
+1459,Varbergs BoIS,Alexander Johansson,24,Centre-Forward,Sweden,150000,Sandnes Ulf,Norway,loan transfer,out,2020
+1460,Varbergs BoIS,Rasmus Cronvall,18,Centre-Forward,Sweden,100000,Varbergs GIF,Sweden,loan transfer,out,2020
+1461,Varbergs BoIS,Liam Munther,19,midfield,Sweden,50000,Tvååkers IF,Sweden,loan transfer,out,2020
+1462,Varbergs BoIS,Sebastian Möller,27,Right-Back,Sweden,0,Ljungskile,Sweden,loan transfer,out,2020
+1463,Örebro SK,Deniz Hümmet,23,Centre-Forward,Turkey,500000,Elfsborg,Sweden,loan transfer,in,2020
+1464,Örebro SK,Romain Gall,25,Right Winger,United States,300000,Malmö FF,Sweden,loan transfer,in,2020
+1465,Örebro SK,Rasmus Karjalainen,24,Centre-Forward,Finland,250000,Fortuna Sittard,Netherlands,loan transfer,in,2020
+1466,Örebro SK,Isaac Boye,23,Centre-Forward,Nigeria,100000,Ljungskile,Sweden,"End of loanAug 16, 2020",in,2020
+1467,Örebro SK,Helmer Andersson,18,Centre-Back,Sweden,100000,Karlslunds IF,Sweden,loan transfer,out,2020
+1468,Örebro SK,Alfred Ajdarevic,22,Left Midfield,Kosovo,100000,IK Frej Täby,Sweden,loan transfer,out,2020
+1469,Örebro SK,Fabio De Sousa Silva,24,Centre-Back,Brazil,100000,Vasalund,Sweden,loan transfer,out,2020
+1470,Örebro SK,Gustav Leijon,19,Goalkeeper,Sweden,25000,Linköping City,Sweden,loan transfer,out,2020
+1471,Örebro SK,Arvid Brorsson,21,Centre-Back,Sweden,250000,Örgryte,Sweden,loan transfer,out,2020
+1472,Örebro SK,Robin Book,28,Central Midfield,Sweden,400000,Varbergs BoIS,Sweden,loan transfer,out,2020
+1473,Örebro SK,Jack Lahne,18,Centre-Forward,Sweden,700000,Amiens SC,France,"End of loanJul 31, 2020",out,2020
+1474,Östersunds FK,Malcolm Stolt,19,Central Midfield,Sweden,150000,IFK Östersund,Sweden,0,in,2020
+1475,Östersunds FK,Nikolaos Dosis,19,Defensive Midfield,Sweden,250000,Djursholm U19,Sweden,0,in,2020
+1476,Östersunds FK,Sebastian Karlsson Grach,19,midfield,Sweden,250000,Djursholm U19,Sweden,0,in,2020
+1477,Östersunds FK,Ahmed Awad,28,Centre-Forward,Palästina,100000,Västerås SK,Sweden,0,in,2020
+1478,Östersunds FK,Francis Jno-Baptiste,20,Centre-Forward,England,200000,AFC Eskilstuna,Sweden,"End of loanJul 29, 2020",in,2020
+1479,Östersunds FK,Jordan Attah Kadiri,20,Centre-Forward,Nigeria,500000,Lommel SK,Belgium,1200000,out,2020
+1480,Östersunds FK,Brian Martin,24,Centre-Forward,Spain,100000,Ap. Larisas,Greece,free transfer,out,2020
+1481,Östersunds FK,Sebastian Karlsson Grach,19,midfield,Sweden,250000,Djursholm U19,Sweden,loan transfer,out,2020
+1482,Östersunds FK,Bakr Abdellaoui,23,Attacking Midfield,Finland,100000,Naestved BK,Denmark,loan transfer,out,2020
+1483,Östersunds FK,Adnan Catic,20,Centre-Back,Sweden,50000,Ljungskile,Sweden,loan transfer,out,2020
+1484,AIK,Kristoffer Nordfeldt,32,Goalkeeper,Sweden,900000,Genclerbirligi,Turkey,free transfer,in,2021
+1485,AIK,Zack Elbouzedi,23,Right Winger,Ireland,300000,Lincoln City,England,0,in,2021
+1486,AIK,Paulos Abraham,18,Centre-Forward,Sweden,2000000,FC Groningen,Netherlands,"End of loanJun 30, 2021",in,2021
+1487,AIK,Felix Michel Melki,27,Centre-Back,Lebanon,200000,Sarpsborg 08,Norway,"End of loanAug 2, 2021",in,2021
+1488,AIK,Paulos Abraham,18,Centre-Forward,Sweden,2000000,FC Groningen,Netherlands,2000000,out,2021
+1489,AIK,Eric Kahl,19,Left-Back,Sweden,1000000,Aarhus GF,Denmark,1500000,out,2021
+1490,AIK,Felix Michel Melki,27,Centre-Back,Lebanon,200000,AFC Eskilstuna,Sweden,loan transfer,out,2021
+1491,AIK,Tom Strannegard,19,Right Winger,Sweden,400000,Vasalund,Sweden,loan transfer,out,2021
+1492,Degerfors IF,Nikola Djurdjic,35,Centre-Forward,Serbia,425000,CD Rongcheng,China,free transfer,in,2021
+1493,Degerfors IF,Justin Salmon,22,Central Midfield,Liberia,150000,Västerås SK,Sweden,0,in,2021
+1494,Degerfors IF,Axel Lindahl,26,Left Midfield,Sweden,300000,Bodø/Glimt,Norway,loan transfer,in,2021
+1495,Degerfors IF,Alfie Whiteman,22,Goalkeeper,England,1000000,Spurs,England,loan transfer,in,2021
+1496,Degerfors IF,Jakob Andersson,19,Central Midfield,Sweden,25000,Degerfors U19,Sweden,0,in,2021
+1497,Degerfors IF,Ismael Diawara,26,Goalkeeper,Mali,500000,Malmö FF,Sweden,0,out,2021
+1498,Degerfors IF,Daniel Janevski,28,Centre-Back,Sweden,250000,Mjøndalen,Norway,0,out,2021
+1499,Degerfors IF,Hugo Claesson,19,Goalkeeper,Sweden,50000,FC Gute,Sweden,loan transfer,out,2021
+1500,Djurgardens IF,David Celic,18,Goalkeeper,Sweden,25000,Djurgarden U19,Sweden,0,in,2021
+1501,Djurgardens IF,Per Kristian Bratveit,25,Goalkeeper,Norway,700000,FC Groningen,Netherlands,"End of loanJun 30, 2021",in,2021
+1502,Djurgardens IF,Aslak Fonn Witry,25,Right-Back,Norway,1500000,AZ Alkmaar,Netherlands,1750000,out,2021
+1503,Djurgardens IF,Per Kristian Bratveit,25,Goalkeeper,Norway,700000,Nîmes Olympique,France,loan transfer,out,2021
+1504,Djurgardens IF,Mattias Mitku,20,Attacking Midfield,Sweden,25000,IFK Haninge,Sweden,loan transfer,out,2021
+1505,Djurgardens IF,Isak Hien,22,Centre-Back,Sweden,25000,Vasalund,Sweden,loan transfer,out,2021
+1506,Djurgardens IF,Axel Wallenborg,19,Left-Back,Sweden,25000,IFK Haninge,Sweden,loan transfer,out,2021
+1507,Djurgardens IF,Elias Andersson,25,Central Midfield,Sweden,400000,Mjällby AIF,Sweden,loan transfer,out,2021
+1508,Djurgardens IF,Peter McGregor,20,Centre-Forward,Jamaica,0,Atvidaberg,Sweden,loan transfer,out,2021
+1509,IF Elfsborg,Sveinn Aron Gudjohnsen,23,Centre-Forward,Iceland,350000,Spezia Calcio,Italy,free transfer,in,2021
+1510,IF Elfsborg,Hákon Rafn Valdimarsson,19,Goalkeeper,Iceland,50000,Grótta,Iceland,0,in,2021
+1511,IF Elfsborg,Gustaf Lagerbielke,21,Centre-Back,Sweden,250000,Västerås SK,Sweden,0,in,2021
+1512,IF Elfsborg,Emmanuel Boateng,24,Central Midfield,Ghana,300000,Hapoel Tel Aviv,Israel,0,in,2021
+1513,IF Elfsborg,Deniz Hümmet,24,Centre-Forward,Turkey,500000,Örebro SK,Sweden,"End of loanAug 31, 2021",in,2021
+1514,IF Elfsborg,Joseph Okumu,24,Centre-Back,Kenya,2000000,KAA Gent,Belgium,3500000,out,2021
+1515,IF Elfsborg,Simon Andersson,20,Goalkeeper,Sweden,25000,Sollentuna FK,Sweden,free transfer,out,2021
+1516,IF Elfsborg,Robert Gojani,28,Central Midfield,Sweden,750000,Silkeborg IF,Denmark,0,out,2021
+1517,IF Elfsborg,Deniz Hümmet,24,Centre-Forward,Turkey,500000,C. Rizespor,Turkey,0,out,2021
+1518,IF Elfsborg,Mathias Dyngeland,25,Goalkeeper,Norway,250000,Vålerenga,Norway,loan transfer,out,2021
+1519,IF Elfsborg,Jack Cooper Love,19,Centre-Forward,Sweden,100000,Örgryte,Sweden,loan transfer,out,2021
+1520,IF Elfsborg,Prince Isaac Kouame,20,Left Winger,Sweden,100000,GAIS,Sweden,loan transfer,out,2021
+1521,IFK Göteborg,Marcus Berg,34,Centre-Forward,Sweden,1200000,Krasnodar,Russia,free transfer,in,2021
+1522,IFK Göteborg,Oscar Wendt,35,Left-Back,Sweden,600000,Bor. M'gladbach,Germany,free transfer,in,2021
+1523,IFK Göteborg,Gustav Svensson,34,Defensive Midfield,Sweden,300000,GZ City,China,0,in,2021
+1524,IFK Göteborg,Bernardo Vilar,23,Centre-Back,Brazil,200000,Värnamo,Sweden,0,in,2021
+1525,IFK Göteborg,Filip Ambroz,17,Central Midfield,Croatia,50000,IFK U19,Sweden,0,in,2021
+1526,IFK Göteborg,Rasmus Wikström,20,Centre-Back,Sweden,150000,AFC Eskilstuna,Sweden,"End of loanJul 28, 2021",in,2021
+1527,IFK Göteborg,Jesper Tolinsson,18,Centre-Back,Sweden,1500000,Lommel SK,Belgium,2000000,out,2021
+1528,IFK Göteborg,Alhassan Yusuf,20,Defensive Midfield,Nigeria,1500000,Royal Antwerp,Belgium,1000000,out,2021
+1529,IFK Göteborg,Yahya Kalley,20,Left-Back,Sweden,300000,FC Groningen,Netherlands,400000,out,2021
+1530,IFK Göteborg,Rasmus Wikström,20,Centre-Back,Sweden,150000,Bröndby IF,Denmark,100000,out,2021
+1531,IFK Göteborg,Marek Hamsik,33,Central Midfield,Slovakia,3000000,Trabzonspor,Turkey,free transfer,out,2021
+1532,IFK Göteborg,Pontus Wernbloom,35,Central Midfield,Sweden,0,No club,No country,0,out,2021
+1533,IFK Göteborg,Noah Alexandersson,19,Left Winger,Sweden,200000,Moss FK,Norway,loan transfer,out,2021
+1534,BK Häcken,Samuel Gustafson,26,Central Midfield,Sweden,700000,Cremonese,Italy,0,in,2021
+1535,BK Häcken,Kristoffer Lund,19,Left-Back,Denmark,250000,Esbjerg fB,Denmark,0,in,2021
+1536,BK Häcken,Franklin Tebo Uchenna,21,Centre-Back,Nigeria,150000,Nasarawa United,Nigeria,loan transfer,in,2021
+1537,BK Häcken,Nasiru Mohammed,27,Right Winger,Ghana,200000,No club,No country,0,in,2021
+1538,BK Häcken,Aiham Ousou,21,Centre-Back,Sweden,200000,GAIS,Sweden,"End of loanJul 20, 2021",in,2021
+1539,BK Häcken,Johan Brattberg,24,Goalkeeper,Sweden,200000,Falkenberg,Sweden,"End of loanJul 14, 2021",in,2021
+1540,BK Häcken,Aiham Ousou,21,Centre-Back,Sweden,200000,Slavia Prague,Czech Republic,600000,out,2021
+1541,BK Häcken,Martin Olsson,33,Left-Back,Sweden,700000,Malmö FF,Sweden,500000,out,2021
+1542,BK Häcken,Daleho Irandust,23,Attacking Midfield,Sweden,2000000,FC Groningen,Netherlands,400000,out,2021
+1543,BK Häcken,William Milovanovic,19,Defensive Midfield,Sweden,50000,Norrby,Sweden,loan transfer,out,2021
+1544,BK Häcken,Samir Maarouf,20,midfield,Sweden,25000,Vasalund,Sweden,loan transfer,out,2021
+1545,BK Häcken,Leonardo Farah Shahin,18,Centre-Forward,Sweden,25000,AFC Eskilstuna,Sweden,loan transfer,out,2021
+1546,BK Häcken,Alexander Nadj,34,Goalkeeper,Sweden,50000,No club,No country,0,out,2021
+1547,BK Häcken,Jack Lahne,19,Centre-Forward,Sweden,700000,Amiens SC,France,"End of loanJun 30, 2021",out,2021
+1548,Halmstads BK,Kazper Karlsson,16,Central Midfield,Sweden,50000,Halmstad U19,Sweden,0,in,2021
+1549,Hammarby IF,Björn Paulsen,30,Centre-Back,Denmark,500000,FC Ingolstadt,Germany,free transfer,in,2021
+1550,Hammarby IF,Aljosa Matko,21,Right Winger,Slovenia,1000000,NK Maribor,Slovenia,0,in,2021
+1551,Hammarby IF,Williot Swedberg,17,Central Midfield,Sweden,900000,Hammarby IF U17,Sweden,0,in,2021
+1552,Hammarby IF,Joe Mendes,18,Right-Back,Sweden,50000,Hammarby TFF,Sweden,0,in,2021
+1553,Hammarby IF,Womene Miekam,-,Centre-Forward,Nigeria,0,Hammarby TFF,Sweden,"End of loanJul 13, 2021",in,2021
+1554,Hammarby IF,Oluwatobi Abimbola,19,Central Midfield,Nigeria,0,Hammarby TFF,Sweden,"End of loanJul 13, 2021",in,2021
+1555,Hammarby IF,Akpan Ankeye,19,Left Winger,Nigeria,0,Hammarby TFF,Sweden,"End of loanJul 13, 2021",in,2021
+1556,Hammarby IF,Davor Blazevic,28,Goalkeeper,Sweden,300000,GIF Sundsvall,Sweden,"End of loanJun 30, 2021",in,2021
+1557,Hammarby IF,Olatomi Olaniyan,19,Attacking Midfield,Nigeria,0,Hammarby TFF,Sweden,"End of loanJul 13, 2021",in,2021
+1558,Hammarby IF,Kalle Björklund,22,Centre-Back,Sweden,300000,Falkenberg,Sweden,"End of loanJul 14, 2021",in,2021
+1559,Hammarby IF,Aimar Sher,18,Central Midfield,Sweden,1200000,Spezia Calcio,Italy,2400000,out,2021
+1560,Hammarby IF,Abdul-Halik Hudu,21,Defensive Midfield,Ghana,300000,Lyngby BK,Denmark,0,out,2021
+1561,Hammarby IF,Axel Sjöberg,21,Right-Back,Sweden,50000,Brage,Sweden,loan transfer,out,2021
+1562,Hammarby IF,Kalle Björklund,22,Centre-Back,Sweden,300000,Västerås SK,Sweden,loan transfer,out,2021
+1563,Hammarby IF,Dennis Widgren,27,Left-Back,Sweden,500000,Sirius,Sweden,loan transfer,out,2021
+1564,Hammarby IF,Loue Bayere Junior,20,Centre-Forward,Cote d'Ivoire,200000,Zelez. Pancevo,Serbia,loan transfer,out,2021
+1565,Hammarby IF,Oluwatobi Abimbola,19,Central Midfield,Nigeria,0,Hammarby TFF,Sweden,loan transfer,out,2021
+1566,Hammarby IF,Womene Miekam,-,Centre-Forward,Nigeria,0,No club,No country,"End of loanJul 14, 2021",out,2021
+1567,Hammarby IF,Akpan Ankeye,19,Left Winger,Nigeria,0,Sido's FC,Nigeria,"End of loanJul 14, 2021",out,2021
+1568,Hammarby IF,Olatomi Olaniyan,19,Attacking Midfield,Nigeria,0,Sido's FC,Nigeria,"End of loanJul 14, 2021",out,2021
+1569,Kalmar FF,David Majak,20,Centre-Forward,Southern Sudan,0,Tusker FC,Kenya,loan transfer,in,2021
+1570,Kalmar FF,Fidan Aliti,27,Left-Back,Kosovo,700000,FC Zürich,Switzerland,"End of loanJun 30, 2021",in,2021
+1571,Kalmar FF,Maxwell,26,Left Midfield,Brazil,200000,Sport Recife,Brazil,"End of loanJul 31, 2021",in,2021
+1572,Kalmar FF,Fidan Aliti,27,Left-Back,Kosovo,700000,FC Zürich,Switzerland,1200000,out,2021
+1573,Kalmar FF,Isak Magnusson,23,Right Winger,Sweden,250000,Östers IF,Sweden,0,out,2021
+1574,Kalmar FF,Alex Mortensen,18,Centre-Forward,Sweden,25000,Groningen U21,Netherlands,loan transfer,out,2021
+1575,Kalmar FF,David Majak,20,Centre-Forward,Southern Sudan,0,IFK Luleå,Sweden,loan transfer,out,2021
+1576,Kalmar FF,Maxwell,26,Left Midfield,Brazil,200000,Guarani,Brazil,loan transfer,out,2021
+1577,Kalmar FF,Elias Olsson,18,Centre-Back,Sweden,200000,Groningen U21,Netherlands,loan transfer,out,2021
+1578,Malmö FF,Sergio Peña,25,Attacking Midfield,Peru,1200000,FC Emmen,Netherlands,1000000,in,2021
+1579,Malmö FF,Martin Olsson,33,Left-Back,Sweden,700000,Häcken,Sweden,500000,in,2021
+1580,Malmö FF,Niklas Moisander,35,Centre-Back,Finland,600000,Werder Bremen,Germany,free transfer,in,2021
+1581,Malmö FF,Peter Gwargis,20,Left Winger,Sweden,300000,Brighton U23,England,free transfer,in,2021
+1582,Malmö FF,Ismael Diawara,26,Goalkeeper,Mali,500000,Degerfors,Sweden,0,in,2021
+1583,Malmö FF,Malik Abubakari,21,Centre-Forward,Ghana,600000,Moreirense ,Portugal,0,in,2021
+1584,Malmö FF,Romain Gall,26,Right Winger,United States,300000,Örebro SK,Sweden,"End of loanAug 4, 2021",in,2021
+1585,Malmö FF,Amel Mujanic,20,Central Midfield,Sweden,150000,Hobro IK,Denmark,"End of loanJun 30, 2021",in,2021
+1586,Malmö FF,Hugo Andersson,22,Centre-Back,Sweden,300000,Hobro IK,Denmark,"End of loanJun 30, 2021",in,2021
+1587,Malmö FF,Pavle Vagic,21,Defensive Midfield,Sweden,500000,Rosenborg,Norway,1000000,out,2021
+1588,Malmö FF,Marko Johansson,22,Goalkeeper,Sweden,750000,Hamburger SV,Germany,600000,out,2021
+1589,Malmö FF,Hugo Andersson,22,Centre-Back,Sweden,300000,Värnamo,Sweden,loan transfer,out,2021
+1590,Malmö FF,Aleksander Nilsson,18,Defensive Midfield,Sweden,0,Jammerbugt FC,Denmark,loan transfer,out,2021
+1591,Malmö FF,Amin Sarr,20,Right Winger,Sweden,500000,Mjällby AIF,Sweden,loan transfer,out,2021
+1592,Malmö FF,David Edvardsson,19,Central Midfield,Sweden,150000,Jammerbugt FC,Denmark,loan transfer,out,2021
+1593,Malmö FF,Ismaël Sidibé,19,Centre-Back,Mali,25000,Jammerbugt FC,Denmark,loan transfer,out,2021
+1594,Malmö FF,Mubaarak Nuh,19,Left Winger,Sweden,100000,Jammerbugt FC,Denmark,loan transfer,out,2021
+1595,Malmö FF,Amel Mujanic,20,Central Midfield,Sweden,150000,Östers IF,Sweden,loan transfer,out,2021
+1596,Mjällby AIF,Magnus Wörts,22,Centre-Back,Denmark,250000,HB Köge,Denmark,free transfer,in,2021
+1597,Mjällby AIF,Carlos Moros,28,Centre-Back,Spain,300000,LKS Lodz,Poland,free transfer,in,2021
+1598,Mjällby AIF,Amin Sarr,20,Right Winger,Sweden,500000,Malmö FF,Sweden,loan transfer,in,2021
+1599,Mjällby AIF,Elias Andersson,25,Central Midfield,Sweden,400000,Djurgarden,Sweden,loan transfer,in,2021
+1600,Mjällby AIF,Sam Johnson,28,Centre-Forward,Liberia,500000,No club,No country,0,in,2021
+1601,Mjällby AIF,Otto Rosengren,18,midfield,Sweden,25000,Mjällby U19,Sweden,0,in,2021
+1602,Mjällby AIF,Noah Persson,18,attack,Sweden,25000,Mjällby U19,Sweden,0,in,2021
+1603,Mjällby AIF,Eric Björkander,25,Centre-Back,Sweden,700000,Altay SK,Turkey,0,out,2021
+1604,Mjällby AIF,Ludvig Carlius,20,midfield,Sweden,50000,IFK Malmö,Sweden,loan transfer,out,2021
+1605,Mjällby AIF,Daan Klinkenberg,25,Centre-Back,Netherlands,300000,No club,No country,0,out,2021
+1606,Mjällby AIF,Neftali Manzambi,24,Centre-Forward,Switzerland,200000,Sporting Gijón,Spain,"End of loanJun 30, 2021",out,2021
+1607,IFK Norrköping,Yahav Gurfinkel,23,Left-Back,Israel,400000,Maccabi Haifa,Israel,free transfer,in,2021
+1608,IFK Norrköping,Edvin Tellgren,16,Centre-Back,Sweden,50000,Karlslunds IF,Sweden,0,in,2021
+1609,IFK Norrköping,Sead Haksabanovic,22,Left Winger,Montenegro,5500000,Rubin Kazan,Russia,6500000,out,2021
+1610,IFK Norrköping,Ísak Bergmann Jóhannesson,18,Attacking Midfield,Iceland,3500000,FC Copenhagen,Denmark,4500000,out,2021
+1611,IFK Norrköping,Manasse Kusu,19,Defensive Midfield,Sweden,150000,Östers IF,Sweden,loan transfer,out,2021
+1612,IFK Norrköping,Lucas Lima,19,Centre-Forward,Sweden,50000,Östers IF,Sweden,loan transfer,out,2021
+1613,IFK Norrköping,Kevin Álvarez,25,Right-Back,Honduras,100000,RCD España,Honduras,loan transfer,out,2021
+1614,IK Sirius,Herman Sjögrell,20,Right Winger,Sweden,300000,Örgryte,Sweden,400000,in,2021
+1615,IK Sirius,Moustafa Zeidan,23,Central Midfield,Sweden,500000,Jönköping,Sweden,0,in,2021
+1616,IK Sirius,August Ahlin,24,Goalkeeper,Sweden,10000,Gamla Upsala SK,Sweden,0,in,2021
+1617,IK Sirius,Dennis Widgren,27,Left-Back,Sweden,500000,Hammarby,Sweden,loan transfer,in,2021
+1618,IK Sirius,Edi Sylisufaj,21,Centre-Forward,Kosovo,300000,Falkenberg,Sweden,loan transfer,in,2021
+1619,IK Sirius,Samuel Wikman,19,Central Midfield,Sweden,25000,Sirius U19,Sweden,0,in,2021
+1620,IK Sirius,Tim Olsson,17,defence,Sweden,25000,Sirius U19,Sweden,0,in,2021
+1621,IK Sirius,Adam Wikman,17,midfield,Sweden,25000,Sirius U19,Sweden,0,in,2021
+1622,IK Sirius,Emil Özkan,18,midfield,Sweden,25000,Sirius U19,Sweden,0,in,2021
+1623,IK Sirius,Axel Björnström,25,Left-Back,Sweden,500000,Arsenal Tula,Russia,200000,out,2021
+1624,IK Sirius,Lukas Jonsson,28,Goalkeeper,Sweden,300000,Vendsyssel FF,Denmark,0,out,2021
+1625,IK Sirius,Mohammed Saeid,30,Central Midfield,Eritrea,350000,Trelleborg,Sweden,0,out,2021
+1626,IK Sirius,Joakim Persson,19,Centre-Forward,Sweden,150000,Brage,Sweden,loan transfer,out,2021
+1627,IK Sirius,Ekin Bulut,24,Centre-Forward,Sweden,100000,Vasalund,Sweden,loan transfer,out,2021
+1628,IK Sirius,Samuel Wikman,19,Central Midfield,Sweden,25000,Gefle,Sweden,loan transfer,out,2021
+1629,Varbergs BoIS,Des Kunst,21,Left Winger,Netherlands,300000,AZ Alkmaar U21,Netherlands,free transfer,in,2021
+1630,Varbergs BoIS,Adnan Kojic,25,Right Midfield,Sweden,200000,No club,No country,0,in,2021
+1631,Varbergs BoIS,Alexander Johansson,25,Centre-Forward,Sweden,150000,Brage,Sweden,"End of loanJun 30, 2021",in,2021
+1632,Varbergs BoIS,Rasmus Cronvall,19,Centre-Forward,Sweden,100000,Tvååkers IF,Sweden,"End of loanJul 14, 2021",in,2021
+1633,Varbergs BoIS,Rasmus Cronvall,19,Centre-Forward,Sweden,100000,Ullareds IK,Sweden,"End of loanAug 15, 2021",in,2021
+1634,Varbergs BoIS,Albin Mörfelt,21,Right Winger,Sweden,250000,Vålerenga,Norway,0,out,2021
+1635,Varbergs BoIS,Jakob Lindahl,24,Left Midfield,Sweden,25000,Västerås SK,Sweden,0,out,2021
+1636,Varbergs BoIS,August Strömberg,29,Goalkeeper,Sweden,150000,Kongsvinger,Norway,0,out,2021
+1637,Varbergs BoIS,Adama Fofana,21,Left-Back,Cote d'Ivoire,500000,Dijon,France,0,out,2021
+1638,Varbergs BoIS,Gustav Nordh,21,Left Winger,Sweden,25000,Gefle,Sweden,loan transfer,out,2021
+1639,Varbergs BoIS,Rasmus Cronvall,19,Centre-Forward,Sweden,100000,Ullareds IK,Sweden,loan transfer,out,2021
+1640,Varbergs BoIS,Rasmus Cronvall,19,Centre-Forward,Sweden,100000,Tvååkers IF,Sweden,loan transfer,out,2021
+1641,Örebro SK,Nasiru Moro,24,Centre-Back,Ghana,200000,HNK Gorica,Croatia,200000,in,2021
+1642,Örebro SK,Jiloan Hamad,30,Attacking Midfield,Iraq,700000,HNK Gorica,Croatia,free transfer,in,2021
+1643,Örebro SK,Nahir Besara,30,Second Striker,Sweden,600000,Hatta Club,United Arab Emirates,free transfer,in,2021
+1644,Örebro SK,Ahmed Yasin,30,Right Winger,Iraq,500000,Denizlispor,Turkey,free transfer,in,2021
+1645,Örebro SK,Patrick Luan,22,Centre-Forward,Brazil,350000,FC Sion,Switzerland,loan transfer,in,2021
+1646,Örebro SK,Richard Friday,21,Right Winger,Nigeria,150000,Spartaks,Latvia,loan transfer,in,2021
+1647,Örebro SK,Erik Björndahl,31,Centre-Forward,Sweden,200000,Västerås SK,Sweden,loan transfer,out,2021
+1648,Örebro SK,Taha Abdi Ali,23,Right Midfield,Sweden,25000,Västerås SK,Sweden,loan transfer,out,2021
+1649,Örebro SK,Noel Milleskog,19,midfield,Sweden,100000,Karlslunds IF,Sweden,loan transfer,out,2021
+1650,Örebro SK,Alfred Ajdarevic,23,Left Midfield,Kosovo,100000,No club,No country,0,out,2021
+1651,Örebro SK,Rasmus Karjalainen,25,Centre-Forward,Finland,250000,Fortuna Sittard,Netherlands,"End of loanJun 30, 2021",out,2021
+1652,Örebro SK,Deniz Hümmet,24,Centre-Forward,Turkey,500000,Elfsborg,Sweden,"End of loanAug 31, 2021",out,2021
+1653,Örebro SK,Romain Gall,26,Right Winger,United States,300000,Malmö FF,Sweden,"End of loanAug 4, 2021",out,2021
+1654,Östersunds FK,Ronald Mukiibi,29,Centre-Back,Uganda,350000,No club,No country,0,in,2021
+1655,Östersunds FK,Ronald Mukiibi,29,Centre-Back,Uganda,350000,No club,No country,0,out,2021
